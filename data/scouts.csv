@@ -1,19 +1,19 @@
 scout,text,score
-RB,Roubada de Bola,1.7 
-FC,Falta cometida,-0.5 
-GC,Gol Contra,-6.0 
-CA,Cartão amarelo,-2.0 
-CV,Cartão Vermelho,-5.0 
-SG,Jogos sem sofrer gols,5.0 
-DD,Defesa Difícil,3.0 
-DP,Defesa de pênalti,7.0 
-GS,Gol Sofrido,-2.0 
-FS,Falta sofrida,0.5
-PE,Passe errado,-0.3
-A,Assistência,5.0
-FT,Finalização na trave,3.5
-FD,Finalização defendida,1.0
-FF,Finalização fora,0.7
-G,Gol,8.0
-I,Impedimento,-0.5
-PP,Pênalti perdido,-3.5
+scout.RB,Roubada de Bola,1.7
+scout.FC,Falta cometida,-0.5
+scout.GC,Gol Contra,-6.0
+scout.CA,Cartão amarelo,-2.0
+scout.CV,Cartão Vermelho,-5.0
+scout.SG,Jogos sem sofrer gols,5.0
+scout.DD,Defesa Difícil,3.0
+scout.DP,Defesa de pênalti,7.0
+scout.GS,Gol Sofrido,-2.0
+scout.FS,Falta sofrida,0.5
+scout.PE,Passe errado,-0.3
+scout.A,Assistência,5.0
+scout.FT,Finalização na trave,3.5
+scout.FD,Finalização defendida,1.0
+scout.FF,Finalização fora,0.7
+scout.G,Gol,8.0
+scout.I,Impedimento,-0.5
+scout.PP,Pênalti perdido,-3.5
