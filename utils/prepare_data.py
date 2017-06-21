@@ -88,10 +88,32 @@ def prepare_round(round_filename):
 
         players = players.rename(columns={'atleta_id': 'player_id',
                                           'nome': 'name'})
-        #players = players.rename(columns=get_scouts_dict())
 
+        valid_scouts, scouts = get_valid_scouts(players)
+
+        used_fields = ['name', 'player_id', 'team', 'team_position',
+                       'position', 'status'] + valid_scouts
+
+        players = players[used_fields]
+
+        players['points'] = players[valid_scouts].fillna(0).dot(scouts)
+
+        players.loc[:, tuple(valid_scouts)] = players[valid_scouts].fillna(0)
         return players
 
+
+def get_valid_scouts(players):
+    scouts = pd.read_csv('./data/scouts.csv')
+    valid_scouts = [s for s in scouts.scout if s in players.keys()]
+    scouts = scouts[scouts.scout.isin(valid_scouts)]
+    scouts = scouts[['scout', 'score']].set_index('scout')
+
+    return valid_scouts, scouts
+
+
+def get_data_for_position(players, position):
+    position_data = players[players.position == position].copy()
+    return position_data
 
 if __name__ == '__main__':
     players = prepare_round(sys.argv[1])
