@@ -26,5 +26,5 @@ def round_score(round_num):
 if __name__ == '__main__':
     round = int(sys.argv[1])
     players_score = round_score(round)
-    players_score.to_csv(f'data/players-score-round-{round - 1}.csv')
-    players_score.to_pickle(f'data/players-score-round-{round - 1}.bz2')
+    players_score.to_csv(f'data/players-score-round-{round}.csv')
+    players_score.to_pickle(f'data/players-score-round-{round}.bz2')
