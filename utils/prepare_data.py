@@ -53,10 +53,11 @@ def prepare_round(round_filename):
     Read data from the rounds adapting column names and normalizing.
     """
     with open(round_filename) as f:
-        full_info = json.loads(f.read())
-        players = pd.io.json.json_normalize(full_info['atletas'])
+        players = pd.read_pickle(round_filename)
+        scout_df = players.scout.apply(pd.Series).fillna(0)
+        players = pd.concat([players, scout_df], axis=1).drop('scout', axis=1)
 
-        teams = full_info['clubes']
+        teams = json.loads(open('data/teams.json').read())
         status = get_status_dict()
         positions = get_positions_dict()
 
@@ -86,15 +87,18 @@ def prepare_round(round_filename):
                                  new_column='status',
                                  category=True)
 
-        players = players.rename(columns={'atleta_id': 'player_id',
-                                          'nome': 'name'})
+        players['player_id'] = players.index
+        players = players.rename(columns={'nome': 'name', 'apelido':
+                                          'nickname'})
 
         valid_scouts, scouts = get_valid_scouts(players)
 
         used_fields = ['name', 'player_id', 'team', 'team_position',
-                       'position', 'status'] + valid_scouts
+                       'nickname', 'position', 'status'] + valid_scouts
 
         players = players[used_fields]
+
+        players['status_code'] = players['status'].cat.codes
 
         players['points'] = players[valid_scouts].fillna(0).dot(scouts)
 
