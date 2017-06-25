@@ -88,13 +88,21 @@ def prepare_round(round_filename):
                                  category=True)
 
         players['player_id'] = players.index
-        players = players.rename(columns={'nome': 'name', 'apelido':
-                                          'nickname'})
+        players = players.rename(columns={'nome': 'name',
+                                          'apelido': 'nickname',
+                                          'rodada_id': 'round_id'})
 
         valid_scouts, scouts = get_valid_scouts(players)
 
         used_fields = ['name', 'player_id', 'team', 'team_position',
-                       'nickname', 'position', 'status'] + valid_scouts
+                       'nickname', 'position', 'status', 'round_id',
+                       'home']
+
+        used_fields.extend(valid_scouts)
+
+        round = players.iloc[0]['round_id']
+        round_info = pd.read_csv(f'./data/matches/matches_round_{round}.csv')
+        players['home'] = players.team.isin(round_info.home)
 
         players = players[used_fields]
 
