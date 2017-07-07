@@ -1,0 +1,821 @@
+atleta_id,apelido,clube_id,foto,jogos_num,media_num,nome,pontos_num,posicao_id,preco_num,rodada_id,scout,status_id,variacao_num
+94214,Léo Duarte,262,https://s.glbimg.com/es/sde/f/2017/04/24/b7aa73dc8eb8be2ac3c08bcada8359a6_FORMATO.png,0,0.0,Leonardo Campos Duarte da Silva,0.0,3,3.0,10,{},6,0.0
+94249,Lourency,315,https://s.glbimg.com/es/sde/f/2017/04/24/31a53361a6013019b911ee81b38648a9_FORMATO.png,1,-2.8,Lourency do Nascimento Rodrigues,-2.8,5,1.73,10,"{'CA': 1, 'FC': 2, 'FF': 2, 'PE': 4}",6,-1.27
+94138,Felipe Vizeu,262,https://s.glbimg.com/es/sde/f/2017/04/24/0ba0314196e998895d5b423d2a0f4fd0_FORMATO.png,3,-0.13,Felipe dos Reis Pereira Vizeu do Carmo,0.0,5,3.46,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0}",6,0.0
+94105,Devid,314,https://s.glbimg.com/es/sde/f/2017/04/28/7f5898b6f55d8d2c22bc2f9fd72c1067_FORMATO.png,0,0.0,Devid de Santana Silva,0.0,5,1.0,10,{},6,0.0
+94144,Thallyson,292,https://s.glbimg.com/es/sde/f/2017/02/14/3e158bd1bb119b3c60c1c2d557560d42_FORMATO.png,7,-0.53,Thallyson Gabriel Lobo Seabra,0.0,4,0.78,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.01
+94336,Mateus Norton,266,https://s.glbimg.com/es/sde/f/2017/01/13/b460246a299a9fb8c1e4a2dd1436cdec_FORMATO.png,3,-1.13,Mateus Norton Gomes Chaves,0.0,4,0.77,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+94154,Maycon,264,https://s.glbimg.com/es/sde/f/2017/04/28/66122f2239f4f742f47cf5008882313f_FORMATO.png,10,2.32,Maycon de Andrade Barberan,-0.4,4,6.59,10,"{'FC': 1, 'FD': 1, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 3, 'RB': 0}",7,-0.16
+94067,Matheus Fernandes,263,https://s.glbimg.com/es/sde/f/2017/04/18/f7747c09eac1f0aee06f02c37fa257b6_FORMATO.png,7,3.4,Matheus Fernandes Siqueira,0.0,4,4.77,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+94045,Diego Gomes,277,https://s.glbimg.com/es/sde/f/2017/05/02/c6169204fbfca94a9affdd9de721a72c_FORMATO.png,0,0.0,Diego Gomes dos Santos,0.0,4,1.0,10,{},6,0.0
+94044,John Victor,277,https://s.glbimg.com/es/sde/f/2017/05/02/0eab88c901790607c556e504aa31b200_FORMATO.png,0,0.0,John Victor Maciel Furtado,0.0,1,1.0,10,{},6,0.0
+94004,Andrei Alba,315,https://s.glbimg.com/es/sde/f/2017/04/24/047276d0aef73aef2924855c083d4ceb_FORMATO.png,0,0.0,Andrei Alba,0.0,4,2.0,10,{},5,0.0
+94207,Guilherme,263,https://s.glbimg.com/es/sde/f/2017/04/17/9b919498890d4bf28c289ff60c4e590e_FORMATO.png,6,1.48,Guilherme Augusto Vieira dos Santos,-0.1,5,4.09,10,"{'A': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 4, 'PE': 6, 'RB': 0}",2,0.0
+94288,Lima,315,https://s.glbimg.com/es/sde/f/2016/04/27/059a0e58f2adc09337048722ca4f5ae4_FORMATO.png,0,0.0,Guilherme Natan de Lima,0.0,4,1.0,10,{},6,0.0
+94102,Matheus,314,https://s.glbimg.com/es/sde/f/2017/04/28/08e4242f18d2365a93ecf92b2ce9fd52_FORMATO.png,0,0.0,Matheus Gutz,0.0,1,1.0,10,{},6,0.0
+94854,César,282,https://s.glbimg.com/es/sde/f/2017/04/25/6da76c24ea8925abba30757a28a54aae_FORMATO.png,0,0.0,César de São José Morais,0.0,2,1.0,10,{},6,0.0
+94147,Lucas Ferreira,292,https://s.glbimg.com/es/sde/f/2016/05/01/a38c7b2a46cf04e24085ad1f45ce78bc_FORMATO.png,0,0.0,Lucas Ferreira Amaral,0.0,1,1.0,10,{},6,0.0
+94765,Léo Principe,264,https://s.glbimg.com/es/sde/f/2017/04/23/e35ffb8313b5c8808ee460300af5bb39_FORMATO.png,0,0.0,Leonardo Peixoto Principe,0.0,2,3.0,10,{},6,0.0
+94509,Raphael Veiga,275,https://s.glbimg.com/es/sde/f/2017/04/18/7f93c8857d2480594a996b33e07528f7_FORMATO.png,4,0.9500000000000001,Raphael Cavalcante Veiga,0.0,4,4.58,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0}",2,0.0
+94445,Juninho,292,https://s.glbimg.com/es/sde/f/2016/05/01/3702c1c16aa8563dfc0d7e4f3399cadd_FORMATO.png,4,-0.6000000000000001,Edimar Ribeiro da Costa Júnior,0.0,5,0.77,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0}",6,0.0
+94894,Capixaba,282,https://s.glbimg.com/es/sde/f/2016/07/07/6d9964a0f815acd56932767b61858c13_FORMATO.png,1,0.4,João Victor da Vitória Fernandes,0.0,5,0.87,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0}",6,0.0
+94583,Pedro,266,https://s.glbimg.com/es/sde/f/2017/01/13/f4d7c80ea8f6805a9a0875d3a9256cc5_FORMATO.png,1,1.8,Pedro Guilherme Abreu dos Santos,0.0,5,4.25,10,"{'FF': 0, 'PE': 0, 'RB': 0}",2,0.0
+94857,Jonatan Gomez,276,https://s.glbimg.com/es/sde/f/2017/06/27/500860f593a723ac171bd25de5474397_FORMATO.png,0,0.0,Jonatan David Gomez Ospina,0.0,4,6.0,10,{},6,0.0
+36540,Juan,262,https://s.glbimg.com/es/sde/f/2017/04/24/b3a0848ae3a447c87cf7c807185b37a6_FORMATO.png,5,3.98,Juan Silveira dos Santos,0.0,3,5.92,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+94962,Lucão,283,https://s.glbimg.com/es/sde/f/2017/04/22/913ef9074a98f2725e2f2cd12d43f7db_FORMATO.png,0,0.0,Lucas Emanoel Leite Romão,0.0,1,1.0,10,{},6,0.0
+94931,Lucas Fernandes,276,https://s.glbimg.com/es/sde/f/2016/05/01/0a47d84040286532fb5d90cc746b49b3_FORMATO.png,2,3.15,Lucas Fernandes da Silva,4.1,4,4.04,10,"{'FD': 1, 'FF': 2, 'FS': 0, 'RB': 1}",6,0.46
+94968,Juninho Capixaba,265,https://s.glbimg.com/es/sde/f/2017/02/21/5bb13f78434bf46ed1e78c01d8593512_FORMATO.png,0,0.0,Luis Antônio da Rocha Júnior,0.0,2,2.0,10,{},6,0.0
+94975,Marco Antônio,265,https://s.glbimg.com/es/sde/f/2017/02/21/a2be72d3733854b4e00000008373cbbd_FORMATO.png,0,0.0,Marco Antônio Rosa Furtado Júnior,0.0,4,3.0,10,{},6,0.0
+95022,Thalis ,282,https://s.glbimg.com/es/sde/f/2017/04/03/a4b96c74f796865cee82e21548874cc4_FORMATO.png,1,0.2,Thalis Henrique Cantanhede,0.0,4,0.81,10,"{'FS': 0, 'PE': 0}",6,0.0
+95023,Luis Guilherme,282,https://s.glbimg.com/es/sde/f/2017/04/25/f29f6e2b42f604bc517f157512d669f6_FORMATO.png,0,0.0,Luis Guilherme Castro de Melo,0.0,5,2.0,10,{},6,0.0
+94286,Perotti,315,https://s.glbimg.com/es/sde/f/2017/04/25/9a67368382ccea91470efb3e85403f0b_FORMATO.png,1,0.1,Pedro Henrique Perotti,0.0,5,1.57,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0}",6,0.0
+94966,Deijair ,265,https://s.glbimg.com/es/sde/f/2017/02/21/78e66c5df2b907d4d815509e312cf19f_FORMATO.png,0,0.0,Deijair dos Santos Nunes,0.0,1,1.0,10,{},6,0.0
+94930,Lucas Paquetá,262,https://s.glbimg.com/es/sde/f/2017/04/24/cacc5206bdff6d3f34559bc4e2781d51_FORMATO.png,1,-0.8,Lucas Tolentino Coelho de Lima,0.0,4,1.96,10,"{'FC': 0, 'PE': 0}",6,0.0
+94971,Luís Fernando,265,https://s.glbimg.com/es/sde/f/2017/02/21/f8d269154cfbc785e5f87f026e341b3a_FORMATO.png,0,0.0,Luís Fernando Santos da Conceição,0.0,4,3.0,10,{},6,0.0
+95054,Júnior Ramos,265,https://s.glbimg.com/es/sde/f/2017/02/21/f383d4a15e59c944585c2931a507d422_FORMATO.png,0,0.0,Waltenecir da Silva Ramos Júnior,0.0,4,1.0,10,{},6,0.0
+95058,Moraes,262,https://s.glbimg.com/es/sde/f/2017/04/24/f4c96c6b48180d485af9f86fa6068922_FORMATO.png,0,0.0,Onitlasi Júnior de Moraes Rodrigues,0.0,2,1.0,10,{},6,0.0
+94978,Kaynan,265,https://s.glbimg.com/es/sde/f/2017/02/21/13f8834fcead83b104fa6b9b86d35473_FORMATO.png,0,0.0,Kaynan Ribeiro Cruz,0.0,5,1.0,10,{},6,0.0
+95180,Índio,292,https://s.glbimg.com/es/sde/f/2017/05/11/4fd214518b14eb3d936a1bb566f6945f_FORMATO.png,0,0.0,Wildson Silva de Melo,0.0,5,2.0,10,{},6,0.0
+95263,Luquinhas,266,https://s.glbimg.com/es/sde/f/2017/06/09/33a69667cd6eca8e885f93b10abccb8c_FORMATO.png,0,0.0,Lucas Henrique dos Santos,0.0,4,1.0,10,{},6,0.0
+95332,Marcinho,276,https://s.glbimg.com/es/sde/f/2017/05/25/27b1b870560cc8ddfeb933e48b232bb5_FORMATO.png,10,2.04,Marcio Antonio de Sousa Júnior,2.0,5,4.61,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 1, 'FF': 2, 'FS': 2, 'G': 0, 'I': 0, 'PE': 7, 'RB': 1}",7,-0.1
+95127,Nicolas,293,https://s.glbimg.com/es/sde/f/2017/04/23/056a95089efcf92df7bb3f732a875306_FORMATO.png,2,2.8,Nicolas Vichiatto da Silva,0.0,2,4.72,10,"{'CA': 0, 'FC': 0, 'PE': 0, 'SG': 0}",7,0.0
+95335,Matheus Jesus,303,https://s.glbimg.com/es/sde/f/2017/05/02/d356dc4fba9e7cebb7db45b79c3e8d25_FORMATO.png,0,0.0,Matheus Sousa de Jesus,0.0,4,4.0,10,{},6,0.0
+95126,Yago,293,https://s.glbimg.com/es/sde/f/2017/04/23/4c090a0a625b4d824e5a755f4a428f46_FORMATO.png,1,-0.9,Yago César da Silva,0.0,5,1.31,10,"{'FC': 0, 'FF': 0, 'PE': 0}",7,0.0
+95315,Índio,294,https://s.glbimg.com/es/sde/f/2017/04/24/f40e8a88ce85dc28ee0a123c0052d946_FORMATO.png,0,0.0,Gustavo Marcelo Cardoso Soares,0.0,5,2.0,10,{},6,0.0
+95483,Luiz Felipe,315,https://s.glbimg.com/es/sde/f/2017/04/24/7363784a4f9cfb861280071ced864b12_FORMATO.png,0,0.0,Luiz Felipe Schwartz Dal Piva ,0.0,1,2.0,10,{},6,0.0
+95651,Filipinho,282,https://s.glbimg.com/es/sde/f/2017/04/03/0632627beb34d4add345d985b197b8d6_FORMATO.png,0,0.0,Filipe Rodrigues de Souza Santos,0.0,5,2.0,10,{},6,0.0
+95660,Araruna,276,https://s.glbimg.com/es/sde/f/2017/02/09/565624d090495af948a09ef2a6efa7c7_FORMATO.png,1,0.2,Felipe Araruna Hoffman,0.2,4,1.6,10,"{'FC': 2, 'FS': 2, 'PE': 5, 'RB': 1}",7,-0.4
+95662,Lucas Kal,276,https://s.glbimg.com/es/sde/f/2016/06/28/729e1834df2c58e399827dd968c022a1_FORMATO.jpeg,0,0.0,Lucas Kal Schenfeld Progioli,0.0,3,2.0,10,{},6,0.0
+95543,Renan Gorne,263,https://s.glbimg.com/es/sde/f/2017/04/18/93446ecc92fba9fefb3b8e5fd410ff12_FORMATO.png,1,-3.5,Renan Gorne Silva,0.0,5,0.76,10,"{'CA': 0, 'FC': 0}",6,0.0
+94985,Dodô,294,https://s.glbimg.com/es/sde/f/2017/04/24/65670cbd709a8dd38cea2f806b28576c_FORMATO.png,9,3.75,Domilson Cordeiro dos Santos,0.0,2,9.64,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+95638,Marcelo,263,https://s.glbimg.com/es/sde/f/2017/04/18/bcd7b8ce7931a3995c1ac8aaacd657b5_FORMATO.png,3,4.0,Marcelo da Conceição Benevenuto Malaquias,7.6,3,4.94,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 2, 'FS': 0, 'PE': 2, 'RB': 4, 'SG': 0}",2,0.86
+95798,Gustavo Bochecha,263,https://s.glbimg.com/es/sde/f/2017/05/11/fc43f1baa7f4e4d8e73b07ba4f24137e_FORMATO.png,0,0.0,Gustavo Costa da Silva Machado,0.0,4,2.0,10,{},5,0.0
+95738,Trauco,262,https://s.glbimg.com/es/sde/f/2017/04/24/0d2e64236a719e0a7a2402eed79486f1_FORMATO.png,6,3.43,Miguel Ángel Trauco Saavedra,3.4,2,6.48,10,"{'CA': 0, 'FC': 5, 'FD': 1, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 6, 'RB': 1, 'SG': 1}",7,-0.15
+95780,Zé Ricardo,262,https://s.glbimg.com/es/sde/f/2017/04/24/d095a3654a18596ab9061e4facb21d5e_FORMATO.png,10,4.12,José Ricardo Mannarino,3.7199999999999998,6,11.4,10,{},7,-0.27
+95794,Nathan,282,https://s.glbimg.com/es/sde/f/2017/05/04/b74ef267184f334baa67220e0d8d5a01_FORMATO.png,0,0.0,Nathanael Ananias da Silva,0.0,3,1.0,10,{},6,0.0
+95770,Vitinho,275,https://s.glbimg.com/es/sde/f/2017/04/18/6c5a1e7dd18a8228e581b5ca0798eec1_FORMATO.jpeg,0,0.0,Victor Hugo Santana Carvalho,0.0,4,3.0,10,{},6,0.0
+95820,Léo Santos,264,https://s.glbimg.com/es/sde/f/2017/04/23/1d114129100c1552c9d2fac173daf8ea_FORMATO.jpeg,1,5.0,Leonardo Rodrigues dos Santos,0.0,3,4.38,10,{'SG': 0},6,0.0
+95831,Caíque,276,https://s.glbimg.com/es/sde/f/2017/06/16/4d8ec695b7a6792f35e8eb992f9c59ad_FORMATO.png,0,0.0,Caique da Silva Maria,0.0,2,1.0,10,{},6,0.0
+95837,Fabián Noguera,277,https://s.glbimg.com/es/sde/f/2017/05/02/90ea91f7ba7a3941f90047a0aca02c82_FORMATO.png,2,4.75,Fabián Ariel Noguera,4.5,3,3.76,10,"{'FC': 1, 'FS': 1, 'PE': 2, 'RB': 3, 'SG': 0}",2,0.27
+95843,Sander,292,https://s.glbimg.com/es/sde/f/2017/06/13/c768f4f096a03a7a8d7642fe55c4ddb2_FORMATO.png,5,4.96,Sander Henrique Bortolotto,7.9,2,5.66,10,"{'FC': 4, 'FS': 2, 'PE': 4, 'RB': 3, 'SG': 1}",7,1.2
+95849,Felipe,265,https://s.glbimg.com/es/sde/f/2017/02/21/e708f975f303fd9301b35bbd18a258b2_FORMATO.png,0,0.0,Felipe Gustavo Domingos,0.0,1,1.0,10,{},6,0.0
+95936,Daniel Fuzato,275,https://s.glbimg.com/es/sde/f/2017/04/18/0521fd45c49f6fb1491a64df501d2e8d_FORMATO.png,0,0.0,Daniel Cerântula Fuzato,0.0,1,1.0,10,{},6,0.0
+96055,Yan,294,https://s.glbimg.com/es/sde/f/2017/04/24/2f02afc14f51ead3d8362b52708edf53_FORMATO.png,0,0.0,Yan Medeiros Sasse,0.0,4,1.0,10,{},6,0.0
+96328,Matheus Oliveira,277,https://s.glbimg.com/es/sde/f/2017/05/02/07446f453b7f268fbac590fadba6a201_FORMATO.png,0,0.0,Matheus Oliveira Santos,0.0,4,2.0,10,{},6,0.0
+96089,Machado,284,https://s.glbimg.com/es/sde/f/2017/04/23/067af9a9fbef9be7febed7aa5e13f102_FORMATO.png,1,9.7,Luiz Filipe da Rosa Machado,0.0,4,4.11,10,"{'FC': 0, 'PE': 0, 'RB': 0}",2,0.0
+96349,Geovane,294,https://s.glbimg.com/es/sde/f/2017/04/24/4e836a43a284121c7d2754809098d92c_FORMATO.png,0,0.0,Geovane Henrique Pereira de Souza,0.0,3,3.0,10,{},6,0.0
+96411,Cassiano,265,https://s.glbimg.com/es/sde/f/2017/05/03/35ddf4fb01f32b6888c09948821bda1d_FORMATO.png,0,0.0,Cassiano Silva dos Santos,0.0,1,1.0,10,{},6,0.0
+95539,Fabrício,292,https://s.glbimg.com/es/sde/f/2017/02/14/d7be73cf3ee15933e6b1c7812db4ab8c_FORMATO.png,6,0.37,Fabrício Silva Costa,0.0,4,1.3900000000000001,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+96464,Mauricio,314,https://s.glbimg.com/es/sde/f/2017/05/11/8f1984fabe5775e0c6485d0c7e2cdd00_FORMATO.png,0,0.0,Mauricio Tomazi Pinheiro,0.0,3,2.0,10,{},6,0.0
+95978,Ty Sandows,284,https://s.glbimg.com/es/sde/f/2017/04/23/bff6a206f9b5cf27f1d2b5dc668c5f76_FORMATO.png,0,0.0,Tyroane Joe Sandows,0.0,5,1.0,10,{},6,0.0
+96591,Renan Lodi,293,https://s.glbimg.com/es/sde/f/2017/04/23/cfd0bead775744f8d276b9988eeee824_FORMATO.png,0,0.0,Renan Augusto Lodi dos Santos,0.0,2,4.0,10,{},6,0.0
+96340,Lima,284,https://s.glbimg.com/es/sde/f/2017/06/07/41b9200af95015f1907da9e66954b08a_FORMATO.jpeg,0,0.0,Vinicius Moreira de Lima,0.0,4,2.0,10,{},6,0.0
+96804,Vitor,314,https://s.glbimg.com/es/sde/f/2017/05/02/55f029a24ac57ff25bbf6a3568dca322_FORMATO.png,0,0.0,Vitor da Silva Vieira,0.0,5,2.0,10,{},6,0.0
+96832,Rodrigo Figueiredo,264,https://s.glbimg.com/es/sde/f/2017/04/20/bef317b8404e13356cc3277dae40f4c9_FORMATO.png,0,0.0,Rodrigo Figueiredo de Carvalho,0.0,4,1.0,10,{},6,0.0
+96831,Carlinhos,264,https://s.glbimg.com/es/sde/f/2017/05/03/ff14836ef129f0c93960c6c4c985b87d_FORMATO.png,0,0.0,Carlos Moisés de Lima,0.0,5,2.0,10,{},6,0.0
+96433,Ralph,282,https://s.glbimg.com/es/sde/f/2017/04/03/31d573bf9a9cb39a1ab39967572631bf_FORMATO.png,4,0.45,Ralph Machado Dias,0.0,4,1.04,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+96870,Emerson,303,https://s.glbimg.com/es/sde/f/2017/05/02/9ee22fc39f2ebcb3732b978222f0f862_FORMATO.png,0,0.0,Emerson Aparecido Leite de Souza Junior,0.0,2,1.0,10,{},6,0.0
+96524,Victor Lindenberg,263,https://s.glbimg.com/es/sde/f/2017/04/18/9ffe76af0e271c08c358033976247c8a_FORMATO.png,0,0.0,Victor Lindenberg Vieira,0.0,2,1.0,10,{},6,0.0
+95876,Douglas,267,https://s.glbimg.com/es/sde/f/2017/04/24/67512c15f89f110e916471e8be3df32e_FORMATO.png,10,5.27,Douglas Luiz Soares de Paulo,3.3,4,16.57,10,"{'CA': 1, 'FC': 2, 'FD': 1, 'FF': 0, 'FS': 1, 'FT': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 3}",7,-0.02
+96965,Léo Lopes,314,https://s.glbimg.com/es/sde/f/2017/05/02/d9e1a4dd290f2c2c5f9e7014577f5c7c_FORMATO.png,0,0.0,Leonardo Thomas Lopes,0.0,1,1.0,10,{},6,0.0
+97322,Gabriel Furtado,275,https://s.glbimg.com/es/sde/f/2017/06/23/b6f602ff015eb0fd2e4305c2b8361284_FORMATO.jpeg,1,-1.5,Gabriel Vinícius de Oliveira Furtado,-1.5,4,0.78,10,"{'CA': 1, 'FC': 1, 'FS': 1, 'PE': 4, 'RB': 1}",6,-0.22
+36612,Zé Roberto,275,https://s.glbimg.com/es/sde/f/2017/04/18/8397713ec780be3eaf28ae8d848c2736_FORMATO.png,3,1.77,José Roberto da Silva Júnior,0.0,2,7.28,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+97228,Santarém,314,https://s.glbimg.com/es/sde/f/2017/05/02/fc55f1db6d41a43491dfc0c217da1c4e_FORMATO.png,0,0.0,Carlos Vitor da Silva Nascimento,0.0,5,1.0,10,{},6,0.0
+97341,Rogério Ceni,276,https://s.glbimg.com/es/sde/f/2017/05/17/e94ae4319c9445845003491a2bb73f6b_FORMATO.png,10,3.7800000000000002,Rogério Ceni,4.27,6,10.19,10,{},7,0.43
+97443,Romercio,294,https://s.glbimg.com/es/sde/f/2017/05/02/f6d968415133af30b7f7594ff3946c27_FORMATO.png,0,0.0,Romercio Pereira da Conceição,0.0,3,2.0,10,{},6,0.0
+97520,Shaylon,276,https://s.glbimg.com/es/sde/f/2017/02/09/81337ea0dca634d71b1201853010e1dd_FORMATO.png,0,0.0,Shaylon Kallyson Cardoso,0.0,4,1.0,10,{},6,0.0
+94885,Léo,314,https://s.glbimg.com/es/sde/f/2017/04/28/8edfb4213f777f54e9a9014c5969eb07_FORMATO.png,0,0.0,Leonardo Felipe Santos da Silva,0.0,2,1.0,10,{},6,0.0
+97315,Mantuan,264,https://s.glbimg.com/es/sde/f/2017/04/23/afd8c7419f77473d128737eb2622b796_FORMATO.png,0,0.0,Guilherme Mantuan,0.0,4,1.0,10,{},5,0.0
+97532,Jean Pineda,287,https://s.glbimg.com/es/sde/f/2017/04/01/c2cf595a92569119a049ee25c8310ba1_FORMATO.png,2,-0.2,Jean Paul Jesús Pineda Cortés,0.0,5,2.38,10,"{'FS': 0, 'PE': 0}",6,0.0
+97527,Matheus Alessandro,266,https://s.glbimg.com/es/sde/f/2017/01/13/8bded1df8c35e489469d2b1a9055ef20_FORMATO.png,2,0.9,Matheus Alessandro dos Santos Pereira,0.0,5,1.1,10,"{'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+96966,Arthur Gomes,277,https://s.glbimg.com/es/sde/f/2017/05/02/0dce55b5ca74aab8f37b77c936bdc107_FORMATO.png,2,1.45,Arthur Gomes Lourenço,0.0,5,1.87,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+97349,Daniel,282,https://s.glbimg.com/es/sde/f/2017/05/04/6d566daae907e707a8bfbd7975033f26_FORMATO.png,0,0.0,Daniel dos Santos Penha,0.0,4,1.0,10,{},6,0.0
+97528,Frazan,266,https://s.glbimg.com/es/sde/f/2017/01/13/695e73041183062305ca4b63ca0c7ea9_FORMATO.png,0,0.0,Wesley Frazan Bernardo,0.0,3,2.0,10,{},6,0.0
+97535,Hiago,315,https://s.glbimg.com/es/sde/f/2017/04/24/f7869b26b810fd7e1e0fc61465eca493_FORMATO.png,0,0.0,Hiago Correa Silveira Cena,0.0,3,1.0,10,{},6,0.0
+97444,Julio Rusch,294,https://s.glbimg.com/es/sde/f/2017/04/24/77d4f9edf4076b00161ea3393eb6f3bd_FORMATO.png,0,0.0,Julio Cezar Rusch,0.0,4,3.0,10,{},6,0.0
+97445,Matheus Iacovelli,275,https://s.glbimg.com/es/sde/f/2017/05/22/c2879f5baa16034be213aa66cf2bdf37_FORMATO.png,1,0.5,Matheus Felipe Camargo Iacovelli,0.0,5,1.6800000000000002,10,{'FS': 0},6,0.0
+97538,Marcio,294,https://s.glbimg.com/es/sde/f/2017/04/24/af90ed18c0e6fc8bef19cc34a80587b8_FORMATO.png,9,4.45,Marcio Marcelo Leite Júnior,-0.7000000000000001,3,6.95,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 1, 'G': 0, 'I': 0, 'PE': 3, 'RB': 0, 'SG': 0}",7,-0.61
+97537,Busanello,315,https://s.glbimg.com/es/sde/f/2017/06/27/6ac892113bf496da619970ae92cf36fa_FORMATO.png,0,0.0,Gabriel Dal Toé Busanello,0.0,2,1.0,10,{},6,0.0
+97536,Bryan,315,https://s.glbimg.com/es/sde/f/2017/06/07/423798cbfcbd349a861fc146b3a5c1e9_FORMATO.png,0,0.0,Bryan Borges Mascarenhas,0.0,4,1.0,10,{},6,0.0
+97546,Marco Túlio,282,https://s.glbimg.com/es/sde/f/2017/05/04/41bd7f91d7b18b2b10bf42c51a52305f_FORMATO.png,0,0.0,Marco Túlio Oliveira Lemos,0.0,5,1.0,10,{},6,0.0
+97645,Thiago Couto,276,https://s.glbimg.com/es/sde/f/2017/05/25/dfcf4266572f7296e853252f68813195_FORMATO.png,0,0.0,Thiago Couto Wenceslau,0.0,1,1.0,10,{},6,0.0
+97540,Vinícius Guarapuava,315,https://s.glbimg.com/es/sde/f/2017/04/25/48b415a12dcbdddd7f3e41bd0f773191_FORMATO.png,0,0.0,Vinícius Szeuczuk Ribeiro,0.0,3,1.0,10,{},6,0.0
+97138,Dida,284,https://s.glbimg.com/es/sde/f/2017/04/23/9d628fcefea9ddda4e74ff681f296aeb_FORMATO.png,0,0.0,Renan Silva Bragança,0.0,1,1.0,10,{},6,0.0
+97768,Reynaldo,303,https://s.glbimg.com/es/sde/f/2017/05/02/ed60ee32ee81b2f34ec8dc08fc6f4a03_FORMATO.png,0,0.0,Reynaldo César Moraes,0.0,3,2.0,10,{},6,0.0
+97653,Murilo,283,https://s.glbimg.com/es/sde/f/2017/04/06/ac1485f2fbd995b94c3544520d1ebdd8_FORMATO.png,4,0.45,Murilo Cerqueira Paim,0.0,3,0.77,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+97771,Thiaguinho,303,https://s.glbimg.com/es/sde/f/2017/02/25/8d9b4558215c3206a5e47dd0ff123ca5_FORMATO.png,0,0.0,Wytallo Thiago Lima da Silva,0.0,5,2.0,10,{},6,0.0
+97452,Marcos Calazans,266,https://s.glbimg.com/es/sde/f/2017/01/13/b1ce41bb5e20e57134cccffd2e93dd12_FORMATO.png,5,6.66,Marcos Vinícius Silva Rocha Calazans,5.9,5,6.68,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 1, 'FF': 0, 'FS': 1, 'I': 2, 'PE': 7, 'RB': 5}",7,-0.32
+97502,Filigrana,294,https://s.glbimg.com/es/sde/f/2017/04/24/d66e3a470b0bbecb49de52697e75cb7b_FORMATO.png,0,0.0,Yilmar Alexis Filigrana Possu,0.0,5,2.0,10,{},6,0.0
+97880,Murillo,293,https://s.glbimg.com/es/sde/f/2017/01/20/1ac0bd987facdb6f4ac949db15538370_FORMATO.png,0,0.0,Murillo Magno de Carvalho,0.0,5,1.0,10,{},6,0.0
+97879,Matheus Anjos,293,https://s.glbimg.com/es/sde/f/2017/04/23/ca02d2a758b721d663027e8f482babc2_FORMATO.png,1,0.6000000000000001,Matheus Aleksander dos Anjos,0.6000000000000001,4,1.69,10,"{'FC': 2, 'FF': 1, 'FS': 2, 'PE': 6, 'RB': 1}",6,-0.31
+97352,Pachu,263,https://s.glbimg.com/es/sde/f/2017/04/18/3b72e5cbc1cbcacc5bcaa528f2e598d9_FORMATO.png,2,0.7000000000000001,Luiz Henrique Pachu Lira,0.7000000000000001,5,1.63,10,{'FF': 1},6,-0.08
+97856,Nonoca,283,https://s.glbimg.com/es/sde/f/2017/04/06/4a26ea9ccd869d0076aa6dae12e454c3_FORMATO.png,0,0.0,Lucas de Souza Ventura,0.0,4,2.0,10,{},6,0.0
+97680,Yan,277,https://s.glbimg.com/es/sde/f/2017/06/07/91771db8620bf3d32873a183ec204e5d_FORMATO.png,0,0.0,Yan Oliveira Lima,0.0,4,2.0,10,{},6,0.0
+97769,Yuri,303,https://s.glbimg.com/es/sde/f/2017/05/02/a2f6d215d6098631c571044b74be1d86_FORMATO.png,2,0.35000000000000003,Yuri Jonathan Vitor Coelho,0.0,5,0.87,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0}",6,0.0
+97877,Patrick Correia,292,https://s.glbimg.com/es/sde/f/2017/02/14/521d0e8322cc9471f226a14e06549443_FORMATO.png,0,0.0,Patrick Correia Sales,0.0,5,1.0,10,{},6,0.0
+97878,Jacy,293,https://s.glbimg.com/es/sde/f/2017/04/23/9434953cbf73327a425e3b46a230bebd_FORMATO.png,0,0.0,Jacy Maranhão Oliveira,0.0,3,1.0,10,{},6,0.0
+97902,Rafael,262,https://s.glbimg.com/es/sde/f/2017/04/24/db3ab616836bf6fcfa76a2dd7846986b_FORMATO.png,0,0.0,Rafael Santos de Sousa,0.0,3,1.0,10,{},6,0.0
+97863,Jhemerson,287,https://s.glbimg.com/es/sde/f/2017/04/01/739e03a0f382a2fe2c4518ea0a20d39e_FORMATO.png,1,3.1,Jhemerson Guimarães Gaigher,0.0,4,4.28,10,"{'FF': 0, 'RB': 0}",6,0.0
+98401,Patrick Luan,266,https://s.glbimg.com/es/sde/f/2017/04/02/71b19c71f009ce2d55363ed067a46395_FORMATO.png,0,0.0,Patrick Luan dos Santos,0.0,5,1.0,10,{},6,0.0
+98184,Rodrigo Pelezinho,315,https://s.glbimg.com/es/sde/f/2017/06/09/84a1d3f37a42b2b48f444a1350f951fc_FORMATO.png,0,0.0,Rodrigo Alves da Cruz,0.0,5,2.0,10,{},6,0.0
+98315,Evanderson,373,https://s.glbimg.com/es/sde/f/2017/04/27/691a60e07461729409b8c945c33b5afe_FORMATO.png,0,0.0,Evanderson Costa da Silva,0.0,4,1.0,10,{},6,0.0
+98034,Maílson,292,https://s.glbimg.com/es/sde/f/2017/02/14/9e10795b558271c6baddcda617d65c21_FORMATO.png,0,0.0,Maílson Tenório dos Santos,0.0,1,1.0,10,{},6,0.0
+98035,Caio,292,https://s.glbimg.com/es/sde/f/2017/02/14/a6f6b29df8097bacd2fc794872711c70_FORMATO.png,0,0.0,Caio Felipe dos Santos Silva,0.0,2,2.0,10,{},6,0.0
+98516,Loran ,262,https://s.glbimg.com/es/sde/f/2017/04/24/149b93c661d3270e681e0e96242ef3ee_FORMATO.png,0,0.0,Loran dos Santos da Silva,0.0,5,1.0,10,{},6,0.0
+98056,Luiz Felipe,373,https://s.glbimg.com/es/sde/f/2017/04/27/f440fdbfbca6b16934ab91e0d9d8dff0_FORMATO.png,0,0.0,Luiz Felipe Machado de Souza,0.0,4,2.0,10,{},6,0.0
+98402,Wendel,266,https://s.glbimg.com/es/sde/f/2017/04/02/3d09f45d9e193fd3d5227aed7177000d_FORMATO.png,8,5.96,Marcus Wendel Valle da Silva,10.4,4,13.5,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'FT': 0, 'G': 1, 'PE': 1, 'RB': 1}",7,-0.1
+98333,Gabriel Batista,262,https://s.glbimg.com/es/sde/f/2017/04/24/0bf67a6d877be0a2c761a714831fe092_FORMATO.png,0,0.0,Gabriel Batista de Souza,0.0,1,1.0,10,{},6,0.0
+98221,Cedric,287,https://s.glbimg.com/es/sde/f/2017/04/01/b42c80735aa423756f5307c1bd099859_FORMATO.png,0,0.0,Ilson Cedric Borges de Accacio Lima,0.0,2,2.0,10,{},6,0.0
+98517,Jean Lucas,262,https://s.glbimg.com/es/sde/f/2017/04/24/51b0b51b6e93e3be827dfbed26355d91_FORMATO.png,0,0.0,Jean Lucas de Souza Oliveira,0.0,4,2.0,10,{},6,0.0
+98352,Bruno Guimarães,293,https://s.glbimg.com/es/sde/f/2017/05/11/f5024b3a361d2a09da365bea55b67c88_FORMATO.png,1,-3.0,Bruno Guimarães Rodriguez Moura,0.0,4,0.77,10,"{'CA': 0, 'FC': 0}",6,0.0
+98765,Marquinho,282,https://s.glbimg.com/es/sde/f/2017/04/25/f21561ae22813c1f9f57d79c0f07f39d_FORMATO.png,1,-0.8,José Marcos Costa Martins,-0.8,4,1.38,10,"{'FC': 1, 'PE': 1}",6,-0.62
+98910,João Pedro,373,https://s.glbimg.com/es/sde/f/2017/04/27/449973d2d9ebbd6b442c41fb9f44929b_FORMATO.png,0,0.0,João Pedro Ribeiro dos Reis,0.0,5,4.0,10,{},6,0.0
+99021,Riuler,293,https://s.glbimg.com/es/sde/f/2017/04/23/f9a0f4d378841844615990bf95a39da9_FORMATO.png,0,0.0,Riuler de Oliveira Faustino,0.0,2,2.0,10,{},6,0.0
+98952,Léo Natel,276,https://s.glbimg.com/es/sde/f/2017/05/24/2a8d67ff31bfc2ad352d55926c1b6556_FORMATO.png,1,0.5,Leonardo Natel Vieira,0.0,5,0.92,10,{'FS': 0},6,0.0
+98766,Emanuel,282,https://s.glbimg.com/es/sde/f/2017/05/04/c6a8401c8828ee07e786f390818a7e2e_FORMATO.png,0,0.0,Emanuel Rocha Dos Santos,0.0,2,1.0,10,{},6,0.0
+98888,Cláudio Vitor,314,https://s.glbimg.com/es/sde/f/2017/04/28/14be0b5c9f3c998e87056e7edacd296b_FORMATO.png,0,0.0,Cláudio Vitor Morais de Lima Cruz,0.0,1,1.0,10,{},6,0.0
+98945,Derlan,266,https://s.glbimg.com/es/sde/f/2017/04/20/a61babc61e943eed73835c0eb0233767_FORMATO.png,0,0.0,Derlan de Oliveira Bento,0.0,3,1.0,10,{},6,0.0
+98874,Marcelo,293,https://s.glbimg.com/es/sde/f/2017/04/27/104329d7a936e544604f9da1cd61995f_FORMATO.png,0,0.0,Marcelo dos Santos Rosa,0.0,5,2.0,10,{},6,0.0
+99035,Pedro Vitor,292,https://s.glbimg.com/es/sde/f/2017/05/01/3b883aa630ed340edfef1e032cfb61b2_FORMATO.png,0,0.0,Pedro Vitor Ferreira Da Silva ,0.0,5,1.0,10,{},6,0.0
+99041,Pedro Bortoluzo,276,,0,0.0,Pedro Gomes Bortoluzo,0.0,5,3.0,10,{},6,0.0
+98515,Lucas Silva,262,https://s.glbimg.com/es/sde/f/2017/04/24/685913465b4d1ad49e7160a89ef627fd_FORMATO.png,0,0.0,Lucas da Silva de Jesus,0.0,5,2.0,10,{},6,0.0
+98774,Flávio,282,https://s.glbimg.com/es/sde/f/2017/05/04/19c748c11cefe0c492c56193adca9ab0_FORMATO.png,0,0.0,Flávio Augusto De Castro,0.0,5,1.0,10,{},6,0.0
+99034,Elias,292,https://s.glbimg.com/es/sde/f/2017/05/01/3d6d8284db8a576d760fba42eb79eac4_FORMATO.png,0,0.0,Elias Lira Nogueira Junior ,0.0,2,2.0,10,{},6,0.0
+99257,João Erick,292,,0,0.0,João Erick Marques da Silva,0.0,4,2.0,10,{},6,0.0
+99258,Matheus Bezerra,292,,0,0.0,Matheus Bezerra Santos,0.0,4,1.0,10,{},6,0.0
+37281,Mano Menezes,283,https://s.glbimg.com/es/sde/f/2016/08/09/246730e80d7ef5af15c8b59b8491c289_FORMATO.png,10,3.89,Luis Antônio Venker de Menezes,8.31,6,13.05,10,{},7,1.6400000000000001
+99256,Alesandro,292,,0,0.0,Alesandro dos Santos Pereira,0.0,3,1.0,10,{},6,0.0
+99255,Pedro Henryque,292,,0,0.0,Pedro Henryque Pereira dos Santos,0.0,3,2.0,10,{},6,0.0
+99032,Lourenço,314,https://s.glbimg.com/es/sde/f/2017/06/18/cf178cdbd6bb2ee507ce289881e464b7_FORMATO.png,5,-0.16,João Paulo Ferreira Lourenço,0.0,5,0.77,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+99254,Dayvid,292,,0,0.0,Dayvid Alexsander da Silva,0.0,2,1.0,10,{},6,0.0
+99033,João Victor,292,https://s.glbimg.com/es/sde/f/2017/05/01/b47bd0865c30b6854b673c7e94778083_FORMATO.png,0,0.0,Joao Victor Inacio Araujo,0.0,4,2.0,10,{},6,0.0
+99356,Vinícius,292,,0,0.0,José Vinícius Almeida Soares,0.0,4,2.0,10,{},6,0.0
+99388,Lucas Vinícius,373,https://s.glbimg.com/es/sde/f/2017/04/28/2c4070d9c0adf40eb3afffcdd20d640e_FORMATO.png,0,0.0,Lucas Vinícius Santos Bernardino,0.0,5,1.0,10,{},6,0.0
+99353,Lucas Índio,282,https://s.glbimg.com/es/sde/f/2017/05/04/075e8103fcbe7ba581efc1402208e108_FORMATO.png,0,0.0,Lucas de Oliveira Antunes,0.0,5,1.0,10,{},6,0.0
+99379,Borges,373,https://s.glbimg.com/es/sde/f/2017/04/27/c15909a123793071490b039100f5c1b9_FORMATO.png,0,0.0,Guilherme Borges Neves,0.0,4,1.0,10,{},6,0.0
+99430,Diego,263,https://s.glbimg.com/es/sde/f/2017/04/23/78aa93572e5a8b0ddac649e2e57ce456_FORMATO.png,0,0.0,Diego Terra Loureiro,0.0,1,1.0,10,{},6,0.0
+99460,Caio,293,https://s.glbimg.com/es/sde/f/2017/04/23/49dd974b3c6794d393b7475413060b63_FORMATO.png,0,0.0,Caio Alan Tem Catem Gonçalves,0.0,1,1.0,10,{},6,0.0
+99424,Éder Militão,276,https://s.glbimg.com/es/sde/f/2017/05/04/a8a8f4eb8075ba4ad4fde3d5d0d6f996_FORMATO.png,7,1.8399999999999999,Éder Gabriel Militão,0.0,4,2.46,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+99425,Felipe,266,https://s.glbimg.com/es/sde/f/2017/04/20/55684618cda3012081e6f88b08b59902_FORMATO.png,0,0.0,Felipe Souza Moreno Sampaio,0.0,5,1.0,10,{},6,0.0
+99461,Daniel,293,https://s.glbimg.com/es/sde/f/2017/04/23/fa258606c3c0cb8010a0e233ab7e3837_FORMATO.png,0,0.0,Daniel dos Santos Oliveira,0.0,3,1.0,10,{},6,0.0
+99474,Wenderson,263,https://s.glbimg.com/es/sde/f/2017/05/16/153f0473b0a7b9d9e2bef29d8aceb3ad_FORMATO.png,1,0.0,Wenderson Da Silva Costa Ferreira,0.0,4,0.76,10,{},6,0.0
+99588,Paulo Vitor,267,https://s.glbimg.com/es/sde/f/2017/05/16/c3de8fe5a5e7d8b3b82388574097a641_FORMATO.png,2,2.6,Paulo Vitor Fernandes Pereira,0.0,5,2.25,10,"{'FF': 0, 'PE': 0, 'RB': 0}",6,0.0
+99411,Alexsander,293,https://s.glbimg.com/es/sde/f/2017/04/16/574d33cbfe0200e34a998815c6b4ee99_FORMATO.png,0,0.0,Alexsander Jhonatta de Oliveira Andrade,0.0,4,1.0,10,{},6,0.0
+99721,Mascarenhas,266,https://s.glbimg.com/es/sde/f/2017/06/20/f514195b62f041e777cb5b39b97c4f9e_FORMATO.png,2,7.3,Matheus Mascarenhas dos Santos Raimundo,0.0,2,5.95,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+99616,Felipe Saraiva,303,https://s.glbimg.com/es/sde/f/2017/05/21/53a0fc1ee211dbed99a34d0b836aae49_FORMATO.png,1,1.4,Felipe Saraiva,1.4,4,1.09,10,"{'FC': 3, 'FD': 1, 'FS': 1, 'PE': 1, 'RB': 1}",6,0.09
+99535,Vinicius Junior,262,https://s.glbimg.com/es/sde/f/2017/05/09/b6109d9eac2b6b6743fbbd18bacc864b_FORMATO.png,10,1.05,Vinicius José Paixão de Oliveira Junior,-0.9,5,2.42,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'I': 0, 'PE': 3, 'RB': 0}",6,-0.23
+99283,Henrique,314,https://s.glbimg.com/es/sde/f/2017/04/28/90d179032eaa0e5fa4fc43e292e5e855_FORMATO.png,0,0.0,Junior Henrique Eichelberger,0.0,3,3.0,10,{},6,0.0
+99550,Fernando,263,https://s.glbimg.com/es/sde/f/2017/05/16/0243a49a67c8ced003f53d80efea1bb0_FORMATO.png,0,0.0,Fernando Peixoto Costanza,0.0,2,1.0,10,{},6,0.0
+99661,Igor Cássio,263,,0,0.0,Igor Cássio Vieira dos Santos,0.0,5,1.0,10,{},6,0.0
+99615,Bruno Cosendey,267,https://s.glbimg.com/es/sde/f/2017/05/22/b6c777b62e380ed4a3cb3f1fc16f4f07_FORMATO.png,1,1.7000000000000002,Bruno Cosendey Lobo Pinto,0.0,4,2.21,10,{'RB': 0},6,0.0
+99629,Jadson,284,https://s.glbimg.com/es/sde/f/2017/06/07/2e7afba6e715b27222707a3f207ad556_FORMATO.jpeg,0,0.0,Jadson Ailton Oliveira Da Silva Vale,0.0,5,1.0,10,{},6,0.0
+99625,Conrado,284,https://s.glbimg.com/es/sde/f/2017/06/07/0367b264f2aa4d386381dc6d9594c5a2_FORMATO.jpeg,1,1.5,Conrado Buchanelli Holz,0.0,4,2.16,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+99628,Esperon,284,https://s.glbimg.com/es/sde/f/2017/06/07/dfce0445c3144c43e2d3f33bb0dd4131_FORMATO.jpeg,0,0.0,Ezequiel Gonzalo Esperon,0.0,4,1.0,10,{},6,0.0
+99817,Bremer,282,,1,4.4,Gleison Bremer Silva Nascimento,4.4,3,2.83,10,"{'CA': 1, 'FC': 1, 'FS': 1, 'PE': 1, 'RB': 1, 'SG': 1}",6,1.83
+99670,Arthur,283,https://s.glbimg.com/es/sde/f/2017/06/07/41375a4dab9feeadba77a4537ccb2623_FORMATO.png,0,0.0,Arthur Henrique Vieira Araujo,0.0,3,1.0,10,{},6,0.0
+99824,Douglas,265,,0,0.0,Douglas Santos da Silva,0.0,5,1.0,10,{},6,0.0
+99818,Paulinho,267,https://s.glbimg.com/es/sde/f/2017/06/24/18da9125dae9ec8d70c0a0048a743a6b_FORMATO.png,0,0.0,Paulo Henrique Sampaio Filho ,0.0,5,1.0,10,{},6,0.0
+37644,Rodrigo,303,https://s.glbimg.com/es/sde/f/2017/06/13/a5cb57a41ef2b2308c98b76ba24b430a_FORMATO.png,7,2.88,Rodrigo Baldasso da Costa,-3.4,3,7.73,10,"{'CA': 1, 'CV': 1, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 4, 'I': 0, 'PE': 5, 'RB': 2, 'SG': 0}",3,-2.0
+37608,Cristian,264,https://s.glbimg.com/es/sde/f/2017/04/19/9884b370f7327ae579c283e865aabf79_FORMATO.png,0,0.0,Cristian Mark Junio Nascimento Oliveira Baroni,0.0,4,4.0,10,{},6,0.0
+37604,Paulo André,293,https://s.glbimg.com/es/sde/f/2017/04/23/755b6b8cfd82322b66a137677617403d_FORMATO.png,4,0.87,Paulo André Cren Benini,0.0,3,4.08,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",7,0.0
+99832,Léo,293,https://s.glbimg.com/es/sde/f/2017/06/30/b6c202e020667876c945bb6f672961bb_FORMATO.png,0,0.0,Leonardo da Silva Simas,0.0,2,1.0,10,{},6,0.0
+37623,Rafael Marques,267,https://s.glbimg.com/es/sde/f/2017/04/24/b057662177ede29cb7aec5d2426bea3b_FORMATO.png,2,-1.2,Rafael Marques Pinto,0.0,3,2.12,10,"{'FC': 0, 'PE': 0, 'RB': 0}",6,0.0
+37306,Gilson Kleina,303,https://s.glbimg.com/es/sde/f/2017/04/25/170c293b8b336044ef9d06f703796fcc_FORMATO.png,10,3.92,Gilson Kleina,1.05,6,11.74,10,{},7,-0.52
+37607,Michel Bastos,275,https://s.glbimg.com/es/sde/f/2017/04/18/fa3a79559d24615c5cf4229992d82324_FORMATO.png,5,0.44,Michel Fernandes Bastos,0.0,4,5.01,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+37652,Carlos Alberto,293,https://s.glbimg.com/es/sde/f/2017/04/23/e6ee0f29664116ad56a6334200f1a86b_FORMATO.png,2,1.55,Carlos Alberto Gomes de Jesus,0.0,4,5.72,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+37646,Betão,314,https://s.glbimg.com/es/sde/f/2017/04/28/892740eaee3f590710c5572d2e84bbd1_FORMATO.png,9,2.06,Ebert Willian Amâncio,5.0,3,6.69,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 1}",7,0.92
+37673,Alecsandro,294,https://s.glbimg.com/es/sde/f/2017/05/25/b470b28b3b68d95eff43163148c236f8_FORMATO.png,6,-1.4,Alecsandro Barbosa Felisbino,-4.9,5,2.17,10,"{'CA': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 2, 'I': 2, 'PE': 3, 'PP': 0, 'RB': 0}",6,-0.8200000000000001
+37657,Edu Dracena,275,https://s.glbimg.com/es/sde/f/2017/04/18/68cf33625460a96d2a432f93ecc21db5_FORMATO.png,5,4.72,Eduardo Luís Abonizio de Souza,0.0,3,9.9,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+37656,Fábio,283,https://s.glbimg.com/es/sde/f/2017/04/05/8723e1fa0950cb91f4b5c39409f23d85_FORMATO.png,10,4.52,Fábio Deivson Lopes Maciel,10.9,1,14.19,10,"{'DD': 2, 'FC': 0, 'FS': 1, 'GS': 0, 'PE': 2, 'SG': 1}",7,2.5300000000000002
+37655,Rafael Moura,282,https://s.glbimg.com/es/sde/f/2017/04/03/0262cdf9cadf70eee005c277def421cb_FORMATO.png,8,2.66,Rafael Martiniano de Miranda Moura,-1.8,5,5.27,10,"{'CA': 1, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 7, 'FT': 0, 'G': 0, 'I': 3, 'PE': 1, 'RB': 0}",6,-1.81
+37694,Henrique,283,https://s.glbimg.com/es/sde/f/2016/04/29/3ee91a269e77c0defb08f1fee38c0aff_FORMATO.png,6,-0.5,Henrique Pacheco de Lima,0.0,4,3.77,10,"{'CA': 0, 'CV': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",7,0.0
+37662,Jonathan,293,https://s.glbimg.com/es/sde/f/2017/04/23/2e9071da78a7b84be87644f435c375ea_FORMATO.png,8,3.17,Jonathan Cícero Moreira,0.0,2,8.14,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+37674,Wagner,267,https://s.glbimg.com/es/sde/f/2017/04/06/359066aa5d28530d44010771094091ab_FORMATO.png,2,-0.55,Wagner Ferreira dos Santos,-0.30000000000000004,4,4.38,10,"{'FC': 0, 'PE': 1}",6,-1.11
+37701,Léo Moura,284,https://s.glbimg.com/es/sde/f/2017/04/23/7277c35fed3ff5f997fbf230b96586e4_FORMATO.png,4,6.02,Leonardo da Silva Moura,0.0,2,11.81,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+37770,Marcelo Grohe,284,https://s.glbimg.com/es/sde/f/2017/04/23/33e584cd67faa2ac529fcd131c75ed09_FORMATO.png,9,1.6,Marcelo Grohe,0.7000000000000001,1,8.26,10,"{'CA': 0, 'CV': 0, 'DD': 1, 'GS': 1, 'PE': 1, 'SG': 0}",6,-0.68
+37718,Arouca,275,https://s.glbimg.com/es/sde/f/2017/04/18/a79e46999e573a44398324ab951f4c7a_FORMATO.png,0,0.0,Marcos Arouca da Silva,0.0,4,6.0,10,{},5,0.0
+37688,Cícero,276,https://s.glbimg.com/es/sde/f/2017/02/18/6e1bc225f8c1e82f9bea52b09540dd3a_FORMATO.png,8,-0.85,Cícero Santos,0.0,4,4.87,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",2,0.0
+37840,Gustavo,314,https://s.glbimg.com/es/sde/f/2017/04/28/1a067ab1f5585036fbe91443094ed603_FORMATO.png,3,-0.6000000000000001,Gustavo Franchin Schiavolin,0.0,3,4.14,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+37919,Luis Fabiano,267,https://s.glbimg.com/es/sde/f/2017/04/17/37ff07beed4a39ead1876fadd586d068_FORMATO.png,8,7.21,Luis Fabiano Clemente,1.5,5,14.33,10,"{'A': 0, 'CA': 1, 'FC': 2, 'FD': 0, 'FF': 3, 'FS': 6, 'G': 0, 'I': 0, 'PE': 2, 'RB': 0}",3,-0.8300000000000001
+37705,Juan,314,https://s.glbimg.com/es/sde/f/2017/06/07/4171a633f759e859ac04b9293992adf3_FORMATO.png,7,1.96,Juan Maldonado Jaimez Júnior,1.7000000000000002,4,4.95,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 2, 'G': 0, 'PE': 4, 'RB': 1}",7,0.14
+37798,Rafael Sobis,283,https://s.glbimg.com/es/sde/f/2016/07/06/9f448978203e98dc8d4f57f547ed8a44_FORMATO.png,4,6.27,Rafael Augusto Sobis do Nascimento,11.5,5,13.03,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 3, 'FF': 0, 'FS': 4, 'G': 1, 'I': 1, 'PE': 0}",7,2.5
+37792,Edinho,294,https://s.glbimg.com/es/sde/f/2017/04/24/134bd2592921a7ea460e78f357f4d99a_FORMATO.png,1,-0.30000000000000004,Edimo Ferreira Campos,0.0,4,4.51,10,{'PE': 0},6,0.0
+37645,Marcelo Mattos,267,https://s.glbimg.com/es/sde/f/2017/04/24/9a29fddd4a0809d8eddbb3392169730b_FORMATO.png,0,0.0,Marcelo Mendonça de Mattos Terra,0.0,4,4.0,10,{},5,0.0
+37851,Maicosuel,276,https://s.glbimg.com/es/sde/f/2017/06/07/709c0e1e568158958ad56b554eba55d3_FORMATO.png,5,2.3,Maicosuel Reginaldo de Matos,0.0,4,6.88,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+37984,Aranha,303,https://s.glbimg.com/es/sde/f/2017/05/02/803e0f7a5e12a827547f82d97fb403f0_FORMATO.png,10,3.88,Mário Lúcio Duarte Costa,-4.0,1,10.13,10,"{'DD': 0, 'FS': 0, 'GS': 2, 'PE': 0, 'SG': 0}",7,-2.23
+99789,Brenner,276,https://s.glbimg.com/es/sde/f/2017/06/22/16c3b5336324cdbde96b9074439062d0_FORMATO.png,1,0.2,Brenner Souza da Silva,0.0,5,0.86,10,"{'FS': 0, 'PE': 0}",6,0.0
+52950,Victor,282,https://s.glbimg.com/es/sde/f/2017/04/03/444816970098790387faf6c2c5c0444f_FORMATO.png,9,3.6,Víctor Leandro Bagy,0.0,1,9.79,10,"{'CA': 0, 'DD': 0, 'DP': 0, 'FC': 0, 'GS': 0, 'PE': 0, 'SG': 0}",7,0.0
+38001,Anderson,265,https://s.glbimg.com/es/sde/f/2017/02/21/25b8eacc6ff420ba06c12861299fc24b_FORMATO.png,1,-2.0,Anderson Pedro Nunes da Silva Campos,0.0,1,0.77,10,{'CA': 0},6,0.0
+37934,Roger Bernardo,282,https://s.glbimg.com/es/sde/f/2017/06/22/c2345aa6df43625e0d6ec0ff375de539_FORMATO.png,2,1.85,Roger de Oliveira Bernardo,0.4,4,6.26,10,"{'FC': 3, 'FS': 4, 'PE': 6, 'RB': 1}",6,-0.67
+38021,Wendel,303,https://s.glbimg.com/es/sde/f/2017/05/02/4a4ad263fb8caeebedbea1c1bab7d397_FORMATO.png,8,0.74,Wendel Geraldo Maurício e Silva,-2.0,4,3.71,10,"{'A': 0, 'CA': 1, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,-0.59
+38138,Jô,264,https://s.glbimg.com/es/sde/f/2017/04/23/013b2879d66c81bb0e92137fdfe045a8_FORMATO.png,10,4.12,João Alves de Assis Silva,-3.4,5,11.05,10,"{'A': 0, 'CA': 1, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 2, 'G': 0, 'I': 0, 'PE': 3, 'RB': 0}",7,-1.87
+38109,Jefferson,263,https://s.glbimg.com/es/sde/f/2016/05/20/27326ea71a4a3d4cde252b5498024a60_FORMATO.png,0,0.0,Jefferson de Oliveira Galvão,0.0,1,9.0,10,{},6,0.0
+38062,Lugano,276,https://s.glbimg.com/es/sde/f/2016/05/01/08944541062646b222c15154448a4d88_FORMATO.png,3,-0.23,Diego Alfredo Lugano Moreno,-5.2,3,2.75,10,"{'CA': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 4, 'RB': 0, 'SG': 0}",7,-1.52
+38100,Durval,292,https://s.glbimg.com/es/sde/f/2017/05/01/510c7156c6f1b989be6cdcdfb393eb82_FORMATO.png,8,3.38,Severino dos Ramos Durval da Silva,0.0,3,5.94,10,"{'A': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",2,0.0
+38150,Marquinhos,314,https://s.glbimg.com/es/sde/f/2017/04/28/16b2b3c31dc9b2e904ab87a434b26f8b_FORMATO.png,8,-0.09,Marcos Vicente dos Santos,0.0,4,2.81,10,"{'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+38140,Fernando Prass,275,https://s.glbimg.com/es/sde/f/2016/05/01/493488441bb751ad5dbdb042a318599f_FORMATO.png,10,5.93,Fernando Buttenbender Prass,4.0,1,16.48,10,"{'DD': 2, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,-0.48
+38196,Maicon,284,https://s.glbimg.com/es/sde/f/2017/04/23/2d7990dd22103819070a18092e4a35b7_FORMATO.png,6,0.8,Maicon Thiago Pereira de Souza,0.0,4,7.99,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+38156,Artur Moraes,315,https://s.glbimg.com/es/sde/f/2017/04/24/5e85a2f95507d900cd0da5a482163c0d_FORMATO.png,0,0.0,Artur Guilherme Moraes Gusmão,0.0,1,6.0,10,{},6,0.0
+38279,Wellington Paulista,315,https://s.glbimg.com/es/sde/f/2017/04/25/063a393c23a936c42fa8d9c6ee455747_FORMATO.png,10,3.19,Wellington Pereira do Nascimento,0.9,5,10.6,10,"{'CA': 0, 'FC': 2, 'FD': 1, 'FF': 1, 'FS': 1, 'FT': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",7,0.18
+38229,Fábio Santos,282,https://s.glbimg.com/es/sde/f/2017/04/03/513ae4d7abe5f2024ee9a5cfa9c87bd4_FORMATO.png,8,0.91,Fábio Santos Romeu,0.0,2,1.81,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+38225,Muriqui,267,https://s.glbimg.com/es/sde/f/2017/04/06/321312e4d04c0676ddf6e5e30503e413_FORMATO.png,2,0.45,Luiz Guilherme da Conceição Silva,0.0,5,3.56,10,"{'FS': 0, 'PE': 0}",6,0.0
+38246,Robinho,282,https://s.glbimg.com/es/sde/f/2017/04/03/d0fe78529c78b3decfed9ab7ea31e79b_FORMATO.png,8,2.99,Robson de Souza,0.0,5,14.1,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+38067,Danilo,264,https://s.glbimg.com/es/sde/f/2017/04/19/b627c9025ae6426b1e4397a1e4806a3e_FORMATO.png,0,0.0,Danilo Gabriel de Andrade,0.0,4,5.0,10,{},5,0.0
+38315,Jadson,264,https://s.glbimg.com/es/sde/f/2017/04/23/74a0bb24699753dd991412e8c67a1623_FORMATO.png,9,1.88,Jadson Rodrigues da Silva,8.5,4,10.68,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 1, 'I': 0, 'PE': 4, 'RB': 1}",7,2.12
+38162,Fred,282,https://s.glbimg.com/es/sde/f/2017/04/03/3c0b9d4407aa9d0eadfb90461cc048e1_FORMATO.png,7,3.6,Frederico Chaves Guedes,0.0,5,15.8,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+50408,Breno,267,https://s.glbimg.com/es/sde/f/2017/05/18/3541bd5abdd15872a87ca7a41c8b2948_FORMATO.png,9,1.26,Breno Vinicius Rodrigues Borges,4.1,3,3.79,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 1, 'PE': 7, 'RB': 0, 'SG': 1}",7,1.02
+38287,Roger,263,https://s.glbimg.com/es/sde/f/2017/04/18/6814b99b2a5d61f8e272030ee2784ca0_FORMATO.png,9,4.59,Roger Rodrigues da Silva,0.9,5,8.53,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 1, 'FF': 1, 'FS': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",2,-1.6600000000000001
+38400,Vinícius Pacheco,314,https://s.glbimg.com/es/sde/f/2017/04/28/c75c0312049c7182d2608025b1772f10_FORMATO.png,2,-0.15,Vinícius Pacheco dos Santos,0.0,4,2.8,10,"{'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+38425,Fábio Ferreira,303,https://s.glbimg.com/es/sde/f/2017/05/02/dfab84ee22e942e61a82ff8910b56353_FORMATO.png,0,0.0,Fábio Ferreira da Silva,0.0,3,5.0,10,{},6,0.0
+38230,Grafite,293,https://s.glbimg.com/es/sde/f/2017/04/23/4fec179a98d9e087859253a2bbf830e4_FORMATO.png,8,0.58,Edinaldo Batista Libânio,2.8,5,7.44,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'I': 0, 'PE': 2, 'RB': 2}",2,0.63
+38421,Rafinha,283,https://s.glbimg.com/es/sde/f/2017/04/22/b38b67b4598e604b5f9219b7e65d47d7_FORMATO.png,7,1.4100000000000001,Rafael da Silva Francisco,0.0,4,5.96,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+38311,Márcio Araújo,262,https://s.glbimg.com/es/sde/f/2017/04/24/034006de65f23dc6ad944d4cbe1fd5d4_FORMATO.png,10,2.25,Márcio Rodrigues Araújo,4.0,4,8.08,10,"{'CA': 0, 'FC': 1, 'FF': 0, 'FS': 0, 'PE': 2, 'RB': 3}",7,0.2
+38394,Thiago Heleno,293,https://s.glbimg.com/es/sde/f/2017/04/23/1f11c20ef0f3dc5415e347a5080e0877_FORMATO.png,8,3.42,Thiago Heleno Henrique Ferreira,2.1,3,8.65,10,"{'CA': 0, 'FC': 0, 'FF': 1, 'FS': 0, 'G': 0, 'PE': 1, 'RB': 1, 'SG': 0}",6,-0.2
+38523,Edílson,284,https://s.glbimg.com/es/sde/f/2017/04/23/01562d5599dfea4ea49171288751df8a_FORMATO.png,7,4.11,Edílson Mendes Guimarães,2.5,2,10.88,10,"{'CA': 1, 'FC': 4, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 4, 'SG': 0}",3,0.11
+38545,Felipe Melo,275,https://s.glbimg.com/es/sde/f/2017/04/18/d1031b5a0a0783e2fc55c0668ef4d8de_FORMATO.png,4,1.75,Felipe Melo de Carvalho,0.0,4,8.67,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+38440,Pierre,266,https://s.glbimg.com/es/sde/f/2016/04/29/ec27531ace1e093fa1db50938eb9132b_FORMATO.png,1,0.0,Lucas Pierre Santos Oliveira,0.0,4,3.54,10,{},5,0.0
+38748,Maicon,314,https://s.glbimg.com/es/sde/f/2017/05/31/ef02f85ca8a5590abd7f361e7b0dd858_FORMATO.png,1,-6.0,Maicon Douglas Sisenando,0.0,2,4.72,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'GC': 0, 'PE': 0}",6,0.0
+38508,Eder Luis,267,https://s.glbimg.com/es/sde/f/2017/04/27/a624683a1be2238af9bf43179557bd20_FORMATO.png,0,0.0,Eder Luis de Oliveira,0.0,5,3.0,10,{},6,0.0
+38530,Cleiton Xavier,287,https://s.glbimg.com/es/sde/f/2017/02/18/12b5f4babe911d2c08e5e106d926ef3d_FORMATO.png,8,2.15,Cleiton Ribeiro Xavier,0.0,4,7.06,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+38768,Andrezinho,267,https://s.glbimg.com/es/sde/f/2017/04/27/6dc513717c37f2d182e388d21a117216_FORMATO.png,2,0.9,André Luiz Tavares,0.0,4,5.59,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+38431,Diego Cavalieri,266,https://s.glbimg.com/es/sde/f/2016/04/29/218be31082641b6814a593a00e28a095_FORMATO.png,3,-1.0,Diego Cavalieri,0.0,1,3.91,10,"{'DD': 0, 'GS': 0}",6,0.0
+38910,Ricardo Oliveira,277,https://s.glbimg.com/es/sde/f/2016/05/01/04f2207e667b88e15a5ccdc893894a1f_FORMATO.png,4,1.25,Ricardo de Oliveira,0.0,5,11.4,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'I': 0, 'PE': 0}",5,0.0
+38909,Diego,262,https://s.glbimg.com/es/sde/f/2017/04/24/98708ecaf48555700b1ca390667c77fb_FORMATO.png,7,6.2,Diego Ribas da Cunha,-1.8,4,19.23,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 6, 'RB': 0}",7,-3.6
+38738,Douglas,284,https://s.glbimg.com/es/sde/f/2017/04/23/fa6eb12f4d4fee6467bb3bb75ccc55ce_FORMATO.png,0,0.0,Douglas dos Santos,0.0,4,14.0,10,{},5,0.0
+38908,Renato,277,https://s.glbimg.com/es/sde/f/2017/05/02/ce9c1e5d21a2efec50dbdc2870d5a8c9_FORMATO.png,9,1.9300000000000002,Renato Dirnei Florêncio,5.8,4,7.54,10,"{'FC': 0, 'FF': 0, 'FS': 1, 'PE': 5, 'RB': 4}",6,1.29
+38852,Anderson,294,https://s.glbimg.com/es/sde/f/2017/04/24/0dc186897635dc55867be6cf89a3666a_FORMATO.png,1,-0.1,Anderson Luís de Abreu Oliveira,0.0,4,4.88,10,"{'FS': 0, 'PE': 0}",6,0.0
+38277,Thiago Neves,283,https://s.glbimg.com/es/sde/f/2017/02/19/6bb6e70216d205ad23e44268eba27692_FORMATO.png,7,6.23,Thiago Neves Augusto,11.7,4,17.99,10,"{'A': 0, 'CA': 0, 'FC': 3, 'FD': 1, 'FF': 0, 'FS': 4, 'G': 1, 'I': 0, 'PE': 4, 'RB': 2}",7,-0.29
+42330,Felipe Garcia,373,https://s.glbimg.com/es/sde/f/2017/04/27/986affeeae68d3af059f6c98de882ddb_FORMATO.png,9,4.64,Felipe Garcia dos Prazeres,1.0,1,8.45,10,"{'CA': 0, 'DD': 1, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,-0.52
+38957,Rafael Marques,283,https://s.glbimg.com/es/sde/f/2017/05/16/3246550328efb6a72fe4e85ea0bbff11_FORMATO.png,7,1.18,Rafael Marques Mariano,0.0,5,4.04,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.06
+38928,Dudu Cearense,263,https://s.glbimg.com/es/sde/f/2016/06/28/2b7b2415b00931bc7ebe03b683cd03be_FORMATO.jpeg,5,-0.14,Alexandro Silva de Souza,0.0,4,3.34,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+39572,Renato,266,https://s.glbimg.com/es/sde/f/2017/01/13/7ab26ced537354a115324343754e8570_FORMATO.png,5,2.2800000000000002,José Renato da Silva Júnior,-1.0,2,3.75,10,"{'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,-1.6
+39152,Jonas,263,https://s.glbimg.com/es/sde/f/2017/04/17/da28ba844b13dd322862abfcda7e77b7_FORMATO.png,0,0.0,Jonas Jessué da Silva Júnior,0.0,2,6.0,10,{},5,0.0
+40006,Abel Braga,266,https://s.glbimg.com/es/sde/f/2017/05/31/4e771d1c183057eb5fe8015ff7755b0c_FORMATO.png,9,3.49,Abel Carlos da Silva Braga,2.61,6,11.95,10,{},7,-0.75
+40025,Levir Culpi,277,https://s.glbimg.com/es/sde/f/2017/06/14/136e0a7f3e7fc28586ac419c9c08efd2_FORMATO.png,4,4.78,Levir Culpi,2.11,6,9.56,10,{},7,-0.41000000000000003
+40179,Kleber,294,https://s.glbimg.com/es/sde/f/2017/04/24/c96c8c2ada9b85eb506293c4caec64db_FORMATO.png,7,1.8399999999999999,Kleber Giacomace de Souza Freitas,0.0,5,10.49,10,"{'A': 0, 'CA': 0, 'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+41327,Vanderlei Luxemburgo,292,https://s.glbimg.com/es/sde/f/2017/05/31/d059e86ab694b638ba5a43c3b0b0444f_FORMATO.png,7,3.96,Vanderlei Luxemburgo da Silva,5.64,6,6.9,10,{},7,0.77
+41218,Magrão,292,https://s.glbimg.com/es/sde/f/2016/05/01/92fb599635a635bc3681d6d69f04489c_FORMATO.png,10,3.24,Alessandro Beti Rosa,5.0,1,5.21,10,"{'DD': 0, 'GS': 0, 'PE': 0, 'RB': 0, 'SG': 1}",7,1.6099999999999999
+39850,Vagner Mancini,315,https://s.glbimg.com/es/sde/f/2017/04/24/07606c5e9762a644cb0fd98ccc70fb84_FORMATO.png,10,2.8,Vagner Carmo Mancini,0.02,6,8.16,10,{},7,-0.37
+41929,Renato Gaúcho,284,https://s.glbimg.com/es/sde/f/2016/10/20/11389b106c935a0e20c5b557a4161683_FORMATO.png,10,5.77,Renato Portaluppi,2.76,6,15.87,10,{},7,-0.5
+41363,Alexandre Gallo,287,https://s.glbimg.com/es/sde/f/2017/06/06/ee2b94270801b97042a4a5bdae50276b_FORMATO.png,6,3.44,Alexandre Tadeu Gallo,1.72,6,7.37,10,{},7,0.05
+42116,Willian,275,https://s.glbimg.com/es/sde/f/2017/04/18/8ce197bf5176cc970a5782466268bd80_FORMATO.png,9,1.5899999999999999,Willian Gomes de Siqueira,1.2,5,5.69,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 3, 'G': 0, 'I': 0, 'PE': 0, 'PP': 0, 'RB': 0}",6,-1.05
+42213,Fernando Bob,303,https://s.glbimg.com/es/sde/f/2017/05/02/c182483a84aebf5ed52ddb9d82da6407_FORMATO.png,4,3.12,Fernando Paixão da Silva,0.2,4,8.38,10,"{'CA': 1, 'FC': 3, 'FS': 3, 'PE': 4, 'RB': 2}",7,0.0
+42145,Egídio,275,https://s.glbimg.com/es/sde/f/2017/04/18/594aacef190963b0476d2c76f4f48f57_FORMATO.png,4,5.32,Egídio de Araújo Pereira Júnior,0.0,2,7.37,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+42140,Felipe Santana,282,https://s.glbimg.com/es/sde/f/2017/02/19/6ca71225c6186e7ca8dfcf1ac0111b14_FORMATO.png,8,3.69,Felipe Augusto Santana,0.0,3,9.11,10,"{'A': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",5,0.0
+53669,Lins,303,https://s.glbimg.com/es/sde/f/2017/05/02/152a2c73a115dd6eaae434c953a9c05b_FORMATO.png,8,0.92,Lins Lima de Britto,-0.8,5,3.84,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 1, 'RB': 0}",7,-0.16
+42499,Bruno,276,https://s.glbimg.com/es/sde/f/2016/05/01/d2edee13739b924fb1847c5369f28455_FORMATO.png,4,1.07,Bruno Vieira do Nascimento,0.0,2,5.63,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+42234,Cássio,264,https://s.glbimg.com/es/sde/f/2017/04/19/aaa96b0be41ff91da112273cc059467e_FORMATO.png,10,5.9,Cássio Ramos,16.0,1,13.59,10,"{'CA': 1, 'DD': 2, 'DP': 1, 'FS': 0, 'GS': 0, 'PE': 0, 'SG': 1}",7,2.26
+42222,Osvaldo,292,https://s.glbimg.com/es/sde/f/2017/05/06/c9fe7a8f540f56c7325c5e78f3097d32_FORMATO.png,10,3.51,Osvaldo Lourenço Filho,8.5,5,6.47,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 1, 'I': 0, 'PE': 0, 'RB': 0}",7,0.43
+42411,Cuca,275,https://s.glbimg.com/es/sde/f/2016/05/01/ffe92c9e05e8100cdb59ce176a5352f5_FORMATO.png,10,3.84,Alexi Stival,2.58,6,13.45,10,{},7,-0.5
+42232,Amaral,315,https://s.glbimg.com/es/sde/f/2017/05/08/d967be031145a156a67e168aaeecb1fa_FORMATO.png,0,0.0,William José de Souza,0.0,4,5.0,10,{},5,0.0
+42500,Fagner,264,https://s.glbimg.com/es/sde/f/2017/04/19/e126b3b0182f6b12d3cc13d20f515810_FORMATO.png,7,6.01,Fagner Conserva Lemos,11.3,2,13.46,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FS': 2, 'PE': 5, 'RB': 4, 'SG': 1}",7,0.27
+50284,Wilson,294,https://s.glbimg.com/es/sde/f/2017/04/24/5b2f43325fb756c251e30f1bd567af5b_FORMATO.png,10,6.78,Wilson Rodrigues de Moura Júnior,10.1,1,14.9,10,"{'DD': 5, 'FS': 0, 'GS': 2, 'PE': 3, 'SG': 0}",7,0.48
+50307,Adilson,282,https://s.glbimg.com/es/sde/f/2017/04/03/8a5b4672974501d33850ca575e0f117c_FORMATO.png,3,0.5,Adilson Warken,0.0,4,5.18,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",7,0.0
+49673,Júlio César,266,https://s.glbimg.com/es/sde/f/2016/04/29/88d18a6c7e76b53f49c068867e67a91b_FORMATO.png,6,1.42,Júlio César Jacobi,1.0,1,4.87,10,"{'DD': 1, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,-1.83
+50427,Kadu,303,https://s.glbimg.com/es/sde/f/2017/05/02/414d5dd199f668338406b95b0d982b31_FORMATO.png,4,5.57,Ricardo Martins de Araújo,0.0,3,11.85,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+50317,David Braz,277,https://s.glbimg.com/es/sde/f/2017/05/02/7e17e0feab3ee583c5049f63df2c2771_FORMATO.png,8,4.84,David Braz de Oliveira Filho,0.0,3,11.83,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+42501,Rhodolfo,262,https://s.glbimg.com/es/sde/f/2017/06/20/fa889cb0da25023565bc57fe3fa29fde_FORMATO.png,2,5.2,Luiz Rhodolfo Dini Gaioto,9.2,3,8.68,10,"{'FC': 2, 'FF': 1, 'PE': 2, 'RB': 3, 'SG': 1}",7,2.13
+50301,Everton,262,https://s.glbimg.com/es/sde/f/2017/04/24/baf540d146fb96f0159339aad269538d_FORMATO.png,8,4.3,Everton Cardoso da Silva,0.0,4,14.5,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+38913,Nenê,267,https://s.glbimg.com/es/sde/f/2017/04/24/45951f5edf6777703717a335e5bffc58_FORMATO.png,9,4.44,Anderson Luiz de Carvalho,12.9,4,15.55,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 1, 'FF': 0, 'FS': 5, 'G': 1, 'I': 0, 'PE': 1, 'RB': 1}",7,2.94
+50294,Guilherme,293,https://s.glbimg.com/es/sde/f/2017/04/28/0dde0e778cab6579a9bf8d745efc2bf0_FORMATO.png,3,2.37,Guilherme Milhomem Gusmão,0.0,4,10.33,10,"{'FC': 0, 'FS': 0, 'G': 0, 'PE': 0}",5,0.0
+50324,Hudson,283,https://s.glbimg.com/es/sde/f/2017/02/05/3d3e3081a494b80799d348813e420860_FORMATO.png,7,2.62,Hudson Rodrigues dos Santos,3.5,4,6.45,10,"{'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 2, 'RB': 3}",6,-0.49
+50328,Marcelo Oliveira,284,https://s.glbimg.com/es/sde/f/2016/04/30/401897dab69a776fef1185ec3ba1b85f_FORMATO.png,1,5.1,Marcelo Oliveira Ferreira,0.0,2,9.97,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+50402,Kayke,277,https://s.glbimg.com/es/sde/f/2017/05/02/175b6e25643dfdf97032cd564bc4e5c4_FORMATO.png,8,2.5300000000000002,Kayke Moreno de Andrade Rodrigues,0.0,5,4.65,10,"{'FC': 1, 'FD': 0, 'FF': 2, 'FS': 0, 'G': 0, 'I': 0, 'PE': 3, 'RB': 0}",7,0.19
+50369,Carlos Eduardo,287,https://s.glbimg.com/es/sde/f/2017/06/30/7af1289f88cf63ecc2a4b2eaff1bc2c7_FORMATO.jpeg,0,0.0,Carlos Eduardo Marques,0.0,4,3.0,10,{},2,0.0
+50398,Paulo Henrique,292,https://s.glbimg.com/es/sde/f/2017/02/14/f3e039a98588fd2760ea1b06034d2567_FORMATO.png,0,0.0,Paulo Henrique Carneiro Filho,0.0,5,3.0,10,{},6,0.0
+50348,Conca,262,https://s.glbimg.com/es/sde/f/2017/04/24/f51b755cd38a02f41c96c2cc347998eb_FORMATO.png,2,-0.9500000000000001,Darío Leonardo Conca,0.0,4,8.35,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0}",6,0.0
+50362,Lucas,266,https://s.glbimg.com/es/sde/f/2017/01/13/c82e7265df8e1826bec18601456898a5_FORMATO.png,8,-0.15,Lucas Rios Marques,-3.5,2,1.4,10,"{'CA': 1, 'FC': 4, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 4, 'RB': 1}",7,-0.71
+91194,Thiago,262,https://s.glbimg.com/es/sde/f/2017/04/24/cbff6dc155e200c1acd0f26dfbad6fae_FORMATO.png,5,3.34,Thiago Rodrigues da Silva,8.0,1,4.73,10,"{'DD': 1, 'GS': 0, 'PE': 0, 'SG': 1}",7,1.98
+91102,Flávio,287,https://s.glbimg.com/es/sde/f/2017/06/22/45969ac005e05819eea2e0fdcb62de43_FORMATO.png,1,0.0,Flávio Medeiros da Silva,0.0,4,2.12,10,{},6,0.0
+91101,Ronaldo,287,https://s.glbimg.com/es/sde/f/2017/02/20/e49415180708c87913cabd48be5dd49f_FORMATO.png,0,0.0,Ronaldo de Oliveira Strada,0.0,1,1.0,10,{},6,0.0
+93882,Cleiton,282,https://s.glbimg.com/es/sde/f/2017/04/03/ef54b93128f4d412c55c7cd27c83323b_FORMATO.png,1,4.9,Cleiton Schwengber,4.9,1,1.85,10,"{'FS': 1, 'PE': 2, 'SG': 1}",6,0.85
+49674,Fabrício,283,https://s.glbimg.com/es/sde/f/2017/02/19/24191456ff9447eb594b23afd68b389a_FORMATO.png,0,0.0,Fabricio dos Santos Silva,0.0,2,5.0,10,{},6,0.0
+91156,Jesiel,282,https://s.glbimg.com/es/sde/f/2017/04/03/b00e4e82879a8aa6d2193c3ed0abd49b_FORMATO.png,0,0.0,Jesiel Cardoso Miranda,0.0,3,3.0,10,{},6,0.0
+91260,Lucas Perri,276,https://s.glbimg.com/es/sde/f/2016/05/01/33edb005bdd244f616d094e71ba6c3a8_FORMATO.png,0,0.0,Lucas Estella Perri,0.0,1,2.0,10,{},6,0.0
+90302,Pedro Rocha,284,https://s.glbimg.com/es/sde/f/2017/04/23/7239af88239148c721a90c4a5903d4f3_FORMATO.png,9,4.09,Pedro Rocha Neves,1.5,5,9.36,10,"{'A': 0, 'FC': 2, 'FD': 2, 'FF': 0, 'FS': 1, 'G': 0, 'I': 1, 'PE': 4, 'RB': 1}",6,-1.09
+91204,Warleson,293,https://s.glbimg.com/es/sde/f/2017/04/23/d3b26dce5bc760f7a52d0556eb36b781_FORMATO.png,0,0.0,Warleson Stellion Lisboa Oliveira,0.0,1,1.0,10,{},6,0.0
+91201,Pepê,284,https://s.glbimg.com/es/sde/f/2017/06/07/bd6f96fc4d6fbe29bd108c344db1e415_FORMATO.jpeg,1,0.5,Eduardo Gabriel Aquino Cossa,0.0,5,0.97,10,{'FS': 0},6,0.0
+91264,Matheus Savio,262,https://s.glbimg.com/es/sde/f/2017/04/24/60ce53a00324836c87cea5fb79984381_FORMATO.png,4,4.7,Matheus Gonçalves Savio,2.5,4,11.19,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'G': 0, 'I': 0, 'PE': 3, 'RB': 2}",6,-1.34
+91203,Éder ,265,https://s.glbimg.com/es/sde/f/2017/02/21/48c32809ca3ee7e6b3855d62cd01af0e_FORMATO.png,1,3.4,Éder Ferreira Graminho,0.0,3,2.95,10,"{'FC': 0, 'FS': 0, 'RB': 0}",6,0.0
+91664,Adryelson,292,https://s.glbimg.com/es/sde/f/2016/05/01/486323894355978b9458b0d2217d92bf_FORMATO.png,0,0.0,Adryelson Shawann Lima Silva,0.0,3,2.0,10,{},6,0.0
+91573,Arboleda,276,https://s.glbimg.com/es/sde/f/2017/06/27/feb4b502524252fc410bb11eeffc69b7_FORMATO.png,0,0.0,Robert Abel Arboleda Escobar,0.0,3,7.0,10,{},6,0.0
+91808,Caíque França,264,https://s.glbimg.com/es/sde/f/2017/04/19/02fc5dc63c312d6868d30a24d373ba30_FORMATO.png,0,0.0,Caíque França Godoy,0.0,1,2.0,10,{},6,0.0
+91359,Bruno Bispo,287,https://s.glbimg.com/es/sde/f/2017/05/28/af8ee442a870d4c045d8eebdb02ccf1a_FORMATO.png,0,0.0,Bruno Bispo dos Anjos,0.0,3,2.0,10,{},6,0.0
+91388,Rodrigo Ramos,294,https://s.glbimg.com/es/sde/f/2015/10/30/790da0b7e69393ed9c4a542a2536232c_FORMATO.png,0,0.0,Rodrigo de Oliveira Ramos,0.0,2,4.0,10,{},6,0.0
+91842,Breno,293,https://s.glbimg.com/es/sde/f/2017/04/23/eddc26f069abf5b4dd09b9c3888d5cba_FORMATO.png,0,0.0,Breno Evangelista Cantão de Oliveira,0.0,2,1.0,10,{},6,0.0
+91519,Kazim,264,https://s.glbimg.com/es/sde/f/2017/04/23/ad1f8add949fbe2020567092e6cb1ac9_FORMATO.png,3,-0.03,Colin Kazim-Richards,0.0,5,2.4,10,"{'FC': 0, 'FF': 0, 'FS': 0}",6,0.0
+91866,Zé Ivaldo,293,https://s.glbimg.com/es/sde/f/2017/04/23/fbf5dd33aaec3e3709c4449e36790a17_FORMATO.png,2,0.9500000000000001,José Ivaldo Almeida Silva,0.0,3,1.65,10,"{'CA': 0, 'FC': 0, 'PE': 0, 'SG': 0}",6,0.0
+91715,Matheus Cassini,303,https://s.glbimg.com/es/sde/f/2017/05/02/49a8092ff1d3ff3eb1402aa7333a8a1a_FORMATO.png,0,0.0,Matheus Henrique Cassini de Paula,0.0,4,2.0,10,{},6,0.0
+91714,Marciel,264,https://s.glbimg.com/es/sde/f/2017/04/23/cf2fd75fe95a351dd06a29fbc12519b7_FORMATO.png,0,0.0,Marciel Silva da Silva,0.0,4,3.0,10,{},6,0.0
+91973,Lucas Marques,315,https://s.glbimg.com/es/sde/f/2017/04/24/4c115f9e09a83e602fdd887b5915ae16_FORMATO.png,0,0.0,Lucas Marques de Oliveira,0.0,4,1.0,10,{},6,0.0
+91815,Nogueira,266,https://s.glbimg.com/es/sde/f/2016/05/30/7475a33329d212b5519734b354c01a71_FORMATO.png,4,0.47000000000000003,Ygor Nogueira de Paula,0.0,3,1.97,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'FT': 0, 'PE': 0, 'RB': 0}",6,0.0
+91972,João Paulo,265,https://s.glbimg.com/es/sde/f/2017/02/21/50d51a803a4e921b5b978262371212c1_FORMATO.png,3,3.87,João Paulo Queiroz Moraes,0.0,5,3.05,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0}",6,0.0
+92084,Mário,265,https://s.glbimg.com/es/sde/f/2017/02/21/1242841d640e4683a423b3f381264bd0_FORMATO.png,0,0.0,Mário Sérgio Pereira Junior,0.0,5,1.0,10,{},6,0.0
+92057,Gabriel Félix,267,https://s.glbimg.com/es/sde/f/2017/04/06/54685bfd304a178fd3107aaf6fb0db2f_FORMATO.png,0,0.0,Gabriel Félix dos Santos,0.0,1,2.0,10,{},6,0.0
+92078,Wallace,292,https://s.glbimg.com/es/sde/f/2016/05/01/ed088654406f3682c5c4ea8dbaae2b52_FORMATO.png,0,0.0,Wallace Lucas Aires da Silva,0.0,5,2.0,10,{},6,0.0
+92081,Richarlison ,266,https://s.glbimg.com/es/sde/f/2016/04/29/f6f08e1efa5ce7033db704164ac007f7_FORMATO.png,8,5.24,Richarlison Andrade,5.1,5,12.36,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 4, 'RB': 4}",7,1.32
+92182,Juninho,275,https://s.glbimg.com/es/sde/f/2017/05/19/c9034f677a1130c41ddac32cafd3e7b5_FORMATO.png,7,3.31,José Carlos Ferreira Júnior,-0.4,3,9.02,10,"{'A': 0, 'CA': 0, 'FC': 5, 'FD': 0, 'FF': 0, 'FS': 2, 'PE': 2, 'RB': 1}",7,-0.76
+92180,Jair Ventura,263,https://s.glbimg.com/es/sde/f/2017/04/23/2fb7d8d8b307b409308c2dfefeace799_FORMATO.png,10,4.08,Jair Ventura,1.9300000000000002,6,10.78,10,{},7,-0.21
+92191,Léo Jabá,264,https://s.glbimg.com/es/sde/f/2017/04/23/058bb73bb130e252611095356510dc58_FORMATO.png,1,1.2,Leonardo Rodrigues Lima,0.0,5,3.68,10,"{'FC': 0, 'FS': 0, 'RB': 0}",6,0.0
+92662,Denilson,284,https://s.glbimg.com/es/sde/f/2017/06/07/a960f52cf5f9b283c91b4ed4eb49d4e6_FORMATO.jpeg,0,0.0,Denilson dos Santos de Souza,0.0,3,1.0,10,{},6,0.0
+92193,Ravanelli,303,https://s.glbimg.com/es/sde/f/2017/05/02/8f0af7ca793a5e7d64717b42fa7dc181_FORMATO.png,3,2.37,Ravanelli Ferreira dos Santos,0.0,4,8.16,10,"{'A': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+92574,Kaio,284,https://s.glbimg.com/es/sde/f/2016/04/30/a83b6e7bb6661dbbb2b8c85d3afc4b48_FORMATO.png,1,2.8,Kaio Silva Mendes,0.0,4,3.95,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+92501,Lucas Lovat,314,https://s.glbimg.com/es/sde/f/2017/05/17/fc2567ecebd5db9e5f21e72ef3cbd9e5_FORMATO.png,0,0.0,Lucas Lovat,0.0,2,3.0,10,{},6,0.0
+92207,Caíque,287,https://s.glbimg.com/es/sde/f/2017/05/28/bd5b4ba3004a61c7aee152418fb5f62f_FORMATO.png,0,0.0,Caíque Luiz Santos da Purificação,0.0,1,5.0,10,{},6,0.0
+92614,Rafaelson,287,https://s.glbimg.com/es/sde/f/2016/05/01/76126c4ff37910430233fdce362777d0_FORMATO.png,3,0.6000000000000001,Rafaelson Bezerra Fernandes,0.0,5,2.67,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+92438,Matheus Phillipe,266,https://s.glbimg.com/es/sde/f/2016/04/29/92c915db9d214a7b498d2733568b14c2_FORMATO.png,0,0.0,Matheus Phillipe Coutinho Gomes,0.0,1,1.0,10,{},6,0.0
+92497,Douglas,266,https://s.glbimg.com/es/sde/f/2016/04/29/8612e800a41c6399f2e6910886f19110_FORMATO.png,2,-1.0,Douglas Augusto Soares Gomes,0.0,4,3.7800000000000002,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+92630,Claudinho,303,https://s.glbimg.com/es/sde/f/2017/06/01/7214c13dbff3a0e34d7a62814d535aa2_FORMATO.png,5,-0.22,Claudio Luiz Rodrigues Parise Leonel,-0.4,5,0.78,10,"{'FC': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 3}",7,0.01
+92981,Ronaldo,262,https://s.glbimg.com/es/sde/f/2017/04/24/a7cc055787fa2bae6bf37d7cd2009e85_FORMATO.png,0,0.0,Ronaldo da Silva Souza,0.0,4,3.0,10,{},6,0.0
+91917,Silva,373,https://s.glbimg.com/es/sde/f/2017/04/27/44c5ab48a8a0e8c7c33de52bdb5af46b_FORMATO.png,4,1.45,Adniellyson da Silva Oliveira,2.7,4,3.16,10,"{'CA': 0, 'FC': 3, 'FF': 1, 'FS': 2, 'PE': 3, 'RB': 2}",7,1.2
+93368,Lucas Veríssimo,277,https://s.glbimg.com/es/sde/f/2017/05/02/0198bbb1258bc8a618b6ef67781a60a6_FORMATO.png,10,3.98,Lucas Veríssimo da Silva,5.1,3,6.76,10,"{'CA': 0, 'FC': 0, 'FD': 2, 'FF': 0, 'FS': 0, 'PE': 1, 'RB': 2, 'SG': 0}",2,0.28
+93151,Thiago Santos,262,https://s.glbimg.com/es/sde/f/2017/04/24/da02549341377bcfce44aee65a275298_FORMATO.png,0,0.0,Thiago Nascimento dos Santos,0.0,5,2.0,10,{},5,0.0
+93282,Fábio,292,https://s.glbimg.com/es/sde/f/2016/05/01/b3866c797355a02c74cb112a4fbaa9a5_FORMATO.png,0,0.0,Fábio Carvalho Matos,0.0,4,3.0,10,{},6,0.0
+93153,Pachequinho,294,https://s.glbimg.com/es/sde/f/2016/07/12/20b53e4a4f3eb900bbb4bee06e40526d_FORMATO.png,10,3.71,Eriélton Carlos Pacheco,1.8,6,9.46,10,{},7,-0.1
+93146,Yan,275,https://s.glbimg.com/es/sde/f/2017/05/11/eb94eeb460306451c24553f35509e933_FORMATO.png,0,0.0,Yan Matheus Santos Souza,0.0,4,1.0,10,{},6,0.0
+93378,Augusto,275,https://s.glbimg.com/es/sde/f/2017/04/18/4e94d8b6d0b298c84f952ecfac2c11eb_FORMATO.png,0,0.0,Augusto de Souza Silva,0.0,3,1.0,10,{},6,0.0
+92085,Giovanny ,293,https://s.glbimg.com/es/sde/f/2017/04/23/953f5c26291d830bd5f2074bac7a9ab0_FORMATO.png,0,0.0,Giovanny Bariani Marques,0.0,5,4.0,10,{},6,0.0
+93369,Rodrigo Becão,265,https://s.glbimg.com/es/sde/f/2017/02/21/4cecb2d3b0bd0d5da24fc2c3b6d7b170_FORMATO.png,5,2.16,Rodrigo Nascimento França ,2.4,3,3.42,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'PE': 1, 'RB': 1, 'SG': 0}",7,0.8200000000000001
+93414,Joel Carli,263,https://s.glbimg.com/es/sde/f/2016/05/20/6a298f9b1dd5a88146f9f926e4b91a1b_FORMATO.png,7,2.73,Mauro Joel Carli,0.0,3,9.19,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",2,0.0
+93788,Evander,267,https://s.glbimg.com/es/sde/f/2017/04/06/2df6998f5d8a75cf5337b55ad525fd7d_FORMATO.png,2,-1.65,Evander da Silva Ferreira,0.0,4,0.8,10,"{'CA': 0, 'FC': 0, 'PE': 0}",6,0.0
+93490,Guilherme,303,,0,0.0,Guilherme Henrique Silva Nogueira,0.0,1,2.0,10,{},6,0.0
+93787,Andrey,267,https://s.glbimg.com/es/sde/f/2017/04/06/f30ccd95961eb8e4131995d63a8fcc34_FORMATO.png,0,0.0,Andrey Ramos do Nascimento,0.0,4,1.0,10,{},6,0.0
+93746,Lenis,292,https://s.glbimg.com/es/sde/f/2016/05/01/9159bcd85db743f56cfb40ade72eba88_FORMATO.png,4,0.8,Reinaldo Lenis Montes,0.7000000000000001,5,2.61,10,"{'CA': 1, 'FC': 3, 'FD': 1, 'FF': 1, 'FS': 0, 'PE': 3, 'RB': 2}",2,-0.15
+93551,Igor,373,https://s.glbimg.com/es/sde/f/2017/04/27/1869f3cf1e00c12ad0d7b7f267efd47e_FORMATO.png,7,1.3,Igor Henrique Martins Machado,0.0,4,3.61,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+93739,Peu,266,https://s.glbimg.com/es/sde/f/2017/06/09/1800983023e7cb2e73bd054ad50e2f05_FORMATO.png,0,0.0,Peterson Silvino da Cruz,0.0,5,1.0,10,{},6,0.0
+93797,Marcinho,263,https://s.glbimg.com/es/sde/f/2017/04/18/82f4f9a2d122680dcc40e55727214711_FORMATO.png,0,0.0,Márcio Almeida de Oliveira,0.0,2,3.0,10,{},5,0.0
+50439,Vilson,264,https://s.glbimg.com/es/sde/f/2017/04/20/8318615325e46161f7739d05c53abb81_FORMATO.png,0,0.0,Vilson Xavier de Meneses Junior,0.0,3,4.0,10,{},5,0.0
+93785,Alan Cardoso,267,https://s.glbimg.com/es/sde/f/2017/05/24/7fd89a2cf130263868b36903498c1059_FORMATO.png,1,-1.3,Alan Cardoso de Andrade,0.0,2,1.21,10,"{'CA': 0, 'FC': 0, 'RB': 0}",6,0.0
+93108,Mateus Vital,267,https://s.glbimg.com/es/sde/f/2017/04/24/fde017fc32efb6582710007242bff4d4_FORMATO.png,10,3.0,Mateus da Silva Vital Assumpção,-0.9,4,8.17,10,"{'A': 0, 'CA': 0, 'FC': 3, 'FD': 1, 'FF': 0, 'FS': 1, 'PE': 3, 'RB': 0}",7,-0.46
+93846,Rafael Fachin,294,https://s.glbimg.com/es/sde/f/2017/04/24/89058efe339ca56ee7de3d841f4c36f9_FORMATO.png,0,0.0,Rafael Augusto Leite Fachin,0.0,1,1.0,10,{},6,0.0
+93789,Caio Monteiro,267,https://s.glbimg.com/es/sde/f/2017/04/06/1be1912d42afdf3054cbab8eb7709907_FORMATO.png,2,4.1,Caio Monteiro Costa,0.0,5,2.5300000000000002,10,"{'FS': 0, 'G': 0, 'PE': 0}",6,0.0
+90444,Moisés,264,https://s.glbimg.com/es/sde/f/2017/04/20/341682456801d7e2449a82062f6ef9be_FORMATO.png,0,0.0,Moisés Roberto Barbosa,0.0,2,3.0,10,{},6,0.0
+90532,Arthur,284,https://s.glbimg.com/es/sde/f/2017/04/23/ad145ff7dd594174acc3863cb2569b83_FORMATO.png,9,4.6,Arthur Henrique Ramos de Oliveira Melo,4.0,4,9.04,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 3, 'PE': 3, 'RB': 2}",6,0.41000000000000003
+90531,Raul,284,https://s.glbimg.com/es/sde/f/2016/04/30/20baeb0768cee2ef5e7e760abad4ddfa_FORMATO.png,0,0.0,Raul José Cardoso,0.0,2,1.0,10,{},6,0.0
+90399,Fernandes,263,https://s.glbimg.com/es/sde/f/2016/05/20/02861c5449623b3038673b374f31d53e_FORMATO.png,1,-0.30000000000000004,Jonathan da Silveira Fernandes Reis,0.0,4,3.7199999999999998,10,"{'FF': 0, 'FS': 0, 'PE': 0}",2,0.0
+93986,Salazar,314,https://s.glbimg.com/es/sde/f/2017/04/28/54e5ebd574f6ef20650d90d7e32baf44_FORMATO.png,0,0.0,Luis Ángel Salazar Cuesta,0.0,3,3.0,10,{},6,0.0
+98706,Pedrinho,264,https://s.glbimg.com/es/sde/f/2017/04/23/cd96a7cb3e7a985ccca026996bab950b_FORMATO.png,2,0.2,Pedro Victor Delmino da Silva,0.0,5,0.77,10,"{'FD': 0, 'PE': 0}",6,0.0
+90566,Rafael Longuine,277,https://s.glbimg.com/es/sde/f/2017/05/02/8d0a8a9e9b42efa6f8fc7ee4afc1618c_FORMATO.png,3,-0.93,Rafael Vinicius Carvalho Longuine,0.0,4,1.32,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+90535,Alex,283,https://s.glbimg.com/es/sde/f/2017/04/05/144a762b27b789eee8fd1c1a682c0512_FORMATO.png,1,4.2,Alex Sandro dos Santos Apolinario,0.0,4,3.3,10,"{'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+90715,Luiz Fernando ,373,https://s.glbimg.com/es/sde/f/2017/04/27/50e52c4a6961abbf9a5a1232332cdfd3_FORMATO.png,8,0.93,Luiz Fernando Moraes dos Santos,0.7000000000000001,4,2.62,10,"{'CA': 0, 'FC': 0, 'FD': 1, 'FF': 0, 'FS': 3, 'G': 0, 'I': 0, 'PE': 6, 'RB': 0}",6,-0.13
+90768,Fabrício Bruno,315,https://s.glbimg.com/es/sde/f/2017/04/24/c4a8873e3ad989db3e40b7149ed51789_FORMATO.png,1,-0.6000000000000001,Fabrício Bruno Soares de Faria,-0.6000000000000001,3,2.98,10,"{'CA': 1, 'FC': 4, 'RB': 2}",7,-1.02
+90569,Yuri,277,https://s.glbimg.com/es/sde/f/2016/07/05/6918c687f15258af809e99a14e04318e_FORMATO.png,3,-1.03,Yuri Oliveira Lima,0.0,4,0.76,10,"{'CA': 0, 'FC': 0, 'PE': 0}",7,0.0
+90587,Cascardo,293,https://s.glbimg.com/es/sde/f/2017/04/23/772a99574fe81da3c28fa586c83c7c91_FORMATO.png,1,1.2,Gustavo Cascardo de Assis,1.2,2,2.6,10,"{'FS': 2, 'PE': 5, 'RB': 1}",7,-0.4
+90843,Elias,315,https://s.glbimg.com/es/sde/f/2017/04/24/d39a7668ae872daf6e04f923e0d16a54_FORMATO.png,0,0.0,Elias Martello Curzel,0.0,1,4.0,10,{},6,0.0
+90634,Lucas Mineiro,315,https://s.glbimg.com/es/sde/f/2017/04/24/a585ecd4b08d42c62414a32c9103edc3_FORMATO.png,2,-0.8,Lucas da Silva Izidoro,-1.6,4,1.9300000000000002,10,"{'FC': 4, 'FS': 2, 'PE': 2}",7,-0.39
+90651,Rodrigão,277,https://s.glbimg.com/es/sde/f/2016/06/28/9c44ed90c5f62aba040b5beb817a9a63_FORMATO.jpeg,2,-0.75,Rodrigo Gomes dos Santos,0.0,5,3.88,10,"{'FC': 0, 'FF': 0, 'PE': 0}",6,0.0
+90892,Wallace,287,https://s.glbimg.com/es/sde/f/2017/02/20/aa36264462b556b6c72220d5db2ba3f1_FORMATO.png,0,0.0,Wallace Ribeiro Barato,0.0,1,1.0,10,{},6,0.0
+90899,Lucas Fernandes,266,https://s.glbimg.com/es/sde/f/2017/01/13/3f13fe7c1e0ed2bf1ba83a2a19b157e8_FORMATO.png,2,1.85,Lucas Fernandes,0.0,5,4.21,10,"{'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+91001,Evandro,292,https://s.glbimg.com/es/sde/f/2017/05/01/44325047a16fc8c2d5d2dbee3907eb6a_FORMATO.png,3,-0.33,Evandro Lima de Oliveira Filho,0.0,2,0.76,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+91003,Alison,292,https://s.glbimg.com/es/sde/f/2017/02/14/cd74f75d4225633af1942d07603f11cf_FORMATO.png,0,0.0,Alison Vicente da Silva,0.0,5,1.0,10,{},6,0.0
+50459,Léo,283,https://s.glbimg.com/es/sde/f/2016/04/29/442f1e513bf554cc4cbcce5ae7ace03b_FORMATO.png,9,2.69,Leonardo Renan Simões de Lacerda,10.1,3,10.05,10,"{'A': 1, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 2, 'PE': 2, 'RB': 0, 'SG': 1}",7,1.99
+91094,Ábila,283,https://s.glbimg.com/es/sde/f/2016/07/06/ca240a78354b4b67a6388a15bdedc4f5_FORMATO.png,9,3.54,Ramón Darío Ábila,0.0,5,12.66,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+90933,Jean,265,https://s.glbimg.com/es/sde/f/2017/02/21/b7de298b3e5349e8acf3d31f1b831ffd_FORMATO.png,10,2.98,Jean Paulo Fernandes Filho,-2.0,1,9.38,10,"{'DD': 0, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,0.35000000000000003
+50856,Henrique,266,https://s.glbimg.com/es/sde/f/2016/04/29/a9d9178f59821bfca73d485e636ad040_FORMATO.png,9,1.38,Henrique Adriano Buss,-0.1,3,8.29,10,"{'CA': 0, 'FC': 0, 'FS': 1, 'FT': 0, 'PE': 2, 'RB': 0, 'SG': 0}",7,-1.03
+51042,Apodi,315,https://s.glbimg.com/es/sde/f/2017/04/24/287a66acd6363a7d660701c832982d75_FORMATO.png,10,2.13,Luiz Diallison de Souza Alves,1.5,2,6.93,10,"{'CA': 1, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 2, 'I': 0, 'PE': 2, 'RB': 2, 'SG': 0}",3,0.1
+51175,Denis,276,https://s.glbimg.com/es/sde/f/2016/05/01/9e4d589b32947151072c21d1d5b71747_FORMATO.png,0,0.0,Denis Cesar de Matos,0.0,1,5.0,10,{},5,0.0
+50645,Eduardo,265,https://s.glbimg.com/es/sde/f/2017/02/21/1667c807177ee329a96aa2102be09777_FORMATO.png,10,2.47,Carlos Eduardo Santos Oliveira,0.5,2,5.3,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 4, 'RB': 1, 'SG': 0}",7,-0.58
+51415,Roger Carvalho,373,https://s.glbimg.com/es/sde/f/2017/04/28/050f2523a89b53c80e67a8b25d407fea_FORMATO.png,10,2.6,Roger de Carvalho,-0.9,3,6.84,10,"{'FC': 3, 'FF': 0, 'FS': 3, 'PE': 3, 'RB': 0, 'SG': 0}",7,-0.49
+51299,Emerson Silva,263,https://s.glbimg.com/es/sde/f/2016/05/20/32eec64b3753a7d9b1192df90028abc9_FORMATO.png,0,0.0,Emerson dos Santos Silva,0.0,3,6.0,10,{},2,0.0
+51413,Walter,264,https://s.glbimg.com/es/sde/f/2017/04/20/196790f232d428bcd861ad55c55dd8cc_FORMATO.png,0,0.0,Walter Leandro Capeloza Artune,0.0,1,6.0,10,{},6,0.0
+51318,Leandro Donizete,277,https://s.glbimg.com/es/sde/f/2017/05/02/7c58801a7248a49556b48b3d0b29ca4d_FORMATO.png,3,1.03,Leandro Donizete Gonçalves da Silva,0.0,4,4.97,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+51772,Éverton Ribeiro,262,https://s.glbimg.com/es/sde/f/2017/06/24/7deee286983361a4845652b6c39be834_FORMATO.png,1,3.6,Éverton Augusto de Barros Ribeiro,3.6,4,12.56,10,"{'A': 1, 'CA': 1, 'FC': 3, 'FS': 1, 'PE': 6, 'RB': 2}",7,-2.44
+51705,Bruno Rodrigo,284,https://s.glbimg.com/es/sde/f/2017/04/23/d52f6bea6aa2f1491f7bd22855a3e821_FORMATO.png,1,-0.30000000000000004,Bruno Rodrigo Fenelon Palomo,0.0,3,5.11,10,{'PE': 0},7,0.0
+51792,Kanu,287,https://s.glbimg.com/es/sde/f/2017/02/20/2a67dc4c7c97236fb27abf4dbe5a39fc_FORMATO.png,5,3.94,Antonio Eduardo Pereira dos Santos,0.0,3,7.41,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,-0.22
+51700,Thiago Carleto,294,https://s.glbimg.com/es/sde/f/2017/05/15/e78cf3d6b6820ad71b0335abf0a64a0b_FORMATO.png,1,7.0,Thiago Carleto Alves,0.0,2,4.73,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+52253,Réver,262,https://s.glbimg.com/es/sde/f/2017/04/24/854cf1c9afe220c9f2a2751a12f2e7dd_FORMATO.png,9,4.08,Réver Humberto Alves Araújo,0.0,3,10.31,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+51905,Leandro Salino,287,https://s.glbimg.com/es/sde/f/2017/02/20/88732a4309dfb2ee375054e5e944d3cf_FORMATO.png,6,4.02,Leandro Salino do Carmo,0.0,2,6.5,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",2,0.0
+51319,Renato Cajá,303,https://s.glbimg.com/es/sde/f/2017/05/02/c6dd544b90a2c4194626f51e05b53b4e_FORMATO.png,6,2.17,Renato Adriano Jacó de Morais,1.0,4,7.45,10,"{'A': 1, 'CA': 1, 'CV': 1, 'FC': 3, 'FD': 0, 'FF': 1, 'FS': 3, 'G': 0, 'I': 1, 'PE': 2, 'RB': 2}",3,0.2
+71892,Wellington Silva,265,https://s.glbimg.com/es/sde/f/2017/02/18/3bbde337c0e14ff5863b2fb2a531bf69_FORMATO.png,0,0.0,Wellington do Nascimento Silva,0.0,2,7.0,10,{},5,0.0
+52674,Gilson,263,https://s.glbimg.com/es/sde/f/2017/04/17/41717887cc5c81bcd28ad1df6829c7e6_FORMATO.png,7,3.99,Gilson Gomes do Nascimento,0.0,2,9.09,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'FT': 0, 'PE': 0, 'RB': 0, 'SG': 0}",2,0.0
+53731,Ferdinando,314,https://s.glbimg.com/es/sde/f/2017/04/28/451b8463a985e60f7a6e4d877e47d26e_FORMATO.png,0,0.0,Ferdinando Pereira Leda,0.0,4,5.0,10,{},6,0.0
+55348,Luis Ricardo,263,https://s.glbimg.com/es/sde/f/2016/05/20/f1f631c4c995df1548717967d445801f_FORMATO.png,0,0.0,Luis Ricardo Silva Umbelino,0.0,2,8.0,10,{},6,0.0
+56102,João Paulo,294,https://s.glbimg.com/es/sde/f/2017/04/24/bd4f8a7faf06636fd48dc601b16ea0af_FORMATO.png,0,0.0,João Paulo da Silva,0.0,4,7.0,10,{},6,0.0
+60819,Dedé,283,https://s.glbimg.com/es/sde/f/2017/04/05/526dd85f05139f739aca91b753b00ec9_FORMATO.png,3,3.43,Anderson Vital da Silva,0.0,3,8.86,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",5,0.0
+55594,Xuxa,303,https://s.glbimg.com/es/sde/f/2017/04/25/f61368b41b39832165af38d0ac96fda8_FORMATO.png,2,0.55,Cássio Luís Rissardo,0.0,4,2.44,10,"{'PE': 0, 'RB': 0}",6,0.0
+54797,Túlio de Melo,315,https://s.glbimg.com/es/sde/f/2017/04/25/19e52a7282097054fc255711621c8e29_FORMATO.png,7,0.06,Túlio Vinícius Fróes de Melo,0.0,5,3.38,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0}",6,-0.05
+60788,Marquinhos,292,https://s.glbimg.com/es/sde/f/2017/05/03/cc800ad5ce3aeb287358e50e4352911b_FORMATO.png,3,3.03,Marcos Antônio da Silva Gonçalves,0.0,5,5.05,10,"{'A': 0, 'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+60853,Julio dos Santos,267,https://s.glbimg.com/es/sde/f/2017/04/17/649e4e7bd437c7088ca460c013ae1718_FORMATO.png,0,0.0,Julio Daniel dos Santos Rodríguez,0.0,4,5.0,10,{},6,0.0
+54395,Elias,282,https://s.glbimg.com/es/sde/f/2017/04/03/9fbc7e32d0d9db7b948212b98c23212a_FORMATO.png,8,1.85,Elias Mendes Trindade,0.0,4,11.85,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+60969,Patric,287,https://s.glbimg.com/es/sde/f/2017/04/24/89077bf2beda96cfae171fad51c21cd1_FORMATO.png,7,2.01,Patric Cabral Lalau,-0.30000000000000004,2,6.5,10,"{'CA': 1, 'FC': 1, 'FD': 0, 'FF': 2, 'FS': 0, 'I': 0, 'PE': 3, 'RB': 1, 'SG': 0}",2,-0.59
+60787,Willians,314,https://s.glbimg.com/es/sde/f/2017/06/07/e24d137ff5aa2e79299e85cf581744a1_FORMATO.png,6,0.23,Willians dos Santos Santana,0.0,5,3.23,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+60802,Bruno Gallo,267,https://s.glbimg.com/es/sde/f/2017/04/06/68766fe1a4a33ee25c95b972979bf44c_FORMATO.png,1,-0.6000000000000001,Bruno Vieira Gallo,0.0,4,1.7000000000000002,10,"{'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+60784,Rafael Carioca,282,https://s.glbimg.com/es/sde/f/2017/04/03/902e1c13569f1c4cc9f929691cc6d625_FORMATO.png,10,1.19,Rafael de Souza Pereira,-1.3,4,5.61,10,"{'CA': 1, 'FC': 3, 'FS': 1, 'PE': 0, 'RB': 1}",3,-0.36
+61033,Rodriguinho,264,https://s.glbimg.com/es/sde/f/2017/04/20/ff3f0ec8867916a05745cdee54815442_FORMATO.png,7,3.61,Rodrigo Eduardo Costa Marinho,-3.2,4,13.43,10,"{'A': 0, 'CA': 1, 'FC': 4, 'FD': 0, 'FF': 1, 'FS': 2, 'G': 0, 'I': 0, 'PE': 3, 'RB': 0}",7,-1.06
+60859,Jael,284,https://s.glbimg.com/es/sde/f/2017/04/23/585f69babcaf14c7eaf22537e3c5338c_FORMATO.png,0,0.0,Jael Ferreira Vieira,0.0,5,5.0,10,{},5,0.0
+68725,Diego Renan,315,https://s.glbimg.com/es/sde/f/2017/04/24/6cdeb7e2779c671c69473bc599c9eab2_FORMATO.png,2,0.2,Diego Renan de Lima Ferreira,0.0,2,5.12,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0}",7,0.0
+62086,Pará,262,https://s.glbimg.com/es/sde/f/2017/04/24/44fa9261c93718d8ee74e043fad7adbb_FORMATO.png,7,2.4,Marcos Rogério Ricci Lopes,0.0,2,8.98,10,"{'A': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+61149,Lucca,303,https://s.glbimg.com/es/sde/f/2017/05/02/bd59d7bbf1fff0ce2e2dd4b489c5c99a_FORMATO.png,10,8.66,Lucca Borges Brito,11.2,5,22.14,10,"{'A': 0, 'CA': 1, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 6, 'G': 1, 'I': 2, 'PE': 3, 'RB': 2}",7,0.88
+62047,Jean,275,https://s.glbimg.com/es/sde/f/2017/04/18/84289863d6f3328bec523c3cfeadb268_FORMATO.png,6,3.9699999999999998,Jean Raphael Vanderlei Moreira,0.0,2,15.59,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'PP': 0, 'RB': 0, 'SG': 0}",5,0.0
+61985,Airton,263,https://s.glbimg.com/es/sde/f/2016/05/19/53e1bd0759a8f98439752def04457e15_FORMATO.png,3,1.17,Airton Ribeiro Santos,0.0,4,5.63,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+61211,Carlos Cesar,282,https://s.glbimg.com/es/sde/f/2017/04/03/ed8cd5220fe7c5ba0069143fad70f518_FORMATO.png,1,-0.7000000000000001,Carlos Cesar Neves,0.0,2,4.46,10,"{'FS': 0, 'PE': 0}",5,0.0
+72007,Uillian Correia,287,https://s.glbimg.com/es/sde/f/2017/04/01/f5509c6e7e2831171a293b2e8b83e1bc_FORMATO.png,10,1.5899999999999999,Uillian Correia Granemann,3.2,4,3.62,10,"{'CA': 0, 'FC': 0, 'FF': 1, 'FS': 0, 'G': 0, 'PE': 3, 'RB': 2}",6,0.5700000000000001
+62104,Robinho,283,https://s.glbimg.com/es/sde/f/2016/05/12/bca701933eaad8640785a2a634d5edf4_FORMATO.png,5,2.26,Róbson Michael Signorini,0.8,4,8.69,10,"{'CA': 0, 'FC': 1, 'FD': 1, 'FF': 3, 'FS': 1, 'G': 0, 'I': 1, 'PE': 6, 'RB': 0}",7,-1.17
+62009,Camilo,263,https://s.glbimg.com/es/sde/f/2016/06/28/8a03ee3ad9899f775f55818fc2c7e956_FORMATO.jpeg,4,1.58,Fernando Camilo Farias,1.9,4,9.66,10,"{'FC': 1, 'FD': 1, 'FF': 1, 'FS': 2, 'PE': 1}",2,-1.4100000000000001
+61188,Gilberto,276,https://s.glbimg.com/es/sde/f/2016/08/18/6af48de27fa231f0a84e3301c9451cb9_FORMATO.png,5,1.58,Gilberto Oliveira Souza Júnior,0.0,5,4.2,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+62128,Walter,373,https://s.glbimg.com/es/sde/f/2017/06/01/bba975f9c1f34505f37eedc4d7693aad_FORMATO.png,6,1.1,Walter Henrique da Silva,0.0,5,7.84,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+62024,Edimar,276,https://s.glbimg.com/es/sde/f/2017/04/25/0991c88dd099660fdb7cfc88a4bedab1_FORMATO.png,0,0.0,Edimar Curitiba Fraga,0.0,2,5.0,10,{},6,0.0
+62121,Vanderlei,277,https://s.glbimg.com/es/sde/f/2016/05/01/82e0b04b2f7623a1d61ffaff2e36a59c_FORMATO.png,10,9.46,Vanderlei Farias da Silva,1.0,1,19.06,10,"{'DD': 1, 'DP': 0, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,-2.07
+62069,Maikon Leite,265,https://s.glbimg.com/es/sde/f/2017/02/18/d1beebf2d6769d1d954a6d387ae17218_FORMATO.png,2,-0.5,Maikon Fernando Souza Leite,0.0,5,2.15,10,"{'FC': 0, 'FS': 0, 'I': 0}",5,0.0
+62130,William Matheus,294,https://s.glbimg.com/es/sde/f/2017/04/24/dc3d5fdf33d1716e51abe9c2aad2d182_FORMATO.png,9,3.4,William Matheus da Silva,-2.0,2,7.45,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 5, 'RB': 0, 'SG': 0}",7,-0.67
+62129,Wellington,267,https://s.glbimg.com/es/sde/f/2017/05/31/dd89d6216d99df8fdd4aae38684aec26_FORMATO.png,4,-1.7000000000000002,Wellington Aparecido Martins,0.0,4,0.86,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+62974,Werley,294,https://s.glbimg.com/es/sde/f/2017/04/24/5d30208b79a04fd4710a6c79831dae42_FORMATO.png,10,3.52,Werley Ananias da Silva,0.30000000000000004,3,8.1,10,"{'FC': 2, 'FD': 1, 'FF': 1, 'FS': 1, 'PE': 3, 'RB': 0, 'SG': 0}",7,-0.34
+63110,Alan Ruschel,315,https://s.glbimg.com/es/sde/f/2017/04/24/5445b9aabe74f7acf2c52104cb6270ff_FORMATO.png,0,0.0,Alan Luciano Ruschel,0.0,2,3.0,10,{},6,0.0
+62997,João Paulo,314,https://s.glbimg.com/es/sde/f/2017/04/28/61a2cc88c95e6ada6bf3c127a23ec96f_FORMATO.png,0,0.0,João Paulo Purcino de Almeida,0.0,2,4.0,10,{},6,0.0
+63013,Marcos Rocha,282,https://s.glbimg.com/es/sde/f/2017/04/03/043d9369ddb104e41861bbe7b79afb5d_FORMATO.png,2,3.35,Marcos Luis Rocha Aquino,0.0,2,11.33,10,"{'A': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+63128,Douglas,276,https://s.glbimg.com/es/sde/f/2016/10/24/daecab9e41dda92b025a194ccf942d0e_FORMATO.png,1,0.9,Douglas Silva Bacelar,0.0,3,3.2800000000000002,10,"{'FC': 0, 'PE': 0, 'RB': 0}",6,0.0
+63058,Willian Farias,287,https://s.glbimg.com/es/sde/f/2017/04/24/15cf98a07f1ca5efaa16bc8321c04658_FORMATO.png,8,3.21,Willian Roberto Farias,-0.6000000000000001,4,8.41,10,"{'CA': 0, 'FC': 2, 'FF': 0, 'FS': 2, 'FT': 0, 'PE': 2, 'RB': 0}",7,-1.3599999999999999
+63158,Moisés,275,https://s.glbimg.com/es/sde/f/2017/04/18/a2b616905dc5f0c3eddcfafd4814e2d9_FORMATO.png,0,0.0,Moisés Lima Magalhães,0.0,4,10.0,10,{},5,0.0
+63219,Luan,282,https://s.glbimg.com/es/sde/f/2017/04/03/5472237b431bf42b1ce79273d48c8e2f_FORMATO.png,3,1.27,Luan Madson Gedeão De Paiva,0.7000000000000001,5,6.32,10,"{'FC': 1, 'FD': 1, 'FS': 1, 'PE': 1, 'RB': 0}",2,-0.14
+63000,Victor Ramos,315,https://s.glbimg.com/es/sde/f/2017/04/25/b46cb463e6cdc67676c6fde0cbbdfdf9_FORMATO.png,9,3.09,Victor Ramos Ferreira,0.0,3,8.98,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",5,0.0
+68693,Armero,265,https://s.glbimg.com/es/sde/f/2017/02/21/db1cdca479125a2d236ee31275630a71_FORMATO.png,2,-1.15,Pablo Estifer Armero,0.0,2,2.03,10,"{'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+68698,Bruno Silva,263,https://s.glbimg.com/es/sde/f/2016/05/20/473777983ee50165bf691b0f029cac11_FORMATO.png,9,6.6,Bruno César Pereira da Silva,2.9,4,12.98,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 2, 'FS': 0, 'G': 0, 'PE': 3, 'RB': 2}",7,-0.29
+63422,Jucilei,276,https://s.glbimg.com/es/sde/f/2017/04/25/a6c1399add6e3c7d17ad9a708974cd21_FORMATO.png,10,5.51,Jucilei da Silva,12.4,4,15.44,10,"{'FC': 1, 'FD': 0, 'FF': 1, 'FS': 4, 'G': 1, 'PE': 4, 'RB': 2}",7,1.8599999999999999
+68749,Everton Heleno,373,https://s.glbimg.com/es/sde/f/2015/01/27/7c510cce0aa473eba2973d3e92c519d4_FORMATO.jpeg,1,-0.5,Everton Heleno dos Santos,0.0,4,2.14,10,{'FC': 0},6,0.0
+63177,Júnior Viçosa,373,https://s.glbimg.com/es/sde/f/2017/04/28/d1909a944130931c13b961fd7bf4ce3a_FORMATO.png,7,0.53,Luiz Severo Júnior,0.0,5,3.85,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0}",6,0.0
+50407,Marquinho,266,https://s.glbimg.com/es/sde/f/2016/07/30/7905e0520c53cd23701cb3eddd0d3d19_FORMATO.png,4,-0.4,Marco Antonio de Mattos Filho,-0.8,4,2.98,10,"{'CA': 0, 'FC': 1, 'PE': 1, 'RB': 0}",6,-0.22
+68690,André,292,https://s.glbimg.com/es/sde/f/2017/03/12/15292d87c87458b6575b789d1e0b3a77_FORMATO.png,9,4.34,André Felipe Ribeiro de Souza,2.6,5,8.92,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 1, 'G': 0, 'I': 0, 'PE': 1, 'RB': 1}",7,-0.42
+68745,Vecchio,277,https://s.glbimg.com/es/sde/f/2016/06/28/b28314056abc5bb43d464ba66e1d0552_FORMATO.jpeg,1,-1.3,Emiliano Gabriel Vecchio,0.0,4,1.69,10,"{'FD': 0, 'I': 0, 'PE': 0}",6,0.0
+63172,Paulão,267,https://s.glbimg.com/es/sde/f/2017/05/17/e601d16bd24dd07614db1ad805107a5d_FORMATO.png,9,1.55,Paulo Marcos de Jesus Ribeiro,5.1,3,5.49,10,"{'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 2, 'RB': 1, 'SG': 1}",7,0.87
+50421,Wesley,276,https://s.glbimg.com/es/sde/f/2016/05/01/df95d867f8ae0ddd0e0485b9b344e610_FORMATO.png,1,1.2,Wesley Lopes Beltrame,0.0,4,4.1,10,"{'FC': 0, 'RB': 0}",2,0.0
+68758,Fernandinho,284,https://s.glbimg.com/es/sde/f/2017/04/23/7bc968863bb32cf46c3aa7067b5514f8_FORMATO.png,6,6.38,Luiz Fernando Pereira da Silva,1.4,5,10.2,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'PE': 1, 'RB': 1}",7,-1.67
+68744,Emerson Sheik,303,https://s.glbimg.com/es/sde/f/2017/06/01/da3106efc7379dcf3c942213ac978f0e_FORMATO.png,6,1.67,Márcio Passos de Albuquerque,-1.6,5,4.53,10,"{'A': 0, 'CA': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 5, 'RB': 2}",3,-0.91
+68773,Henrique Almeida,294,https://s.glbimg.com/es/sde/f/2017/04/24/95e996eaef78ad7ac0e285e3d6d057e0_FORMATO.png,10,4.03,Henrique Almeida Caixeta Nascentes,0.9,5,14.07,10,"{'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'FT': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 1}",7,-0.02
+68784,Júnior Dutra,314,https://s.glbimg.com/es/sde/f/2017/04/25/448f2fd931dfdfe48b3cb84ea4f0665a_FORMATO.png,4,2.55,Sérgio Dutra Júnior,3.5,5,6.15,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 1, 'PE': 0, 'RB': 0}",6,-0.27
+68770,Camacho,264,https://s.glbimg.com/es/sde/f/2017/04/19/9bf8902250718281651dc2ae9999d574_FORMATO.png,6,0.58,Guilherme de Aguiar Camacho,-0.30000000000000004,4,3.94,10,"{'FC': 0, 'FF': 0, 'PE': 1, 'RB': 0}",6,-0.54
+68808,Nino Paraíba,303,https://s.glbimg.com/es/sde/f/2017/05/02/d14ab91bfca642dc286aec9f19adea15_FORMATO.png,9,5.68,Severino do Ramo Clementino da Silva,-0.2,2,20.16,10,"{'A': 0, 'CA': 0, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 7, 'RB': 2, 'SG': 0}",7,-1.9300000000000002
+68822,Rafael Santos,265,https://s.glbimg.com/es/sde/f/2017/05/16/f798488456d6106dffa1290a3ba13758_FORMATO.png,0,0.0,Rafael de Carvalho Santos,0.0,1,3.0,10,{},6,0.0
+68827,Renato Chaves,266,https://s.glbimg.com/es/sde/f/2016/04/29/1ea275be2b3908677e2dc5d61a3c2995_FORMATO.png,1,-1.3,Renato de Araújo Chaves Júnior,0.0,3,3.32,10,"{'FC': 0, 'PE': 0}",5,0.0
+68887,Gum,266,https://s.glbimg.com/es/sde/f/2016/04/29/0e6b421a8c0214078fd1f5854cce3874_FORMATO.png,0,0.0,Welington Pereira Rodrigues,0.0,3,7.0,10,{},5,0.0
+68807,Neto Berola,294,https://s.glbimg.com/es/sde/f/2017/04/24/f3039b70ee89382f40b6b09074e46900_FORMATO.png,5,2.2800000000000002,Sosthenes José Santos Salles,0.0,5,9.78,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+68893,André Lima,287,https://s.glbimg.com/es/sde/f/2017/05/28/8c9906d1639eafeb5779494c61890457_FORMATO.png,3,5.33,André Luiz Barretto Silva Lima,0.0,5,7.55,10,"{'A': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",6,0.0
+68884,Klever,373,https://s.glbimg.com/es/sde/f/2017/04/27/76d01b3a27b9f9546d7f9647da5829db_FORMATO.png,1,-8.3,Klever Rodrigo Gomes Rufino,0.0,1,0.71,10,"{'GS': 0, 'PE': 0}",6,0.0
+68834,Rithely,292,https://s.glbimg.com/es/sde/f/2016/05/01/c410c14470ebc6e02ab963212b89a17a_FORMATO.png,8,4.17,Francisco Rithely da Silva Sousa,0.0,4,10.51,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",7,0.0
+68901,Rodrigo Pimpão,263,https://s.glbimg.com/es/sde/f/2017/04/18/054a14cdfbb6abbdb2c8a8a75f0a9ee1_FORMATO.png,10,2.21,Rodrigo Pimpão Viana,1.8,5,6.54,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 2, 'FF': 1, 'FS': 0, 'G': 0, 'I': 1, 'PE': 7, 'RB': 1}",2,0.14
+68895,Wellington Silva,266,https://s.glbimg.com/es/sde/f/2017/01/13/890838d7b4008a35572bcd44dfafc6e0_FORMATO.png,2,0.75,Wellington Alves da Silva,-0.9,5,8.43,10,"{'FC': 1, 'FF': 1, 'FS': 0, 'I': 1, 'PE': 2, 'RB': 0}",6,-2.46
+68932,Renan Ribeiro,276,https://s.glbimg.com/es/sde/f/2016/05/01/443bbaa43b246a9ce7d8a4e682ed4af6_FORMATO.png,10,4.61,Renan Ribeiro,10.0,1,11.96,10,"{'CA': 0, 'DD': 4, 'FS': 0, 'GS': 1, 'PE': 0, 'SG': 0}",7,1.45
+68911,Diego Souza,292,https://s.glbimg.com/es/sde/f/2016/05/01/4ca75c7b4c6ef9d48c9ffe43f89b8f78_FORMATO.png,5,4.98,Diego Souza de Andrade,2.5,4,16.34,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 3, 'G': 0, 'PE': 3, 'RB': 1}",7,-0.79
+68896,Ramon,267,https://s.glbimg.com/es/sde/f/2010/11/12/9ae92955c3e7596e0ed7052250a56e27_FORMATO.jpeg,0,0.0,Ramon de Morais Motta ,0.0,2,6.0,10,{},6,0.0
+68930,Kieza,287,https://s.glbimg.com/es/sde/f/2017/04/24/25d378570c1b3cbfb2f85427750a6b8c_FORMATO.png,7,3.0,Welker Marçal de Almeida,-1.4,5,9.24,10,"{'CA': 1, 'FC': 1, 'FD': 1, 'FF': 1, 'FS': 0, 'G': 0, 'I': 0, 'PE': 2, 'PP': 0, 'RB': 0}",7,0.21
+68920,Dudu,275,https://s.glbimg.com/es/sde/f/2017/04/18/5268d6ef98c67a25b1dabf90d489a37f_FORMATO.png,4,3.13,Eduardo Pereira Rodrigues,-0.6000000000000001,5,16.49,10,"{'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 2, 'RB': 0}",6,-1.02
+68929,Thiago Ribeiro,277,https://s.glbimg.com/es/sde/f/2017/02/19/4ec7b72d420d51f876c9ea73eab212cf_FORMATO.png,0,0.0,Thiago Ribeiro Cardoso,0.0,5,7.0,10,{},6,0.0
+68938,Giovanni Augusto,264,https://s.glbimg.com/es/sde/f/2017/04/19/c4d5da0001a31ba757c52ea56bf8cb21_FORMATO.png,2,-0.15,Giovanni Augusto Oliveira Cardoso,0.0,4,5.57,10,{'PE': 0},6,0.0
+68925,Leonardo Silva,282,https://s.glbimg.com/es/sde/f/2017/04/03/d52533a1acf6457724394d769b43771f_FORMATO.png,3,-0.53,Leonardo Fabiano da Silva e Silva,0.0,3,9.5,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",7,0.0
+68910,Anselmo,292,https://s.glbimg.com/es/sde/f/2017/06/06/b2cdf84621178662c029bae611378399_FORMATO.png,4,3.55,Anselmo de Moraes,0.0,4,6.5,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+68950,Ronaldo Alves,292,https://s.glbimg.com/es/sde/f/2016/07/08/b5631b95dc105cd68b154bfaa21ecf74_FORMATO.png,7,1.79,Ronaldo Luiz Alves,3.1,3,6.64,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FS': 0, 'I': 1, 'PE': 3, 'RB': 0, 'SG': 1}",7,0.74
+68928,Rafael,283,https://s.glbimg.com/es/sde/f/2016/04/29/43e8562bfd0ac31a9d9fd5bd5f87aee8_FORMATO.png,0,0.0,Rafael Pires Monteiro,0.0,1,10.0,10,{},6,0.0
+72037,Renan Fonseca,263,https://s.glbimg.com/es/sde/f/2016/05/20/8a933b2d225a7b56e6267a2148ab68d0_FORMATO.png,0,0.0,Renan de Oliveira Fonseca,0.0,3,3.0,10,{},6,0.0
+68953,Leandro Damião,262,https://s.glbimg.com/es/sde/f/2017/04/24/521c73a5e5228e27e72fe902667a99d3_FORMATO.png,5,7.54,Leandro Damião da Silva dos Santos,0.0,5,13.22,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",6,0.0
+68954,Marquinhos Gabriel,264,https://s.glbimg.com/es/sde/f/2017/04/23/9326bc84d0f7eff7d097d6e60ee392c0_FORMATO.png,7,4.8100000000000005,Marcos Gabriel do Nascimento,-1.7000000000000002,4,9.32,10,"{'A': 0, 'CA': 1, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 3, 'RB': 1}",6,-1.9300000000000002
+68979,Giovanni,282,https://s.glbimg.com/es/sde/f/2017/04/03/54ca82f676684e32e2092814be84c655_FORMATO.png,0,0.0,Giovanni Aparecido Adriano dos Santos,0.0,1,6.0,10,{},6,0.0
+68986,Gustavo Santos,314,https://s.glbimg.com/es/sde/f/2017/04/28/66d8349d86cb0a157df269d3cbb425b6_FORMATO.png,0,0.0,Gustavo dos Santos,0.0,2,1.0,10,{},6,0.0
+69008,Neto,315,https://s.glbimg.com/es/sde/f/2016/04/27/f217614f7ad8e77684e58501d147fa3a_FORMATO.png,0,0.0,Hélio Hermito Zampier Neto,0.0,3,5.0,10,{},5,0.0
+68987,João Vitor,303,https://s.glbimg.com/es/sde/f/2017/05/02/4b0d7dac70db84093f533231220f3287_FORMATO.png,0,0.0,João Vitor Lima Gomes,0.0,4,5.0,10,{},6,0.0
+68995,Régis Souza,265,https://s.glbimg.com/es/sde/f/2017/06/22/f0877c550c7c04d26f2b6c19b1028f8f_FORMATO.png,3,-0.2,Régis Ribeiro de Souza,0.1,2,2.15,10,"{'CA': 0, 'FS': 2, 'PE': 3, 'RB': 0}",6,-0.28
+69010,João Carlos,303,https://s.glbimg.com/es/sde/f/2017/05/02/d7292ead1ddbe03d301309fe8a47b770_FORMATO.png,0,0.0,João Carlos Heidemann,0.0,1,5.0,10,{},6,0.0
+69138,Pablo,293,https://s.glbimg.com/es/sde/f/2017/04/23/3edce5d707460f97a267436370d60be7_FORMATO.png,6,-1.75,Pablo Felipe Teixeira,0.0,5,2.65,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+69014,Manoel,283,https://s.glbimg.com/es/sde/f/2016/04/29/34d00289aba9d71e705b5b7a470861b8_FORMATO.png,0,0.0,Manoel Messias Silva Carvalho,0.0,3,10.0,10,{},6,0.0
+69040,Vladimir,277,https://s.glbimg.com/es/sde/f/2016/05/01/961c8216a0f294aa3cfbee03eaa996db_FORMATO.png,0,0.0,Vladimir Orlando Cardoso de Araújo Filho,0.0,1,4.0,10,{},6,0.0
+69047,Paulo Roberto,264,https://s.glbimg.com/es/sde/f/2017/04/20/ab90dca3a15edcb4ef4af21626e0d3a9_FORMATO.png,5,2.32,Paulo Roberto da Silva,5.2,4,3.5300000000000002,10,"{'A': 1, 'FC': 3, 'FD': 1, 'FS': 1, 'PE': 5, 'RB': 1}",6,1.01
+69036,Eduardo,373,https://s.glbimg.com/es/sde/f/2017/04/27/2d3afcc034a28fc71b3d6ce56582b860_FORMATO.png,5,-0.4, Eduardo José Diniz Costa,1.7000000000000002,2,0.78,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 1}",6,0.02
+69012,Santos,293,https://s.glbimg.com/es/sde/f/2017/04/23/27e1cdc40e6cfe45b59a89f20a9a2b4f_FORMATO.png,2,3.35,Aderbar Melo dos Santos Neto,0.0,1,5.43,10,"{'DD': 0, 'GS': 0, 'PE': 0, 'SG': 0}",6,0.0
+70929,Negueba,303,https://s.glbimg.com/es/sde/f/2017/06/07/fe68884503980ded30df6a7cb9cdd77b_FORMATO.jpeg,2,-0.6000000000000001,Guilherme Ferreira Pinto,0.0,5,3.9699999999999998,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+69018,Deivid,293,https://s.glbimg.com/es/sde/f/2017/04/23/7fa8d8853f5f9b5502dcde923aababee_FORMATO.png,4,0.7000000000000001,Deivid Willian da Silva,0.0,4,5.23,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'FT': 0, 'PE': 0, 'RB': 0}",7,-0.33
+69160,Gastón Fernández,284,https://s.glbimg.com/es/sde/f/2017/04/23/a007d48b7e937967df107f0fd412e09a_FORMATO.png,4,1.47,Gastón Nicolás Fernández,0.7000000000000001,4,4.82,10,"{'A': 0, 'FD': 1, 'FS': 0, 'PE': 1}",6,-0.13
+69165,Pablo,264,https://s.glbimg.com/es/sde/f/2017/04/20/c99a3be1e61944db1aad05f99ed5b954_FORMATO.png,9,3.83,Pablo Nascimento Castro,5.5,3,10.91,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 4, 'RB': 1, 'SG': 1}",7,0.19
+69249,Martín Silva,267,https://s.glbimg.com/es/sde/f/2017/04/06/5380df54d3b16b7d46117c5173040d3d_FORMATO.png,10,0.87,Martín Andrés Silva,5.2,1,7.37,10,"{'CA': 0, 'DD': 0, 'FS': 1, 'GS': 0, 'PE': 1, 'SG': 1}",7,1.87
+69177,Léo,294,https://s.glbimg.com/es/sde/f/2017/05/17/6b570687f8d47a6998a08f7f27fdd4ac_FORMATO.png,2,0.5,Leonardo Moreira Morais,-1.2,2,4.47,10,"{'CA': 1, 'FC': 5, 'FS': 1, 'PE': 2, 'RB': 2}",7,-0.65
+69705,Nikão,293,https://s.glbimg.com/es/sde/f/2017/04/23/f0381b648963d11c0a911835d6b060da_FORMATO.png,9,3.91,Maycon Vinícius Ferreira da Cruz,12.9,4,10.7,10,"{'A': 1, 'CA': 0, 'FC': 4, 'FD': 2, 'FF': 0, 'FS': 1, 'FT': 0, 'G': 1, 'I': 0, 'PE': 2, 'RB': 0}",6,2.18
+70116,Fellipe Bastos,264,https://s.glbimg.com/es/sde/f/2017/04/19/2333e7afbab5775fa04708f8532bdf88_FORMATO.png,1,1.4,Fellipe Ramos Ignez Bastos,0.0,4,4.25,10,"{'FD': 0, 'FF': 0, 'PE': 0}",6,0.0
+69282,Lucas Barrios,284,https://s.glbimg.com/es/sde/f/2017/04/23/cfc485340a51d2cf63f5fd033c85b2f1_FORMATO.png,6,3.45,Lucas Ramón Barrios Arioli,2.1,5,10.05,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 1, 'FS': 2, 'G': 0, 'I': 0, 'PE': 2, 'RB': 1}",6,0.05
+70009,Romulo,262,https://s.glbimg.com/es/sde/f/2017/04/24/b61c326027e887dd7e7893e82ca94121_FORMATO.png,1,-1.3,Romulo Borges Monteiro,0.0,4,5.89,10,"{'CA': 0, 'FC': 0, 'RB': 0}",6,0.0
+70058,Tiago Real,294,https://s.glbimg.com/es/sde/f/2017/04/24/80440f6618b79e66630f3d1bd8709562_FORMATO.png,8,1.29,Tiago Real do Prado,3.0,4,5.23,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 1, 'I': 0, 'PE': 0, 'RB': 0}",7,0.41000000000000003
+70222,Sidão,276,https://s.glbimg.com/es/sde/f/2017/04/25/6b33818b6514572559c1fef9b6ca9686_FORMATO.png,0,-2.0,Sidney Aparecido Ramos da Silva,0.0,1,6.25,10,{'CA': 0},6,0.0
+70323,Jorginho,265,https://s.glbimg.com/es/sde/f/2017/06/01/2d4e9fe5508ff0ceaf617a257b06885b_FORMATO.png,7,3.71,Jorge Amorim de Oliveira Campos,1.5899999999999999,6,11.04,10,{},7,0.14
+73992,Rodinei,262,https://s.glbimg.com/es/sde/f/2017/04/24/43537a69f2836d2da77aebc068eacd46_FORMATO.png,6,5.07,Rodinei Marcelo de Almeida,1.6,2,9.49,10,"{'A': 0, 'CA': 1, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 3, 'RB': 0, 'SG': 1}",6,0.37
+70046,Victor Ferraz,277,https://s.glbimg.com/es/sde/f/2016/05/01/58576d141c8216fac9dedb1df391d5e8_FORMATO.png,8,4.23,Victor Ferraz Macedo,-1.5,2,9.6,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 5, 'RB': 0, 'SG': 0}",6,-1.46
+70934,Jackson,265,https://s.glbimg.com/es/sde/f/2017/02/21/006f00c308607da2e5625e476d7e701e_FORMATO.png,0,0.0,Jackson de Souza,0.0,3,7.0,10,{},5,0.0
+70742,Seijas,315,https://s.glbimg.com/es/sde/f/2017/05/14/6f1a3086afde752f257e478b7ddadf03_FORMATO.png,8,3.08,Luis Manuel Seijas Gunther,0.0,4,7.21,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+70173,Ederson,262,https://s.glbimg.com/es/sde/f/2017/04/24/219907d77bba093529105f5b79abce53_FORMATO.png,5,0.9400000000000001,Ederson Honorato Campos,0.0,4,4.25,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+70666,Marllon,303,https://s.glbimg.com/es/sde/f/2017/05/02/40266a7126e1fd808b4350f90516f3f5_FORMATO.png,10,4.36,Marllon Gonçalves Jerônimo Borges,4.8,3,11.45,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 4, 'FT': 0, 'PE': 2, 'RB': 2, 'SG': 0}",7,-0.06
+70986,Léo Cittadini,277,https://s.glbimg.com/es/sde/f/2017/05/02/6694b4703f10f789b166d7ca4f6f764e_FORMATO.png,2,-0.25,Leonardo Cittadini,0.0,4,2.62,10,{'FC': 0},6,0.0
+71066,Mancuello,262,https://s.glbimg.com/es/sde/f/2017/04/24/8f9b227031fc772ea2210db5d441a2e5_FORMATO.png,3,5.13,Federico Mancuello,0.0,4,7.8100000000000005,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+70696,Fábio Carille,264,https://s.glbimg.com/es/sde/f/2017/04/22/b5151c5cf6b267103af7605949496c18_FORMATO.png,10,4.57,Fábio Luiz Carille de Araújo,4.83,6,11.03,10,{},7,0.0
+70581,Fillipe Soutto,287,https://s.glbimg.com/es/sde/f/2017/06/05/17f3216f11db1702707de11a5f0b6854_FORMATO.png,1,3.1,Fillipe Soutto Mayor Nogueira Ferreira,0.0,4,4.0,10,"{'PE': 0, 'RB': 0}",6,0.0
+70916,Diogo Barbosa,283,https://s.glbimg.com/es/sde/f/2017/04/22/9ee14b744ca9f1e250cc299b955bc6e9_FORMATO.png,9,5.25,Diogo Barbosa Mendanha,17.6,2,14.67,10,"{'A': 1, 'CA': 0, 'FC': 1, 'FD': 1, 'FF': 1, 'FS': 2, 'FT': 1, 'PE': 5, 'RB': 2, 'SG': 1}",7,3.76
+70944,Bruno Henrique,275,https://s.glbimg.com/es/sde/f/2017/06/22/b1c7b99be2c1d74a2735e6cb49f388ff_FORMATO.png,0,0.0,Bruno Henrique Corsini,0.0,4,11.0,10,{},7,0.0
+70132,Alan Santos,294,https://s.glbimg.com/es/sde/f/2017/04/24/fbeeb71f969362dfd7489a955a0a5b00_FORMATO.png,8,1.9100000000000001,Alan Santos da Silva,0.0,4,4.8,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",5,0.0
+71549,Kelvin,267,https://s.glbimg.com/es/sde/f/2017/04/24/6c15e084bbf28f0ec13f00762f49aa9d_FORMATO.png,5,1.72,Kelvin Mateus de Oliveira,0.0,5,5.03,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",5,0.0
+71479,Lucho González,293,https://s.glbimg.com/es/sde/f/2017/04/23/3b471798626f6a04ef3427efb99d1c23_FORMATO.png,6,-0.4,Luis Oscar González,1.2,4,6.35,10,"{'CV': 0, 'FC': 1, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 1}",7,-0.55
+71162,Vinícius,265,https://s.glbimg.com/es/sde/f/2017/06/01/a4f3ac6a4a79eebb1b9a2ec9388773ad_FORMATO.png,7,3.17,Vinícius Goes Barbosa de Souza,0.7000000000000001,4,7.72,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'G': 0, 'PE': 1, 'RB': 0}",2,-0.4
+71227,Maicon,276,https://s.glbimg.com/es/sde/f/2016/05/01/f3000bd2b412a315dad8796d7080a492_FORMATO.png,7,3.42,Maicon Pereira Roque,0.0,3,9.9,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+71571,Fernando Miguel,287,https://s.glbimg.com/es/sde/f/2017/02/20/5af7107ad71c63b6f670fd21749fc679_FORMATO.png,10,3.96,Fernando Miguel Kaufmann,3.7,1,11.3,10,"{'CA': 0, 'DD': 4, 'FS': 0, 'GS': 4, 'PE': 1, 'SG': 0}",7,0.37
+71572,Gabriel,284,https://s.glbimg.com/es/sde/f/2017/04/23/f2550afa5db7011619ab01d7d1032823_FORMATO.png,0,0.0,Gabriel Rybar Blos,0.0,3,1.0,10,{},6,0.0
+71818,Bruno Grassi,284,https://s.glbimg.com/es/sde/f/2017/04/23/d503f996169e9aafe30487a9921bed97_FORMATO.png,0,0.0,Bruno Medeiros Grassi,0.0,1,4.0,10,{},7,0.0
+71927,Diego Rosa,373,https://s.glbimg.com/es/sde/f/2017/06/21/113421cfc95b13d42d7a61ddfd0b906c_FORMATO.png,6,1.83,Diego da Silva Rosa,-0.30000000000000004,4,7.31,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 1, 'RB': 0}",6,-0.18
+71937,Juninho,265,https://s.glbimg.com/es/sde/f/2017/02/21/1185bf0445861de05869b21f919a1d93_FORMATO.png,9,2.51,Paulo Roberto Valoura Júnior,0.6000000000000001,4,10.35,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 2, 'FS': 0, 'FT': 0, 'PE': 5, 'RB': 1}",7,-0.6000000000000001
+72079,Bruno Cortez,284,https://s.glbimg.com/es/sde/f/2017/04/23/6917817dc16511add10913a87474f1f7_FORMATO.png,9,5.4,Bruno Cortês Barbosa,2.3,2,10.86,10,"{'CA': 1, 'FC': 1, 'FS': 0, 'G': 0, 'PE': 1, 'RB': 3, 'SG': 0}",3,-0.5
+71709,Cuéllar,262,https://s.glbimg.com/es/sde/f/2017/04/24/ec9b77bc929663a07ce6d4b21c78ed8e_FORMATO.png,5,1.24,Gustavo Leonardo Cuellar Gallego,-0.5,4,3.06,10,"{'CA': 0, 'FC': 1, 'FS': 0, 'PE': 0, 'RB': 0}",7,-0.86
+71920,Michel ,284,https://s.glbimg.com/es/sde/f/2017/04/23/555af733f4228e215781ed3d2cd99c56_FORMATO.png,9,5.73,Michel Ferreira dos Santos,7.2,4,9.6,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 1, 'G': 0, 'PE': 1, 'RB': 4}",6,1.16
+71724,Agenor,292,https://s.glbimg.com/es/sde/f/2016/07/12/b3b2f4d5febfcebd9c61128f21c52535_FORMATO.png,0,0.0,Agenor Detofol,0.0,1,4.0,10,{},6,0.0
+72168,João Paulo,263,https://s.glbimg.com/es/sde/f/2017/04/17/6b2d599609eccc7671f1c4a23739c2d7_FORMATO.png,9,1.29,João Paulo Mior,0.0,4,2.59,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",2,0.0
+72290,Jailson,275,https://s.glbimg.com/es/sde/f/2017/04/18/63a42550ea5f70d0bbc92287dd6ac259_FORMATO.png,0,0.0,Jailson Marcelino dos Santos,0.0,1,8.0,10,{},6,0.0
+72297,Airton ,314,https://s.glbimg.com/es/sde/f/2017/05/25/444e9d8df7c89d942e244f428e32811c_FORMATO.png,2,3.4,Airton Tirabassi,5.8,3,2.11,10,"{'FC': 0, 'FF': 0, 'PE': 3, 'RB': 1, 'SG': 1}",7,1.11
+79973,Helton Leite,263,https://s.glbimg.com/es/sde/f/2016/05/20/5fd57defcef29c5cd30495ee3eb4e67f_FORMATO.png,1,1.0,Helton Brant Aleixo Leite,0.0,1,3.32,10,"{'DD': 0, 'GS': 0}",6,0.0
+72376,Cléber,277,https://s.glbimg.com/es/sde/f/2017/05/02/b5c06e4d4ec940dea4ec97f888628b3b_FORMATO.png,1,4.5,Cléber Janderson Pereira Reis,0.0,3,6.49,10,"{'FC': 0, 'SG': 0}",5,0.0
+72362,Rodrigo Lindoso,263,https://s.glbimg.com/es/sde/f/2017/04/18/57ab5f981f4355a82d3d2f15ed01eb8e_FORMATO.png,8,3.8200000000000003,Rodrigo Oliveira Lindoso,4.8,4,10.26,10,"{'CA': 0, 'FC': 0, 'FD': 3, 'FF': 1, 'FS': 0, 'G': 0, 'PE': 2, 'RB': 1}",2,1.02
+72386,Hernane,265,https://s.glbimg.com/es/sde/f/2017/02/21/ab314baef088bf498a196e5fd2e6176b_FORMATO.png,0,0.0,Hernane Vidal Souza,0.0,5,10.0,10,{},5,0.0
+71704,Manga Escobar,267,https://s.glbimg.com/es/sde/f/2017/04/24/1ce4d6d602b56cabd2d5b1522af42b71_FORMATO.png,6,2.92,Andrés Ramiro Escobar Díaz,0.0,5,5.27,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",5,0.0
+72595,Mauricio Kozlinski,314,https://s.glbimg.com/es/sde/f/2017/04/28/9ab574fbf640f6bd28542bd1d9305d6f_FORMATO.png,9,3.1,Mauricio Kozlinski,0.0,1,8.1,10,"{'DD': 0, 'GS': 0, 'PE': 0, 'SG': 0}",6,0.0
+72490,Fred,287,https://s.glbimg.com/es/sde/f/2017/02/18/25a86aa5d44e9bdbf64ffd3c0f0a0c25_FORMATO.png,9,2.5300000000000002,Frederico Burgel Xavier ,7.1,3,5.5,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 1, 'PE': 3, 'RB': 0, 'SG': 0}",5,0.8300000000000001
+72491,Bressan,284,https://s.glbimg.com/es/sde/f/2017/04/23/06d46a41c53307f20ca424fbe4e9bf64_FORMATO.png,1,-1.4,Matheus Simonete Bressanelli,0.0,3,2.49,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+72603,William Menezes,294,https://s.glbimg.com/es/sde/f/2017/04/24/edb424e5188bff2f84c0a261b041b848_FORMATO.png,0,0.0,William Amorim Martins de Menezes,0.0,1,2.0,10,{},6,0.0
+72565,Luan,314,https://s.glbimg.com/es/sde/f/2017/04/28/ec0b73e82977113f481334a7e16633d8_FORMATO.png,9,2.2,Lázaro Luan Scapolan,0.0,4,5.89,10,"{'CA': 1, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 2, 'PE': 3, 'RB': 2}",7,-0.31
+72871,Cárdenas,287,https://s.glbimg.com/es/sde/f/2017/04/01/7b7ff2b832507542b6305c0425ffc2b7_FORMATO.png,0,0.0,Sherman Andrés Cárdenas Estupiñan,0.0,4,6.0,10,{},6,0.0
+72745,Escudero,267,https://s.glbimg.com/es/sde/f/2017/04/17/1351c50b833e0374eb58e4fde52d7646_FORMATO.png,1,0.0,Damián Ariel Escudero,0.0,4,3.89,10,{},6,-1.11
+73384,Samuel Xavier,292,https://s.glbimg.com/es/sde/f/2016/05/01/02f546c1013f3369de8475d0bf247287_FORMATO.png,8,2.19,Samuel Xavier Brito,5.0,2,3.13,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 1}",7,0.62
+72879,Vladimir Hernández,277,https://s.glbimg.com/es/sde/f/2017/02/19/f61c5d8d4580566cb1fa08020d2709ca_FORMATO.png,8,1.63,Vladimir Javier Hernández Rivero,0.7000000000000001,5,8.75,10,"{'CA': 0, 'FC': 0, 'FD': 1, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",2,-0.13
+73340,Getterson,294,https://s.glbimg.com/es/sde/f/2017/05/12/c2b9040eda92184c6453ef41ede377fd_FORMATO.png,3,-0.27,Getterson Alves dos Santos,-0.5,5,0.78,10,"{'CA': 0, 'FC': 1, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.05
+72893,Eduardo da Silva,293,https://s.glbimg.com/es/sde/f/2017/04/23/c47c6340a7d40ff5085ba517e5dc117d_FORMATO.png,2,2.1,Eduardo Alves da Silva,0.0,5,7.19,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+74083,Adryan ,262,https://s.glbimg.com/es/sde/f/2017/04/24/7f6002ce11349ef6f335b456dd179011_FORMATO.png,0,0.0,Adryan Oliveira Tavares,0.0,4,2.0,10,{},6,0.0
+71631,Weverton,293,https://s.glbimg.com/es/sde/f/2017/04/23/2773ed93eeec40a1be23186dae64fad2_FORMATO.png,7,1.2,Weverton Pereira da Silva,0.7000000000000001,1,2.17,10,"{'CA': 0, 'DD': 1, 'FS': 0, 'GS': 1, 'PE': 1, 'SG': 0}",7,-0.54
+81798,Rossi,315,https://s.glbimg.com/es/sde/f/2017/04/25/7961da883e6911bba84810f448b878e6_FORMATO.png,9,2.14,Rosicley Pereira da Silva,-0.30000000000000004,5,8.02,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 2, 'FT': 0, 'G': 0, 'I': 1, 'PE': 5, 'RB': 0}",7,-0.25
+71719,Elton,303,https://s.glbimg.com/es/sde/f/2017/05/02/be1eeef6004ddca4490debdfc7a8f6ef_FORMATO.png,9,1.58,Elton Junior Melo Ataíde,1.6,4,5.84,10,"{'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 2, 'RB': 1}",7,0.2
+73446,Éderson,293,https://s.glbimg.com/es/sde/f/2017/05/26/1055c168d6c49467f567c27a6e48707a_FORMATO.png,4,3.45,Éderson Alves Ribeiro Silva,9.8,5,5.2,10,"{'FD': 3, 'FF': 0, 'FS': 1, 'G': 1, 'I': 1, 'PE': 4, 'RB': 0}",2,1.74
+73281,Renê Júnior,265,https://s.glbimg.com/es/sde/f/2017/02/21/d2e83c4ccb4fc13a49eef483160b96a4_FORMATO.png,7,5.78,Renê dos Santos Júnior,0.0,4,8.53,10,"{'CA': 0, 'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+73336,Rafael Martins,294,https://s.glbimg.com/es/sde/f/2017/04/24/0e99993b292bb541251f236f7827aeec_FORMATO.png,0,0.0,Rafael Martins Claro,0.0,1,2.0,10,{},6,0.0
+73515,Gabriel,262,https://s.glbimg.com/es/sde/f/2017/04/24/60215745abe8839e6e6df43fbe447e2c_FORMATO.png,1,-2.0,Gabriel Santana Pinto,0.0,5,3.51,10,"{'CA': 0, 'FC': 0, 'FS': 0}",5,0.0
+73540,Rogério,292,https://s.glbimg.com/es/sde/f/2016/08/31/6340e77cb18143e838ae03747e59b459_FORMATO.png,6,1.12,José Rogério de Oliveira,0.0,5,6.02,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+73635,Rildo,294,https://s.glbimg.com/es/sde/f/2017/04/24/e5f2da8b1a9007eed27b4e7ae55d64c2_FORMATO.png,8,2.85,Rildo de Andrade Felicissimo,0.4,5,6.83,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",7,-0.87
+73421,Rafael Vaz,262,https://s.glbimg.com/es/sde/f/2017/04/24/8665d503716b53b97bdd0f56d8ef0f39_FORMATO.png,5,3.88,Rafael Vaz dos Santos,5.3,3,7.78,10,"{'FC': 1, 'FF': 0, 'FS': 0, 'PE': 3, 'RB': 1, 'SG': 1}",6,-0.01
+73619,Wellington Nem,276,https://s.glbimg.com/es/sde/f/2017/02/18/a23f9ff565dd24baa68eeca4461e1b86_FORMATO.png,5,1.8399999999999999,Wellington Silva Sanches Aguiar,0.0,5,7.38,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+73869,Lennon,283,https://s.glbimg.com/es/sde/f/2017/05/03/d072e8eaeab8333c007a7cfb0af5aef4_FORMATO.png,3,0.53,John Lennon Silva Santos,0.0,2,4.03,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+73721,Marcos Vinícius,263,https://s.glbimg.com/es/sde/f/2017/06/22/282437e15992b52b48a3afaba944922b_FORMATO.png,0,0.0,Marcos Vinícius de Jesus Araújo,0.0,4,6.0,10,{},2,0.0
+72150,Fernandinho,303,https://s.glbimg.com/es/sde/f/2017/05/15/0d7fcc5d70203442a40e54487804a4f8_FORMATO.png,1,5.0,Fernando Galhardo Borges,0.0,2,5.66,10,{'SG': 0},7,0.0
+73513,Maranhão,266,https://s.glbimg.com/es/sde/f/2016/06/28/5b421dbcedd89d35ab19a538e6c4ab1f_FORMATO.jpeg,1,0.0,Francinilson Santos Meireles,0.0,5,2.23,10,{},6,0.0
+73517,Douglas Pires,265,https://s.glbimg.com/es/sde/f/2017/02/21/9cdc2aa37a7bf02a1d821f703b2ca8dd_FORMATO.png,0,0.0,Douglas Moreira Pires,0.0,1,4.0,10,{},6,0.0
+73876,Jomar,267,https://s.glbimg.com/es/sde/f/2017/04/24/75a0f0b187c040aec0d014550c2e765e_FORMATO.png,2,-0.8,Jomar Herculano Lourenço,0.0,3,1.67,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+73649,Lucas Pratto,276,https://s.glbimg.com/es/sde/f/2017/02/18/2291ee0103b8af06799aee5ab657b149_FORMATO.png,10,4.84,Lucas David Pratto,3.8,5,15.89,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FF': 2, 'FS': 3, 'G': 0, 'I': 0, 'PE': 1, 'RB': 1}",7,0.92
+73974,Alison,277,https://s.glbimg.com/es/sde/f/2016/05/01/5cbe20aa51d06aff64b21ed5d19bf070_FORMATO.png,2,2.1,Alison Lopes Ferreira,0.0,4,3.75,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+73800,Rodrigo Caio,276,https://s.glbimg.com/es/sde/f/2016/05/01/76c4acf534a1a01c922cb927acebb6e7_FORMATO.png,6,3.02,Rodrigo Caio Roquette Russo,1.1,3,9.14,10,"{'CA': 0, 'FC': 1, 'FS': 1, 'PE': 2, 'RB': 1, 'SG': 0}",7,-0.68
+73896,Geuvânio,262,https://s.glbimg.com/es/sde/f/2017/06/27/36ee7e4d8d65bb36e49c895ce0c5fe6c_FORMATO.png,0,0.0,Geuvânio Santos Silva,0.0,5,12.0,10,{},6,0.0
+73978,René,287,https://s.glbimg.com/es/sde/f/2017/02/20/7d48128069f52815dcd4acb921336cab_FORMATO.png,4,2.05,René Ferreira dos Santos,0.0,3,2.15,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+73991,Walisson Maia,294,https://s.glbimg.com/es/sde/f/2017/04/24/60830998fb2fc54f511a8d2b5c3a6f25_FORMATO.png,3,2.1,Walisson Moreira Farias Maia,0.0,3,5.31,10,"{'FC': 0, 'FD': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+74075,Wallace Oliveira,284,https://s.glbimg.com/es/sde/f/2017/04/23/2104c1ca7a642cecb433a89a4f335bfa_FORMATO.png,0,0.0,Wallace Oliveira dos Santos,0.0,2,5.0,10,{},6,0.0
+75295,Paolo Guerrero,262,https://s.glbimg.com/es/sde/f/2017/04/24/9f5565190d6c37e9959d0747a4ef6ea0_FORMATO.png,6,5.92,José Paolo Guerrero Gonzales,-1.9,5,11.13,10,"{'A': 0, 'CA': 1, 'FC': 6, 'FD': 2, 'FF': 1, 'FS': 2, 'G': 0, 'I': 0, 'PE': 2, 'RB': 0}",7,-5.1
+74060,Luiz Antonio ,315,https://s.glbimg.com/es/sde/f/2017/04/24/470fd6292588f4385e9c32a3aeef091c_FORMATO.png,10,2.49,Luiz Antonio de Souza Soares,-2.8,4,8.22,10,"{'A': 0, 'CA': 1, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'FT': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",7,-0.77
+74140,Élber,283,https://s.glbimg.com/es/sde/f/2016/04/29/26c6c8beefa35a5684da137e0e90f6dc_FORMATO.png,3,2.63,José Élber Pimentel da Silva,0.0,4,4.66,10,"{'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+74081,Guilherme Costa,267,https://s.glbimg.com/es/sde/f/2017/04/06/ea33443d8c666f61b78424b726238c89_FORMATO.png,1,0.5,Guilherme Costa Machado Silveira,0.0,4,5.5,10,{'FS': 0},6,0.0
+74213,Alejandro Guerra,275,https://s.glbimg.com/es/sde/f/2017/02/19/fa873321a36da270244cf230ac534a50_FORMATO.png,8,4.66,Alejandro Abraham Guerra Morales,15.4,4,15.03,10,"{'A': 0, 'CA': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 3, 'G': 2, 'PE': 5, 'RB': 2}",5,3.58
+77544,Jorginho,373,https://s.glbimg.com/es/sde/f/2017/04/28/24064c0ab4f724a2a4252d37f02b7223_FORMATO.png,9,2.45,Jorge de Moura Xavier,2.1,4,6.1,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'G': 0, 'I': 0, 'PE': 2, 'RB': 1}",7,0.36
+77529,Leandro Silva,314,https://s.glbimg.com/es/sde/f/2017/04/28/c86a46095a1f0ab0e29d11fbbb7e80a1_FORMATO.png,9,1.81,Leandro da Silva,5.5,2,7.4,10,"{'A': 0, 'CA': 0, 'CV': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 4, 'RB': 1, 'SG': 1}",7,1.24
+77500,Yago,303,https://s.glbimg.com/es/sde/f/2017/05/02/30bd8e94c27dbf6a20661d6027251a81_FORMATO.png,0,0.0,Yago Fernando da Silva,0.0,3,6.0,10,{},5,0.0
+77556,Bruno Brígido,294,https://s.glbimg.com/es/sde/f/2017/04/24/9375fdbbdc6ab66a27f8b4860036ebc1_FORMATO.png,0,0.0,Bruno Brígido de Oliveira,0.0,1,5.0,10,{},6,0.0
+80363,Ariel Cabral,283,https://s.glbimg.com/es/sde/f/2017/04/22/6b0dea43cdbaa38c369c09b3e7b75700_FORMATO.png,8,2.87,Alejandro Ariel Cabral,7.1,4,7.62,10,"{'CA': 0, 'FC': 0, 'FF': 1, 'FS': 5, 'PE': 4, 'RB': 3}",7,1.15
+74061,Gatito Fernández,263,https://s.glbimg.com/es/sde/f/2017/04/17/f87ed5808d28ef2d0446cae72617f143_FORMATO.png,9,5.34,Roberto Junior Fernández Torres,-4.0,1,19.2,10,"{'CA': 0, 'DD': 0, 'FS': 0, 'GS': 2, 'PE': 0, 'SG': 0}",7,-0.96
+74271,Edigar Junio,265,https://s.glbimg.com/es/sde/f/2017/02/21/707d81e3f025580fbfbb9ef89e2a6c4c_FORMATO.png,10,2.75,Edigar Junio Teixeira Lima ,0.7000000000000001,5,9.52,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'FT': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0}",7,0.06
+77777,João Schmidt ,276,https://s.glbimg.com/es/sde/f/2016/05/01/5214f931543621b3d23666a103f23d6e_FORMATO.png,3,1.0,João Felipe Schimdt Urbano,0.0,4,4.13,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+77551,Thomás,292,https://s.glbimg.com/es/sde/f/2017/06/13/bac4f7b0e6270fedb590658d950365b2_FORMATO.png,5,3.08,Thomás Jaguaribe Bedinelli,0.0,4,7.18,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",5,0.0
+77959,Copete,277,https://s.glbimg.com/es/sde/f/2017/05/02/38284b2eba393aa675069aff35def330_FORMATO.png,8,1.18,Jonathan Copete Valencia,-1.1,5,4.61,10,"{'CA': 0, 'FC': 3, 'FD': 0, 'FF': 1, 'FS': 3, 'G': 0, 'I': 0, 'PE': 6, 'RB': 0}",2,-2.54
+77967,Mena,292,https://s.glbimg.com/es/sde/f/2017/05/01/b7a4044c003473042da5143f01b9924e_FORMATO.png,1,-6.7,Eugenio Esteban Mena Reveco,0.0,2,2.88,10,"{'CV': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+78086,César,262,https://s.glbimg.com/es/sde/f/2017/04/24/8a28cbc657b6535a81d1cbad583afa48_FORMATO.png,0,0.0,César Bernardo Dutra,0.0,1,3.0,10,{},6,0.0
+78248,Gustavo Henrique,277,https://s.glbimg.com/es/sde/f/2017/05/02/ebaacf4dc046774b9b9f3003c35ba254_FORMATO.png,0,0.0,Gustavo Henrique Vernes,0.0,3,6.0,10,{},5,0.0
+78117,Everaldo,373,https://s.glbimg.com/es/sde/f/2017/04/27/85ec84d7e2ba8d7f658cb59fefc7d400_FORMATO.png,10,4.83,Everaldo Stum,0.2,5,9.58,10,"{'A': 0, 'FC': 1, 'FD': 1, 'FF': 0, 'FS': 1, 'FT': 0, 'G': 0, 'I': 1, 'PE': 1, 'PP': 0, 'RB': 0}",7,0.08
+78077,Madson,267,https://s.glbimg.com/es/sde/f/2017/04/06/e6c07b2728a78e64ae8c1ed0d4ce9d6a_FORMATO.png,1,-0.30000000000000004,Madson Ferreira dos Santos,0.0,2,3.02,10,{'PE': 0},6,0.0
+78371,Miller Bolaños,284,https://s.glbimg.com/es/sde/f/2016/05/10/e06dcc7c5fd2af9342d95cf318b5f431_FORMATO.png,0,0.0,Miller Alejandro Bolaños Reasco,0.0,5,14.0,10,{},7,0.0
+78495,Marcos,373,https://s.glbimg.com/es/sde/f/2017/04/27/f3d654b20ab83c212a2a18dab411b2e0_FORMATO.png,0,0.0,Marcos de Paula Dutra,0.0,1,1.0,10,{},6,0.0
+78478,Willian Arão,262,https://s.glbimg.com/es/sde/f/2017/04/24/afcab1eabef219480495acfdf11be8c3_FORMATO.png,9,2.34,Willian Souza Arão da Silva,0.7000000000000001,4,8.51,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 0, 'PE': 4, 'RB': 1}",6,-1.07
+78578,Paulinho,287,https://s.glbimg.com/es/sde/f/2017/04/24/c8f73d0634bf7a30846535c217610b26_FORMATO.png,7,0.21,Paulo Luiz Beraldo Santos,2.2,5,3.94,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 1, 'FT': 0, 'I': 0, 'PE': 0, 'RB': 1}",6,0.43
+78445,Renê,262,https://s.glbimg.com/es/sde/f/2017/04/24/bff75e6319bfeb83e043d1949b127c6e_FORMATO.png,5,3.18,Renê Rodrigues Martins,0.0,2,6.79,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+78548,Jean Mota,277,https://s.glbimg.com/es/sde/f/2017/05/02/6f250e3510eb4a5cf33223d20befd72c_FORMATO.png,9,2.66,Jean Mota Oliveira de Sousa,3.9,4,4.41,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 2, 'FS': 1, 'PE': 3, 'RB': 2}",6,0.65
+78584,Douglas Friedrich,314,https://s.glbimg.com/es/sde/f/2017/04/25/f36c749de572dbbaf8a43b8b71309942_FORMATO.png,1,18.5,Douglas Alan Schuck Friedrich,18.5,1,7.15,10,"{'CA': 1, 'DD': 5, 'FS': 1, 'SG': 1}",7,3.15
+78497,Arnaldo,263,https://s.glbimg.com/es/sde/f/2017/05/19/ff6d87578b92fff5c4d0ff68a60fc859_FORMATO.png,9,4.94,Arnaldo Manoel de Almeida,2.3,2,8.8,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 1, 'FS': 1, 'PE': 7, 'RB': 2, 'SG': 0}",7,0.15
+78464,Fábio Braga,303,https://s.glbimg.com/es/sde/f/2017/05/02/1b7b5c48a104e1244f38059d6b4e63a3_FORMATO.png,2,-0.45,Fábio Farroco Braga,0.0,4,1.74,10,"{'CA': 0, 'PE': 0, 'RB': 0}",6,0.0
+78605,Gabriel,264,https://s.glbimg.com/es/sde/f/2017/04/19/a258f3bd57275dfde4062d53fea35126_FORMATO.png,9,2.51,Gabriel Girotto Franco,0.0,4,7.16,10,"{'CA': 0, 'CV': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",7,0.0
+78715,Ramiro,284,https://s.glbimg.com/es/sde/f/2017/04/23/01565939c1e8813f9c1cc7cf9faeb903_FORMATO.png,8,5.29,Ramiro Moschen Benetti,1.1,4,16.76,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 0, 'G': 0, 'I': 0, 'PE': 1, 'RB': 1}",6,-1.69
+80124,Matheus Mancini,282,https://s.glbimg.com/es/sde/f/2017/05/19/5bca9708b9e4c88d08f62e3935fe8cb4_FORMATO.png,1,4.2,Matheus Mancini,4.2,3,2.47,10,"{'FC': 1, 'PE': 1, 'SG': 1}",6,0.47000000000000003
+78632,Bryan,283,https://s.glbimg.com/es/sde/f/2016/05/25/5b9b24c19e03fc40d70c6a4523ef44ae_FORMATO.png,1,0.30000000000000004,Bryan Silva Garcia,0.0,2,3.93,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+78839,Gabriel Gasparotto,277,https://s.glbimg.com/es/sde/f/2016/06/28/e51699e690f5560939a50fdbb0077328_FORMATO.jpeg,0,0.0,Gabriel Bordinhão Gasparotto,0.0,1,2.0,10,{},6,0.0
+78850,Reinaldo,315,https://s.glbimg.com/es/sde/f/2017/04/25/e786acca731a4a88d0504f8b3802f4d8_FORMATO.png,10,3.9,Reinaldo Manoel da Silva,2.1,2,11.99,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'G': 0, 'PE': 2, 'RB': 1, 'SG': 0}",7,0.27
+78840,Pedro Castro,314,https://s.glbimg.com/es/sde/f/2017/06/09/95ff53b7b15a7d6719bae7807804fc39_FORMATO.png,5,1.56,Pedro Henrique de Castro Silva,7.4,4,2.86,10,"{'A': 1, 'CA': 0, 'FC': 0, 'FS': 2, 'PE': 1, 'RB': 1}",7,1.4
+78856,Marcão Silva,373,https://s.glbimg.com/es/sde/f/2017/04/27/1fdbc57e3b15e752149d530d7425e5d3_FORMATO.png,9,3.11,Marcos Antônio Almeida Silva,7.9,4,7.93,10,"{'CA': 0, 'FC': 2, 'FF': 0, 'FS': 2, 'PE': 2, 'RB': 5}",7,0.8300000000000001
+78891,Petros,276,https://s.glbimg.com/es/sde/f/2017/06/28/8996a98a38601839090a38638e52bc30_FORMATO.png,0,0.0,Petros Mateus dos Santos Araújo,0.0,4,9.0,10,{},6,0.0
+79041,Thomaz,276,https://s.glbimg.com/es/sde/f/2017/04/28/df8a959dc2f3885176d2c02e5d69a246_FORMATO.png,8,2.94,Antonio Thomaz Santos de Barros,0.0,4,5.16,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,-0.56
+78897,Naldo,303,https://s.glbimg.com/es/sde/f/2017/05/02/466546b7c0d2a31683ba60341c08ef34_FORMATO.png,4,5.12,Marinaldo dos Santos Oliveira,0.0,4,7.59,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",6,0.0
+78968,Leandro Pereira,292,https://s.glbimg.com/es/sde/f/2017/02/22/377457c54b890731e2cfdb9013dc7397_FORMATO.png,2,2.3,Leandro Marcos Pereira,0.0,5,5.86,10,"{'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+78855,Thiago Santos,275,https://s.glbimg.com/es/sde/f/2017/04/18/2d51cc56ccd1291d116060e00ca663b6_FORMATO.png,6,3.2800000000000002,Thiago dos Santos,0.0,4,6.1,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+78994,Eduardo Henrique,293,https://s.glbimg.com/es/sde/f/2017/05/10/45db49dd3d8dceb223dc6d2afdf72801_FORMATO.png,1,-0.30000000000000004,Eduardo Henrique da Silva,0.0,4,2.62,10,"{'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+79035,Luiz Felipe,277,https://s.glbimg.com/es/sde/f/2017/05/02/3b3fe001039a93d9ea75e58f817381cf_FORMATO.png,0,0.0,Luiz Felipe do Nascimento dos Santos,0.0,3,5.0,10,{},5,0.0
+78991,Moisés Ribeiro,315,https://s.glbimg.com/es/sde/f/2017/04/25/c7b046cc3c9a420d4047bb8d6d4b6570_FORMATO.png,0,0.0,Moisés Ribeiro Santos,0.0,4,4.0,10,{},6,0.0
+79042,Tiago ,265,https://s.glbimg.com/es/sde/f/2017/02/21/dd2cb4f245812fd67912e347aba3c101_FORMATO.png,10,2.61,Tiago Pagnussat,0.2,3,9.61,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 1, 'RB': 0, 'SG': 0}",7,-0.35000000000000003
+79343,Doriva,373,https://s.glbimg.com/es/sde/f/2017/06/28/755b1c3ab8ca17635d7bf6eee5e6ba74_FORMATO.png,5,2.23,Dorival Guidoni Júnior,1.6800000000000002,6,5.87,10,{},7,0.1
+79334,Ricardo Silva,373,https://s.glbimg.com/es/sde/f/2017/04/27/e409f5c1c4551cf8457b204abc422a73_FORMATO.png,4,0.28,Ricardo César Dantas da Silva,0.0,3,2.94,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+79437,Roger Machado ,282,https://s.glbimg.com/es/sde/f/2017/04/28/4f5e786d736c65d7652d3dda5d40a131_FORMATO.png,10,2.95,Roger Machado Marques,3.19,6,10.8,10,{},7,0.09
+79578,Sassá,283,https://s.glbimg.com/es/sde/f/2017/06/22/e7d5b223d7908854c81e04f0e7e0fcc0_FORMATO.png,2,-0.55,Luiz Ricardo Alves,-0.30000000000000004,5,5.94,10,"{'FC': 0, 'FS': 0, 'PE': 1}",6,-0.06
+79193,Abuda,373,https://s.glbimg.com/es/sde/f/2017/04/27/2e749e5bfdd8d0bbc67e5441e8c73ff6_FORMATO.png,0,0.0,Jucimar Lima Pacheco,0.0,4,6.0,10,{},6,0.0
+79066,Alex Muralha,262,https://s.glbimg.com/es/sde/f/2017/04/24/3fb41a018fb2c9084cb4800fba9b6607_FORMATO.png,5,2.7,Alex Roberto Santana Rafael ,0.0,1,4.22,10,"{'DD': 0, 'FC': 0, 'FS': 0, 'GS': 0, 'PE': 0, 'SG': 0}",6,0.0
+79701,Lucas Silva,283,https://s.glbimg.com/es/sde/f/2017/04/06/f4598cc08e1804689d22d338ac6f7d9b_FORMATO.png,3,0.17,Lucas Silva Borges,0.0,4,4.96,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+80129,Jadson,303,https://s.glbimg.com/es/sde/f/2017/05/02/e17a729351ce9e086c7f6fdaf907c355_FORMATO.png,6,0.98,Jadson Alves dos Santos,0.0,4,3.68,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+80140,Nadson,315,https://s.glbimg.com/es/sde/f/2017/04/25/9c0263cf980f89da4cca8b6bc120585f_FORMATO.png,3,-0.07,Nadson da Silva Almeida,0.0,4,0.76,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0}",5,0.0
+79892,Nenén,315,https://s.glbimg.com/es/sde/f/2017/04/25/cf7dd5cb7c3b2349fc0a5145f894f495_FORMATO.png,7,1.37,Odair Souza ,1.5,4,2.45,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 3, 'PE': 0, 'RB': 0}",6,-0.36
+79702,Antônio Carlos ,275,https://s.glbimg.com/es/sde/f/2017/04/18/5b3fcb4c6c1625d8e38d933619f9e42a_FORMATO.png,3,-0.37,Antônio Carlos Cunha Capocasali Júnior,0.0,3,2.66,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+80189,Lucas Fonseca,265,https://s.glbimg.com/es/sde/f/2017/02/21/c4e0a739ae5673d20c609ad14289c7e9_FORMATO.png,7,2.71,Lucas Fonseca da Silva,-2.3,3,4.11,10,"{'CV': 1, 'FC': 0, 'FD': 0, 'FS': 2, 'PE': 0, 'RB': 1, 'SG': 0}",3,-1.52
+79887,Fabiano,275,https://s.glbimg.com/es/sde/f/2017/04/18/ccce9b9aad578e5dc82e1d75b816fa25_FORMATO.png,4,1.65,Fabiano Leissmann,0.9,2,5.09,10,"{'FC': 0, 'FD': 1, 'FF': 0, 'FS': 1, 'PE': 2, 'RB': 0, 'SG': 0}",6,-0.26
+78407,Douglas Grolli,315,https://s.glbimg.com/es/sde/f/2017/04/24/ef04c0af64af6a9173d17eb922ff55e4_FORMATO.png,2,4.5,Douglas Ricardo Grolli,0.0,3,6.53,10,"{'FC': 0, 'G': 0, 'I': 0, 'PE': 0, 'SG': 0}",6,0.0
+80188,Marcos Junior,266,https://s.glbimg.com/es/sde/f/2016/04/29/05a4d91c1c469c1d8f7bc682c5eb8e11_FORMATO.png,5,-0.06,Marcos Junio Lima dos Santos,0.0,5,3.02,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+80196,Yago Pikachu,267,https://s.glbimg.com/es/sde/f/2017/04/24/3021726139e41d1a3fe9ada22058c738_FORMATO.png,7,5.09,Glaybson Yago Souza Lisboa,8.0,2,10.34,10,"{'A': 0, 'FC': 2, 'FD': 1, 'FF': 0, 'FS': 1, 'G': 0, 'PE': 3, 'RB': 2, 'SG': 1}",7,1.63
+80286,Matheus Vidotto,264,https://s.glbimg.com/es/sde/f/2017/04/23/0469f80ea84703c3178371ab0fa1dd2f_FORMATO.png,0,0.0,Matheus Caldeira Vidotto de Oliveira,0.0,1,3.0,10,{},6,0.0
+80281,Cleberson,293,https://s.glbimg.com/es/sde/f/2017/04/23/91e18bf15401259ce1466dbccb56d6ae_FORMATO.png,1,-1.2,Cleberson Martins de Souza,0.0,3,2.69,10,{'PE': 0},6,0.0
+80313,Gilberto ,267,https://s.glbimg.com/es/sde/f/2017/02/18/0b1f3092508c1455fe24a4049fd3b32b_FORMATO.png,10,5.17,Gilberto Moraes Júnior,9.9,2,12.42,10,"{'A': 0, 'CA': 0, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'I': 0, 'PE': 7, 'RB': 5, 'SG': 1}",7,1.26
+84851,Lucas Cândido,282,https://s.glbimg.com/es/sde/f/2017/04/03/3ce5d2322ae49cd21e272911d9992c4a_FORMATO.png,0,0.0,Lucas Cândido Silva,0.0,4,4.0,10,{},5,0.0
+80537,Michael,266,https://s.glbimg.com/es/sde/f/2017/05/04/c43b96f2a0e0c8a8006defaedc1db2ee_FORMATO.png,0,0.0,Michael Vinicius Silva de Morais,0.0,5,2.0,10,{},6,0.0
+80370,Edson,265,https://s.glbimg.com/es/sde/f/2017/02/18/786ddd89646415ee6d7df1c5e319039b_FORMATO.png,5,3.7,Edson Felipe da Cruz,0.0,4,14.09,10,"{'A': 0, 'CV': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",5,0.0
+80337,Arthur ,315,https://s.glbimg.com/es/sde/f/2017/04/24/56939ae4c18f332e1a3bb20305de4f33_FORMATO.png,10,5.35,Arthur Caíke do Nascimento Cruz,1.2,5,9.96,10,"{'A': 0, 'CA': 1, 'FC': 0, 'FD': 0, 'FF': 2, 'FS': 3, 'FT': 0, 'G': 0, 'I': 1, 'PE': 3, 'RB': 1}",7,-0.71
+80318,Ezequiel ,283,https://s.glbimg.com/es/sde/f/2017/04/23/059f269b9ef5b88550eb9899af203b7b_FORMATO.png,5,3.36,Ezequiel Jacinto de Biasi,4.4,2,6.23,10,"{'CA': 0, 'FC': 2, 'FD': 1, 'FS': 0, 'PE': 2, 'RB': 0, 'SG': 1}",7,0.18
+80373,Wanderson,373,https://s.glbimg.com/es/sde/f/2017/04/27/a7b0a15537c943f557f8fb73d8a9171b_FORMATO.png,0,0.0,Wanderson Carvalho de Oliveira,0.0,2,4.0,10,{},6,0.0
+80853,Pedro Geromel,284,https://s.glbimg.com/es/sde/f/2017/04/23/e509769d9e394ef42a8681bfdacc8283_FORMATO.png,8,7.78,Pedro Tonon Geromel,5.4,3,13.78,10,"{'A': 0, 'CA': 1, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 2, 'PE': 2, 'RB': 4, 'SG': 0}",6,-0.09
+80944,Marlone,282,https://s.glbimg.com/es/sde/f/2017/04/25/744a27f04385f2906d5982a7dad3445b_FORMATO.png,4,2.02,Johnath Marlone Azevedo da Silva,9.0,4,7.77,10,"{'FC': 3, 'FD': 1, 'FF': 0, 'FS': 0, 'G': 1, 'I': 2, 'PE': 3, 'RB': 2}",6,1.55
+81094,Vitor Prada,314,https://s.glbimg.com/es/sde/f/2015/07/22/038dbc80052b6760a2b49d76733db416_FORMATO.jpeg,0,0.0,Vitor Prada Macaneiro,0.0,1,1.0,10,{},6,0.0
+80583,Lucas Lima,277,https://s.glbimg.com/es/sde/f/2017/05/02/acb1d4777b6e76d3ca67054da81d0c42_FORMATO.png,5,0.68,Lucas Rafael Araujo Lima,-0.1,4,3.13,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 6, 'RB': 1}",2,-0.6000000000000001
+81219,Thallyson,287,https://s.glbimg.com/es/sde/f/2017/06/07/cd71ce4201f13139db63ac6e182e85a7_FORMATO.png,4,2.42,Thallyson Augusto Tavares Dias,0.0,2,2.07,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+81150,Mayke,275,https://s.glbimg.com/es/sde/f/2017/05/19/0c4040195eb2210f37198e62876f4dc1_FORMATO.png,7,2.1,Mayke Rocha de Oliveira,-0.30000000000000004,2,5.84,10,"{'FC': 1, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 5, 'RB': 1, 'SG': 0}",7,-0.97
+81682,Cazares,282,https://s.glbimg.com/es/sde/f/2017/04/03/6ccb564ce56c9f6aad79040ab5f8f570_FORMATO.png,6,4.68,Juan Ramón Cazares Sevillano,0.0,4,9.15,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+81241,Oswaldo Henríquez,292,https://s.glbimg.com/es/sde/f/2016/05/01/49c33afe8104b8c052fd2c593fca02e5_FORMATO.png,1,8.6,Oswaldo José Henríquez Bocanegra,8.6,3,4.99,10,"{'FC': 1, 'FF': 1, 'RB': 2, 'SG': 1}",2,0.99
+80692,Luan,275,https://s.glbimg.com/es/sde/f/2017/04/23/21b43228acd34549ca343f42576f7632_FORMATO.png,3,4.43,Luan Garcia Teixeira,6.9,3,7.2,10,"{'FF': 1, 'PE': 2, 'RB': 4, 'SG': 0}",7,0.71
+81770,Clayton,264,https://s.glbimg.com/es/sde/f/2017/04/23/162d940eadf1a0f6216f20a351c326da_FORMATO.png,3,4.8,Clayton Silveira da Silva,0.0,5,7.66,10,"{'FC': 0, 'G': 0, 'PE': 0}",6,0.0
+81898,Osman,315,https://s.glbimg.com/es/sde/f/2017/04/25/f608122b61891f2ab13ba0015367cfb5_FORMATO.png,7,1.23,Osman de Menezes Venâncio Junior,0.0,5,2.99,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0}",5,0.0
+87946,Todinho,287,https://s.glbimg.com/es/sde/f/2017/06/09/2e36d120085f3fb7908f2921ee4c592e_FORMATO.png,2,1.35,Geremias Ribeiro Junior,0.0,5,1.17,10,"{'FC': 0, 'FS': 0, 'RB': 0}",6,0.0
+81223,Erazo,282,https://s.glbimg.com/es/sde/f/2017/04/03/a0b75e2777a8e1b1844e5f2ff9caa182_FORMATO.png,2,0.15,Frickson Rafael  Erazo Vivero,0.0,3,3.98,10,"{'CA': 0, 'FC': 0, 'PE': 0, 'SG': 0}",6,0.0
+82463,Otávio ,293,https://s.glbimg.com/es/sde/f/2017/04/23/b5d6c9e20119fa12bc0e60e77640bc0a_FORMATO.png,8,4.15,Otávio Henrique Passos Santos,14.5,4,11.83,10,"{'A': 1, 'CA': 0, 'FC': 2, 'FD': 1, 'FF': 0, 'FS': 2, 'PE': 0, 'RB': 5}",6,1.83
+81903,Wellington Simião,314,https://s.glbimg.com/es/sde/f/2017/05/17/952fdde5f058594fa74d531f91c1abf3_FORMATO.png,7,0.21,Wellington Simião,0.0,4,1.81,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.21
+81845,Alisson,283,https://s.glbimg.com/es/sde/f/2017/04/22/b5d1b28ec393ae2be2fba2b5dffe9ce9_FORMATO.png,9,4.9,Alisson Euler de Freitas Castro,5.6,4,13.94,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FF': 3, 'FS': 3, 'FT': 0, 'G': 0, 'I': 0, 'PE': 3, 'RB': 2}",7,-0.7000000000000001
+82469,Douglas Coutinho ,293,https://s.glbimg.com/es/sde/f/2017/04/23/21b6dbe5807688ac8d5a82327a8cc1a4_FORMATO.png,9,0.89,Douglas Coutinho Gomes de Souza,4.8,5,2.84,10,"{'A': 1, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'I': 0, 'PE': 3, 'RB': 0}",6,0.81
+82411,Cueva,276,https://s.glbimg.com/es/sde/f/2016/06/28/a68882f174b592bf4e78dbc9818a4465_FORMATO.jpeg,6,2.5300000000000002,Christian Alberto Cueva Bravo,5.2,4,10.28,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 2, 'I': 0, 'PE': 3, 'RB': 3}",7,0.47000000000000003
+82455,Zé Rafael ,265,https://s.glbimg.com/es/sde/f/2017/02/21/0e763915801510944041d2bdecb212dc_FORMATO.png,10,7.29,José Rafael Vivian,8.6,4,20.7,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 1, 'FF': 1, 'FS': 3, 'G': 0, 'I': 0, 'PE': 3, 'RB': 4}",7,1.1400000000000001
+84890,Euller ,287,https://s.glbimg.com/es/sde/f/2017/02/20/45d2685cedfee93ebf07f010f670c2ef_FORMATO.png,2,2.35,Elosman Euller Silva Cavalcanti,0.0,2,6.31,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'SG': 0}",6,0.0
+81905,Henrique Dourado,266,https://s.glbimg.com/es/sde/f/2017/04/24/2df720f6ce87010f359f6d0c3df824db_FORMATO.png,9,8.94,José Henrique da Silva Dourado,1.0,5,23.83,10,"{'A': 0, 'CA': 0, 'FC': 3, 'FD': 2, 'FF': 0, 'FS': 4, 'G': 0, 'I': 0, 'PE': 5, 'RB': 0}",2,-1.98
+82613,Alan Costa,287,https://s.glbimg.com/es/sde/f/2017/05/28/e1ec05f6af0ed5e2047bfa90f97426f7_FORMATO.png,5,2.16,Alan Henrique Costa,0.0,3,7.75,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+82515,Reginaldo,266,https://s.glbimg.com/es/sde/f/2017/01/13/8392420b99c9b1c5f98f6e0db532ccdc_FORMATO.png,6,4.18,Reginaldo Manoel da Silva Júnior,2.1,3,4.28,10,"{'FC': 1, 'FS': 1, 'PE': 10, 'RB': 3, 'SG': 0}",7,-1.09
+82634,Matheus Galdezani,294,https://s.glbimg.com/es/sde/f/2017/04/24/d7ff115c90d6778d22e113333700259c_FORMATO.png,9,3.87,Matheus Galdezani,7.0,4,8.4,10,"{'CA': 0, 'FC': 0, 'FD': 1, 'FF': 0, 'FS': 3, 'G': 0, 'PE': 2, 'RB': 3}",7,0.96
+82567,Moisés,315,https://s.glbimg.com/es/sde/f/2017/04/25/59ac946a38de5a26b19ffc56c68885dc_FORMATO.png,1,3.1,Moisés Wolschick,0.0,4,2.32,10,"{'PE': 0, 'RB': 0}",6,0.0
+82647,Régis,265,https://s.glbimg.com/es/sde/f/2017/02/21/9d27cbd1feb4ee89f8c73795d7d480ff_FORMATO.png,3,6.33,Régis Augusto Salmazzo,0.0,4,15.67,10,"{'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",2,0.0
+82817,Tomas Bastos,294,https://s.glbimg.com/es/sde/f/2017/05/12/49edceaecc771a87995470ae4d955ddc_FORMATO.png,6,3.85,Tomas Almino Bastos Silva,4.1,4,13.19,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 1, 'G': 0, 'PE': 0, 'RB': 2}",6,0.22
+82791,Toshi,314,https://s.glbimg.com/es/sde/f/2017/04/28/5e3d92955c32b6c74898e471661e6390_FORMATO.png,0,0.0,Toshiya Tojo,0.0,5,3.0,10,{},6,0.0
+82943,Matheus Ribeiro,277,https://s.glbimg.com/es/sde/f/2017/05/02/3592f0162c6d3041f5e47fca40d7d1a3_FORMATO.png,2,5.75,Matheus Antunes Ribeiro,0.0,2,5.69,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+82644,Léo Artur,303,https://s.glbimg.com/es/sde/f/2017/06/22/815076c3546beb2abb2496060f51deeb_FORMATO.png,7,0.63,Leonardo Artur de Melo,-0.5,4,2.42,10,"{'A': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'I': 0, 'PE': 4, 'RB': 0}",2,-0.15
+83004,Otero,282,https://s.glbimg.com/es/sde/f/2017/04/03/9fe40eece7847c6e2d8feca1248f43a9_FORMATO.png,8,1.5899999999999999,Rómulo Otero Vásquez,-0.8,4,6.65,10,"{'CA': 1, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 2, 'PE': 0, 'RB': 0}",6,-0.55
+83048,Rafael Thyere,284,https://s.glbimg.com/es/sde/f/2017/04/23/e94d073bb6cefa100cd1ed8d0f8a6291_FORMATO.png,5,3.86,Rafael Thyere Albuquerque Marques,0.0,3,6.59,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+82787,Joel,314,https://s.glbimg.com/es/sde/f/2017/06/22/5c80b78fe327f41b3b8afc79d10defed_FORMATO.png,5,3.84,Tagueu Tadjo Diederrick Joel,15.7,5,5.51,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 2, 'I': 0, 'PE': 1, 'RB': 0}",7,3.15
+83433,Patrick,292,https://s.glbimg.com/es/sde/f/2017/06/07/0219a437ca7aaad582008a68c498172f_FORMATO.png,6,6.08,Patrick Bezerra do Nascimento,3.5,4,9.09,10,"{'FC': 2, 'FD': 0, 'FS': 0, 'PE': 2, 'RB': 3}",7,-0.02
+83263,Yuri,265,https://s.glbimg.com/es/sde/f/2017/02/21/fb41de8e36f93cc383e07d8120865724_FORMATO.png,0,0.0,Yuri Lima Lara,0.0,4,2.0,10,{},6,0.0
+84382,Danilo Barcelos,282,https://s.glbimg.com/es/sde/f/2017/04/03/2a2a95819ab1b1761209cd81f0eae360_FORMATO.png,1,-0.2,Danilo Carvalho Barcelos,0.0,4,5.3,10,"{'FD': 0, 'PE': 0}",6,0.0
+82754,André Castro,373,https://s.glbimg.com/es/sde/f/2017/05/11/9b573723fd4d39c5179b8dfc70e31b3f_FORMATO.png,9,0.67,André Andrade de Castro,0.30000000000000004,4,1.51,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 3, 'RB': 1}",7,0.38
+83683,Andrei Girotto,315,https://s.glbimg.com/es/sde/f/2017/04/24/75c120b3c827f138e9e79637c43a710f_FORMATO.png,9,1.99,Andrei Girotto,2.5,4,4.83,10,"{'CA': 0, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 3, 'G': 0, 'I': 0, 'PE': 3, 'RB': 2}",7,-0.22
+83786,Neris,292,https://s.glbimg.com/es/sde/f/2017/05/19/d5efc40b12f0c9d9a37828480a468f75_FORMATO.png,0,0.0,Hueglo Neris dos Santos,0.0,3,3.0,10,{},6,0.0
+83522,Fagner Alemão,314,https://s.glbimg.com/es/sde/f/2017/04/28/d93e226df0beb6346213a1a809c8f7fc_FORMATO.png,7,3.43,Fagner Ironi Daponte,0.0,2,8.12,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0, 'RB': 0, 'SG': 0}",5,0.0
+83615,Thiago Martins,275,https://s.glbimg.com/es/sde/f/2017/04/18/b86553b5909b0a40f413b27a550ececd_FORMATO.png,0,0.0,Thiago Martins Bueno,0.0,3,5.0,10,{},5,0.0
+83791,Diego Jardel,314,https://s.glbimg.com/es/sde/f/2017/04/28/d5cd9e4a035c83ce6cb88f1d72c5e77a_FORMATO.png,0,0.0,Diego Jardel Koester,0.0,4,6.0,10,{},6,0.0
+83772,Neilton,287,https://s.glbimg.com/es/sde/f/2017/06/22/68ef88732dd29a754b0a2fb92136a10c_FORMATO.png,7,1.6099999999999999,Neilton Meira Mestzk,-0.9,5,4.67,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'PE': 3, 'RB': 0}",7,0.28
+83817,Clayson,264,https://s.glbimg.com/es/sde/f/2017/05/18/5ec8e0ccfc4a2b49432bdbb44001e999_FORMATO.png,8,3.74,Clayson Henrique da Silva Vieira,0.0,5,15.87,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,-0.7000000000000001
+84313,Feijão,265,https://s.glbimg.com/es/sde/f/2017/02/21/1838c850cdc3128d9f6db4d6c5738379_FORMATO.png,2,0.05,Antônio Filipe Gonzaga de Aquino,0.0,4,2.06,10,"{'FC': 0, 'PE': 0, 'RB': 0}",6,0.0
+83869,Diego Tavares,314,https://s.glbimg.com/es/sde/f/2017/05/17/c261da9d51b45bfbc208b291429eb1f8_FORMATO.png,8,2.77,Diego Barbosa Tavares,3.9,2,6.58,10,"{'FC': 1, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 2, 'RB': 0, 'SG': 1}",6,0.43
+84703,Niltinho,315,https://s.glbimg.com/es/sde/f/2017/04/25/78ea8726a38adf1146e402c087a71039_FORMATO.png,2,-0.4,Nilton Soares Rodrigues,0.0,5,3.54,10,"{'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+84691,Judson,314,https://s.glbimg.com/es/sde/f/2017/04/28/5423c8443b5f4d0ce027e1d31b9aa3ff_FORMATO.png,9,1.34,Judson Silva Tavares,0.5,4,4.2,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 4, 'RB': 1}",7,0.38
+84761,Claudinei Oliveira,314,https://s.glbimg.com/es/sde/f/2017/04/28/1e4e67f7f6051b298a7679a0b9d1d0c8_FORMATO.png,10,2.6,Claudinei dos Santos Oliveira,6.95,6,7.03,10,{},7,1.4
+84558,Lucas Romero,283,https://s.glbimg.com/es/sde/f/2017/04/22/b6fe7636fd7cb1575efdcbdfbd2dbd54_FORMATO.png,9,3.81,Lucas Daniel Romero,3.4,4,7.46,10,"{'A': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 2}",6,0.54
+84554,Lucão,276,https://s.glbimg.com/es/sde/f/2016/05/01/48f192fdba1691586d6a2bfd42288481_FORMATO.png,6,3.38,Lucas Cavalcante Silva Afonso,0.0,3,5.25,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+84530,Maxi Rodríguez,284,https://s.glbimg.com/es/sde/f/2017/04/23/d7025b3e29cac01ee4e1cc1bf4b3efcb_FORMATO.png,0,0.0,Maximiliano Rodríguez Maeso,0.0,4,6.0,10,{},6,0.0
+84585,Allione,265,https://s.glbimg.com/es/sde/f/2017/02/18/b7a330e0d5bd3f0a08e5a533efd8db02_FORMATO.png,9,3.5300000000000002,Agustín Lionel Allione,3.3,4,11.51,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 1, 'FS': 3, 'I': 1, 'PE': 7, 'RB': 2}",7,0.6900000000000001
+84893,Henrique,267,https://s.glbimg.com/es/sde/f/2017/04/24/98783f94705be5ed728032062068f73c_FORMATO.png,10,3.75,Henrique Silva Milagres,6.5,2,8.78,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 3, 'RB': 2, 'SG': 1}",7,1.06
+84848,Erik,275,https://s.glbimg.com/es/sde/f/2017/04/18/88bed79a8233a59ca86c67f41db42e85_FORMATO.png,4,3.25,Erik Nascimento Lima,7.3,5,5.35,10,"{'A': 1, 'FC': 2, 'FF': 0, 'FS': 1, 'PE': 2, 'RB': 2}",7,1.03
+84896,Lucas Otávio ,314,https://s.glbimg.com/es/sde/f/2017/04/28/c9abc289eaace4a40039be6a64b6711d_FORMATO.png,2,-0.30000000000000004,Lucas Otávio Veiga Lopes,0.0,4,3.15,10,{'PE': 0},6,0.0
+84861,Alex Silva,282,https://s.glbimg.com/es/sde/f/2017/05/19/2b09d527bb18b6dca83703fbbe498920_FORMATO.png,5,4.42,Alex da Silva,0.0,2,5.26,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+84847,Luan Peres ,303,https://s.glbimg.com/es/sde/f/2017/06/01/3543e150d67d69e4fd1bd3112e7533b6_FORMATO.png,2,1.75,Luan Peres Petroni,0.0,3,2.16,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+84855,Raul Prata,292,https://s.glbimg.com/es/sde/f/2017/05/01/bc801f0b347f5e9b99972901cf4ecefd_FORMATO.png,3,4.07,Raul Prata,8.0,2,4.68,10,"{'CA': 0, 'FC': 2, 'FF': 0, 'FS': 3, 'PE': 3, 'RB': 2, 'SG': 1}",6,1.09
+84925,Elder Santana,282,https://s.glbimg.com/es/sde/f/2017/06/15/1dcf005eb752d162ab97dbe8abe498a8_FORMATO.png,1,0.0,Elder Santana Conceição,0.0,5,0.76,10,{},6,0.0
+84917,Jeferson,303,https://s.glbimg.com/es/sde/f/2017/05/02/771b51917a7ef2187ffea3d1e0fc9277_FORMATO.png,2,3.9,Jeferson de Araújo de Carvalho,0.0,2,5.03,10,"{'CA': 0, 'FC': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+84926,Yago,282,https://s.glbimg.com/es/sde/f/2017/04/03/bd1a20fcc43bf36e13dd321aa526e278_FORMATO.png,5,0.30000000000000004,Yago Henrique Severino dos Santos,3.1,4,1.79,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FS': 0, 'PE': 5, 'RB': 3}",2,1.0
+85629,Daniel,294,https://s.glbimg.com/es/sde/f/2017/04/24/5b71e14cce546da5e531c172e54e0ce2_FORMATO.png,0,0.0,Daniel Correa Freitas,0.0,4,6.0,10,{},5,0.0
+84993,Fabrício Baiano,294,https://s.glbimg.com/es/sde/f/2017/04/24/ef2f4ee2eae252d21c41b30f81cec2a8_FORMATO.png,0,0.0,Fabrício Santos de Jesus,0.0,4,2.0,10,{},6,0.0
+85040,Gabriel Xavier,287,https://s.glbimg.com/es/sde/f/2017/02/18/da7a7c4d50031991e49615ff009cd118_FORMATO.png,6,1.8,Gabriel Augusto Xavier,1.6,4,4.72,10,"{'CV': 0, 'FC': 2, 'FD': 1, 'FF': 1, 'FS': 0, 'G': 0, 'I': 1, 'PE': 1, 'RB': 1}",7,0.13
+84927,Dodô,315,https://s.glbimg.com/es/sde/f/2017/04/24/d75b985086acd9eb03422fe01ce0693f_FORMATO.png,0,0.0,Raphael Guimarães de Paula,0.0,4,5.0,10,{},6,0.0
+85004,Marcos Felipe ,266,https://s.glbimg.com/es/sde/f/2016/04/29/62d23ea7816659aafaf60c6e6027764f_FORMATO.png,0,0.0,Marcos Felipe de Freitas Monteiro,0.0,1,3.0,10,{},6,0.0
+85083,Vinicius Silvestre,275,https://s.glbimg.com/es/sde/f/2016/05/01/31d846d7d2c8a7f4d827850b61996f45_FORMATO.png,0,0.0,Vinicius Silvestre da Costa,0.0,1,2.0,10,{},6,0.0
+85300,Berrío ,262,https://s.glbimg.com/es/sde/f/2017/04/24/7b390ea7b4f8d9ae25e9e72d40cf4d97_FORMATO.png,4,1.23,Orlando Enrique Berrío Meléndez,7.7,5,5.07,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 1, 'PE': 1, 'RB': 0}",6,1.57
+85211,Thalles,267,https://s.glbimg.com/es/sde/f/2017/04/24/3201728e4a68e69b6c3e6fc2f8f5b1e1_FORMATO.png,2,-0.15,Thalles Lima,-1.0,5,3.22,10,"{'FC': 2, 'FF': 0}",7,-0.81
+85121,Robert ,266,https://s.glbimg.com/es/sde/f/2017/06/09/64450e07dea4504ab9914e254f7ba3f5_FORMATO.png,0,0.0,Robert Gonçalves Santos,0.0,4,4.0,10,{},6,0.0
+85241,Yerry Mina,275,https://s.glbimg.com/es/sde/f/2017/04/18/5d127fbc9c3d26f69de26952da18b809_FORMATO.png,6,5.38,Yerry Fernando Mina González,-0.30000000000000004,3,15.15,10,"{'CA': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 3, 'G': 0, 'I': 0, 'PE': 4, 'RB': 2, 'SG': 0}",3,-0.81
+85418,Uilson,282,https://s.glbimg.com/es/sde/f/2017/04/03/f77329e6065eec16e496b8b12ad6384a_FORMATO.png,0,0.0,Uilson Pedruzzi de Oliveira,0.0,1,4.0,10,{},6,0.0
+85149,Ronaldo,292,https://s.glbimg.com/es/sde/f/2016/05/01/2e217ce29ea48d7d573c191fa21e67d5_FORMATO.png,1,2.3,Ronaldo Henrique Ferreira da Silva,0.0,4,3.2,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+85591,Artur,303,https://s.glbimg.com/es/sde/f/2017/05/02/5c01ab099352ecad2baaa0a00f978720_FORMATO.png,0,0.0,Artur Sérgio Batista de Souza,0.0,2,4.0,10,{},6,0.0
+86973,Léo Gomes,284,https://s.glbimg.com/es/sde/f/2017/04/23/0cd6a2a3718c7c36858e7d11ad867645_FORMATO.png,0,0.0,Leonardo Gomes da Conceição Silva,0.0,2,2.0,10,{},7,0.0
+85425,João Paulo,277,https://s.glbimg.com/es/sde/f/2017/05/02/f85d6ca954388c9c5635f0e28f95b5cf_FORMATO.png,0,0.0,João Paulo Silva Martins,0.0,1,1.0,10,{},6,0.0
+85931,Hyoran,275,https://s.glbimg.com/es/sde/f/2017/02/19/1ec83086a8ae2fe33a1e88113fff1ac1_FORMATO.png,2,1.35,Hyoran Kaue Dalmoro,0.0,4,2.64,10,"{'FC': 0, 'FD': 0, 'FS': 0, 'PE': 0, 'RB': 0}",2,0.0
+85423,Valdívia,282,https://s.glbimg.com/es/sde/f/2017/05/31/6bc774b62632d57e756a9e0533fcfd85_FORMATO.png,5,2.64,Wanderson Ferreira de Oliveira,5.9,4,8.49,10,"{'A': 1, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 4, 'I': 1, 'PE': 2, 'RB': 0}",6,0.74
+85586,Jonas,294,https://s.glbimg.com/es/sde/f/2017/04/24/d4c75e365c9c04af042bf7ff378d60c7_FORMATO.png,9,2.85,Jonas Gomes de Sousa,3.3,4,7.49,10,"{'CA': 0, 'FC': 7, 'FF': 1, 'FS': 1, 'PE': 4, 'RB': 4}",7,0.39
+85626,Léo,266,https://s.glbimg.com/es/sde/f/2017/01/13/cc39276a755987fc3b57896f3b160fa6_FORMATO.png,9,0.6900000000000001,Leonardo Pinheiro da Conceição,-1.1,2,3.32,10,"{'A': 0, 'CA': 0, 'FC': 6, 'FD': 0, 'FS': 1, 'I': 0, 'PE': 1, 'RB': 1, 'SG': 0}",7,-0.96
+86143,Wanderson,293,https://s.glbimg.com/es/sde/f/2017/04/23/3914af8715466d38cf77d94b2c5c5685_FORMATO.png,4,9.6,Wanderson Santos Pereira,10.8,3,7.63,10,"{'FC': 0, 'FD': 2, 'FS': 0, 'G': 1, 'PE': 3, 'RB': 1, 'SG': 0}",7,0.14
+86120,Borja,275,https://s.glbimg.com/es/sde/f/2017/04/23/4b0f5cd460ee874344bfbfd4e3eef9a6_FORMATO.png,5,5.1,Miguel Angel Borja Hernandez,-0.5,5,17.28,10,"{'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 0, 'PE': 0}",7,-1.58
+86411,Breno Lopes,373,https://s.glbimg.com/es/sde/f/2017/05/19/68d8c5dda3ea6323520ddfd58086f176_FORMATO.png,6,2.65,Breno Gonçalves Lopes,0.30000000000000004,2,3.66,10,"{'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 3, 'RB': 1, 'SG': 0}",7,-0.63
+86227,Morato,276,https://s.glbimg.com/es/sde/f/2017/04/28/773338b7d4efec23c8bd970486c9ff68_FORMATO.png,0,0.0,Andrew Erik Feitosa,0.0,5,3.0,10,{},5,0.0
+84718,Denilson,276,https://s.glbimg.com/es/sde/f/2017/06/09/1733878d67ca979f4e3dabc8e12db8a0_FORMATO.png,5,1.8,Denilson Pereira Junior,8.0,5,3.7800000000000002,10,"{'A': 1, 'FC': 1, 'FD': 0, 'FF': 1, 'FS': 4, 'PE': 3, 'RB': 1}",7,1.44
+86874,Capa,314,https://s.glbimg.com/es/sde/f/2017/04/28/4a0d17271060eaf419c78016735076ee_FORMATO.png,10,4.2,Edson Carlos Santos Lima Junior,5.3,2,11.35,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 7, 'RB': 2, 'SG': 1}",7,0.96
+86410,Victor Luis,263,https://s.glbimg.com/es/sde/f/2017/04/18/9a9a735957f9522e9ffcf1664bd29a44_FORMATO.png,8,5.93,Victor Luis Chuab Zamblauskas,3.0,2,12.4,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 1, 'G': 0, 'PE': 3, 'RB': 2, 'SG': 0}",2,-0.72
+86740,João Lucas,303,https://s.glbimg.com/es/sde/f/2017/05/15/fa1caa8ea5726060cd391422d3fb93fc_FORMATO.png,10,3.39,João Lucas Cardoso,4.2,2,11.26,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FS': 1, 'I': 0, 'PE': 3, 'RB': 3, 'SG': 0}",6,0.56
+86323,Walterson,373,https://s.glbimg.com/es/sde/f/2017/04/27/97d6aedd55de114d9c932ce2e9901989_FORMATO.png,6,-0.25,Walterson Silva,-1.4,5,1.63,10,"{'FC': 2, 'FD': 0, 'FS': 1, 'PE': 3, 'RB': 0}",6,-0.2
+86713,Jonathan,373,https://s.glbimg.com/es/sde/f/2017/04/27/f0005dbb8cf4d46b99cf08acf8949256_FORMATO.png,0,0.0,Jonathan Francisco Lemos,0.0,2,2.0,10,{},6,0.0
+86486,Milton Mendes,267,https://s.glbimg.com/es/sde/f/2017/04/26/7b563b4abe14ffb25496b6fcd414bd88_FORMATO.png,10,3.8,Milton Mendes,5.31,6,9.3,10,{},7,0.6900000000000001
+86519,Everton Felipe,292,https://s.glbimg.com/es/sde/f/2016/05/01/7c68f11162db883d1bca790a596547c2_FORMATO.png,6,0.65,Everton Felipe de Oliveira Silva,2.1,4,3.86,10,"{'FC': 2, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 5, 'RB': 1}",6,0.33
+86757,Everton,284,https://s.glbimg.com/es/sde/f/2017/04/23/f8b4218756c0dc59793c36159228a00f_FORMATO.png,7,6.4,Everton Sousa Soares,0.4,5,9.7,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'FT': 0, 'G': 0, 'PE': 1, 'RB': 0}",7,0.03
+86485,Keno,275,https://s.glbimg.com/es/sde/f/2017/04/18/ab0e22f1ff91a12ce2e88a367450bf03_FORMATO.png,9,2.21,Marcos da Silva França,0.0,5,5.99,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'FT': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",7,0.0
+86686,Tchê Tchê,275,https://s.glbimg.com/es/sde/f/2016/05/20/2b96e76d6b1e3f8fc29f37d9dfe90206_FORMATO.jpeg,10,1.35,Danilo das Neves Pinheiro,-3.5,4,6.85,10,"{'A': 1, 'CA': 0, 'CV': 1, 'FC': 4, 'FD': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 5, 'RB': 0}",3,-1.57
+86508,Jandrei,315,https://s.glbimg.com/es/sde/f/2017/05/04/e34c217d3230604bddf15c133fde3fd2_FORMATO.png,10,0.36,Jandrei Chitolina Carniel,-2.3,1,3.9,10,"{'DD': 0, 'FS': 0, 'GS': 1, 'PE': 1, 'SG': 0}",7,-0.5
+86760,Lucas Macanhan,293,https://s.glbimg.com/es/sde/f/2016/05/13/222c790995cc7292f07b0dc4db7cc5f4_FORMATO.png,0,0.0,Lucas Macanhan Ferreira,0.0,1,2.0,10,{},6,0.0
+86759,Luan,284,https://s.glbimg.com/es/sde/f/2017/04/23/458569d2d0c260a004befc5988da9350_FORMATO.png,9,10.15,Luan Guilherme de Jesus Vieira,3.2,5,23.12,10,"{'A': 0, 'FC': 0, 'FD': 1, 'FF': 2, 'FS': 2, 'G': 0, 'I': 0, 'PE': 6, 'PP': 1, 'RB': 3}",6,-1.6800000000000002
+86776,Jordi,267,https://s.glbimg.com/es/sde/f/2017/04/17/8a166ba697085a60b3f3b7d74a9c6114_FORMATO.png,0,0.0,Jordi Almeida,0.0,1,4.0,10,{},6,0.0
+86783,Henrique Gelain,294,https://s.glbimg.com/es/sde/f/2017/04/24/048b1eb6ff970a66fa5eb5087290c03b_FORMATO.png,0,0.0,Henrique Gelain Custódio,0.0,2,1.0,10,{},6,0.0
+86859,José Welison,287,https://s.glbimg.com/es/sde/f/2017/04/24/842ad25f4c670bababfa051fb5fb8ca6_FORMATO.png,0,0.0,José Welison da Silva,0.0,4,4.0,10,{},5,0.0
+86724,Luizão,294,https://s.glbimg.com/es/sde/f/2017/06/22/5b6da4a5651cbd0822f33cea7f49be63_FORMATO.png,0,0.0,Walter Luiz Silva de Araujo,0.0,3,2.0,10,{},6,0.0
+86797,Raniel,283,https://s.glbimg.com/es/sde/f/2017/04/06/b362899a01b537ee09468f95d34f40f7_FORMATO.png,2,-0.75,Raniel Santana de Vasconcelos,0.0,5,0.73,10,"{'CA': 0, 'FS': 0}",5,0.0
+86932,Gustavo,265,https://s.glbimg.com/es/sde/f/2017/02/21/e7a9a7d9b378f749dc3094f28a2465bc_FORMATO.png,5,2.56,Gustavo Henrique da Silva Sousa,0.0,5,6.55,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 0}",6,0.0
+86935,Rodrigo,292,https://s.glbimg.com/es/sde/f/2017/05/01/6d2201a3689f5a71696f8b8eacbd9646_FORMATO.png,2,2.15,Rodrigo Vasconcelos Oliveira,4.5,4,4.16,10,"{'CA': 0, 'FC': 1, 'FS': 1, 'PE': 2, 'RB': 3}",6,0.06
+86766,Matheus Rossetto,293,https://s.glbimg.com/es/sde/f/2017/04/23/c091af2e156b654e15abd7e687d0aeb2_FORMATO.png,9,2.39,Matheus Rossetto,7.4,4,6.08,10,"{'A': 0, 'FC': 1, 'FD': 0, 'FS': 2, 'G': 1, 'I': 1, 'PE': 2, 'RB': 0}",7,1.82
+86861,Vinicius,287,https://s.glbimg.com/es/sde/f/2017/02/20/d2acf5df4ac30ffcbc7bd264583d6467_FORMATO.png,0,0.0,Luís Vinícius da Silva Matos,0.0,3,2.0,10,{},6,0.0
+86863,Luiz Otávio ,315,https://s.glbimg.com/es/sde/f/2017/04/25/239f4dc20386b0bc2988aa004f7c02b7_FORMATO.png,8,2.18,Luiz Otávio da Silva Santos,0.9,3,5.89,10,"{'A': 0, 'CA': 0, 'CV': 0, 'FC': 3, 'FD': 1, 'FF': 0, 'PE': 1, 'RB': 1, 'SG': 0}",7,-0.11
+87008,Léo,284,https://s.glbimg.com/es/sde/f/2017/04/23/56c2f46953852255c8d3c1a685ecd757_FORMATO.png,2,3.1,Leonardo Cesar Jardim,0.0,1,3.51,10,"{'DD': 0, 'FS': 0, 'GS': 0, 'PE': 0, 'SG': 0}",6,0.0
+86972,Emerson Santos,263,https://s.glbimg.com/es/sde/f/2016/05/20/7743ec4420461e770a65425100024972_FORMATO.png,1,-5.6,Emerson Raymundo Santos,0.0,3,0.71,10,"{'CA': 0, 'FC': 0, 'FS': 0, 'PE': 0}",6,0.0
+87028,Beto da Silva,284,https://s.glbimg.com/es/sde/f/2017/04/23/0cfa7b8af32ec84883ccf9a0d610b0d0_FORMATO.png,1,2.2,Luiz Humberto da Silva Silva,0.0,5,3.74,10,"{'FS': 0, 'RB': 0}",6,0.0
+86970,Eduardo Gabriel,373,https://s.glbimg.com/es/sde/f/2017/05/25/590ba3c156c116d43014e1e9b5d4e74f_FORMATO.png,6,1.43,Eduardo Gabriel dos Santos Bauermann,0.30000000000000004,3,2.37,10,"{'FC': 2, 'FS': 1, 'I': 0, 'PE': 3, 'RB': 1, 'SG': 0}",6,-0.07
+87225,Pedro Henrique,264,https://s.glbimg.com/es/sde/f/2017/04/20/3b8a82a4adde6089a76eea746b858971_FORMATO.png,5,3.76,Pedro Henrique Ribeiro Gonçalves,0.0,3,8.16,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+87211,Eduardo Baptista,293,https://s.glbimg.com/es/sde/f/2017/05/25/c38f3011ce585e25426a9724f64b6f77_FORMATO.png,7,3.45,Eduardo Augusto Baptista Miguel,6.63,6,10.8,10,{},7,0.65
+87192,Zeca,277,https://s.glbimg.com/es/sde/f/2016/05/01/b75497cbd7fdf4e7cc56e0a77979a9f7_FORMATO.png,2,2.45,José Carlos Cracco Neto,0.0,2,11.45,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'SG': 0}",5,0.0
+86974,Caio César,314,https://s.glbimg.com/es/sde/f/2017/04/28/c9789925a7e321c7432e9e22a2b5a2c9_FORMATO.png,0,0.0,Caio César da Silva Silveira,0.0,4,3.0,10,{},6,0.0
+87158,Cícero,282,https://s.glbimg.com/es/sde/f/2017/05/04/4ce602dbb0545123e778ce27a88ca159_FORMATO.png,0,0.0,Cicero Clebson Alves Santana,0.0,4,2.0,10,{},6,0.0
+87098,Matheus Peixoto,265,https://s.glbimg.com/es/sde/f/2017/02/21/9a6be83af417e88aab380c4245ab7655_FORMATO.png,0,0.0,Matheus Vieira Campos Peixoto,0.0,5,1.0,10,{},6,0.0
+87228,Guilherme Arana,264,https://s.glbimg.com/es/sde/f/2017/04/23/a4d7cefcde751da5dcf52b042baafbb5_FORMATO.png,10,4.57,Guilherme Antonio Arana Lopes,6.0,2,9.46,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FS': 1, 'I': 0, 'PE': 4, 'RB': 1, 'SG': 1}",7,0.52
+87267,Marcão,373,https://s.glbimg.com/es/sde/f/2017/06/21/bf3514d4994589ee2e16dacdf0c45add_FORMATO.png,1,3.2,Marcos do Nascimento Teixeira,0.0,3,4.39,10,"{'CV': 0, 'FC': 0, 'FD': 0, 'G': 0, 'PE': 0}",7,0.0
+86764,Sidcley,293,https://s.glbimg.com/es/sde/f/2017/04/23/eff5699ee67d7b1a4f3c4cf923789370_FORMATO.png,9,6.19,Sidcley Ferreira Pereira,4.1,2,12.73,10,"{'A': 1, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'I': 1, 'PE': 3, 'RB': 0, 'SG': 0}",6,-0.1
+87437,Caíque Sá,287,https://s.glbimg.com/es/sde/f/2017/05/28/8c084fed591a67a554da06e53f403549_FORMATO.png,0,0.0,Caíque Silva Sá,0.0,2,2.0,10,{},6,0.0
+87342,Kannemann,284,https://s.glbimg.com/es/sde/f/2017/04/23/42279ad5c60655b3336944e26189eda5_FORMATO.png,8,3.35,Walter Kannemann,-2.1,3,9.45,10,"{'CA': 1, 'FC': 2, 'FF': 0, 'FS': 3, 'FT': 0, 'I': 1, 'PE': 6, 'RB': 1, 'SG': 0}",6,-1.37
+87398,Rodrigão,282,https://s.glbimg.com/es/sde/f/2017/04/25/3901e3335987512552a1dcdc23413368_FORMATO.png,3,2.8,Rodrigo de Souza Prado,5.0,3,2.9699999999999998,10,"{'FC': 0, 'PE': 0, 'SG': 1}",5,1.03
+90290,Jailson,284,https://s.glbimg.com/es/sde/f/2017/04/23/bbc1e20f5a841fe3d2fc8cbf1553e368_FORMATO.png,3,2.13,Jaílson Marques Siqueira,0.0,4,4.96,10,"{'A': 0, 'PE': 0, 'RB': 0}",7,0.0
+87486,Matheus Reis,265,https://s.glbimg.com/es/sde/f/2017/02/21/1ec4894c6713d50f53837e0e84429f88_FORMATO.png,9,2.02,Matheus Reis de Lima,1.2,2,4.49,10,"{'CA': 0, 'FC': 1, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 1, 'SG': 0}",6,0.14
+87350,Buffarini,276,https://s.glbimg.com/es/sde/f/2016/08/18/4be0e28d27402ead434d4b7dae9ea797_FORMATO.png,1,6.9,Julio Buffarini,0.0,2,8.87,10,"{'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",6,0.0
+87470,Thaciano,277,https://s.glbimg.com/es/sde/f/2017/05/02/f7f6eeca4ba43412b5d6010188c6bb0f_FORMATO.png,0,0.0,Thaciano Mickael da Silva,0.0,4,1.0,10,{},6,0.0
+87393,Gabriel,282,https://s.glbimg.com/es/sde/f/2017/04/03/2f4037ee6c2ce20e96ff5cb1f6db210f_FORMATO.png,5,5.0,Gabriel Costa França,0.0,3,9.99,10,"{'FC': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+87833,Luis Caicedo,283,https://s.glbimg.com/es/sde/f/2017/02/19/0fe56c228b48f83796fc15772646cd33_FORMATO.png,5,2.36,Luis Alberto Caicedo Medina,5.1,3,5.98,10,"{'CA': 0, 'FC': 1, 'FD': 0, 'FS': 3, 'PE': 3, 'RB': 0, 'SG': 1}",7,1.51
+87743,Léo Santos,294,https://s.glbimg.com/es/sde/f/2017/04/24/6b4eee4e3d34200c6f23e434a79f4af3_FORMATO.png,0,0.0,Leonardo Araújo dos Santos,0.0,5,3.0,10,{},6,0.0
+87552,Vitor Bueno,277,https://s.glbimg.com/es/sde/f/2016/05/01/6a51ac71a5e8a928c9cf1b71c2db243b_FORMATO.png,7,1.6600000000000001,Vitor Frezarin Bueno,0.5,4,9.43,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 0, 'RB': 0}",2,0.08
+87747,Yago,287,https://s.glbimg.com/es/sde/f/2017/06/22/23cefb71d6b2d4a53d900e9e4e2abfee_FORMATO.png,3,-1.03,Yago Felipe da Costa Rocha,-0.4,4,0.78,10,"{'FC': 2, 'FS': 3, 'I': 0, 'PE': 3}",7,0.01
+87863,Arrascaeta,283,https://s.glbimg.com/es/sde/f/2017/04/05/c7a931941057f3ba5a13209ed19a41f1_FORMATO.png,3,3.9,Giorgian Daniel de Arrascaeta Benedetti,0.0,4,9.34,10,"{'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+87887,Balbuena,264,https://s.glbimg.com/es/sde/f/2017/04/19/104f0248fd96daefe11d16e064dd8ce9_FORMATO.png,7,6.0,Fabián Cornelio Balbuena González,6.2,3,9.25,10,"{'CA': 0, 'FC': 1, 'FF': 0, 'FS': 0, 'G': 0, 'I': 0, 'PE': 0, 'RB': 1, 'SG': 1}",7,-0.46
+87859,Zeballos,315,https://s.glbimg.com/es/sde/f/2017/04/25/002d92dbfd9e5915f565d1ba437c95d5_FORMATO.png,0,0.0,Emilio Enrique Zeballos Gutiérrez,0.0,2,3.0,10,{},6,0.0
+87874,Orejuela,266,https://s.glbimg.com/es/sde/f/2017/01/13/f990ae4feff11a2f7f5bb847c2e3cdb5_FORMATO.png,7,3.59,Jefferson Gabriel Orejuela Izquierdo,3.8,4,10.75,10,"{'FC': 3, 'FS': 1, 'PE': 1, 'RB': 3}",7,0.18
+87864,Felipe Gedoz ,293,https://s.glbimg.com/es/sde/f/2017/04/23/b22d35fda6b1ebe5b12170bfaf1dced7_FORMATO.png,2,-1.45,Felipe Gedoz da Conceição,0.0,4,8.33,10,"{'FC': 0, 'PE': 0}",6,0.0
+87877,Sornoza,266,https://s.glbimg.com/es/sde/f/2017/01/13/81e2c355bf1a4fff96dbce63945a25c2_FORMATO.png,2,5.05,Júnior Nazareno Sornoza Moreira,0.0,4,15.81,10,"{'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",5,0.0
+88933,Bruno Paulista,267,https://s.glbimg.com/es/sde/f/2017/06/30/5779f51f86b830eede1d5181c8653133_FORMATO.png,0,0.0,Bruno Jacinto da Silva,0.0,4,7.0,10,{},6,0.0
+94003,Scalon,315,https://s.glbimg.com/es/sde/f/2017/04/25/1c61a24805cfe9ae71c648216cd5b9cd_FORMATO.png,0,0.0,Lucas Luiz Scalon,0.0,3,2.0,10,{},6,0.0
+88125,Yuri,263,https://s.glbimg.com/es/sde/f/2017/04/18/8bac23f3df250a620bd6c580564b33ee_FORMATO.png,0,0.0,Yuri Antonio Costa da Silva,0.0,4,1.0,10,{},6,0.0
+87999,Gustavo Scarpa,266,https://s.glbimg.com/es/sde/f/2016/04/29/6e433eb3cd2ccb3fe639c110479ebf7c_FORMATO.png,9,3.24,Gustavo Henrique Furtado Scarpa,6.8,4,12.13,10,"{'A': 1, 'FC': 1, 'FD': 3, 'FF': 0, 'FS': 0, 'FT': 0, 'PE': 8, 'RB': 1}",7,0.74
+88136,Ivan,303,https://s.glbimg.com/es/sde/f/2017/05/02/8546a4c5536f1d3e6ebc74e89daef4c3_FORMATO.png,0,0.0,Ivan Quaresma da Silva,0.0,1,2.0,10,{},6,0.0
+88030,Warian Santos ,264,https://s.glbimg.com/es/sde/f/2017/04/20/1a20f671d81a1495fe94257a7faedb29_FORMATO.png,0,0.0,Warian dos Santos Souza,0.0,4,1.0,10,{},6,0.0
+88225,Daniel Guedes ,277,https://s.glbimg.com/es/sde/f/2017/05/02/700b428f14849c2f8f5eb9286d7adf03_FORMATO.png,1,2.8,Daniel Guedes da Silva,0.0,2,3.0,10,"{'CV': 0, 'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+88087,Ramon,287,https://s.glbimg.com/es/sde/f/2016/05/01/bf444d7eaf1a2853f33faef276c4a9a0_FORMATO.png,1,0.5,Ramon Menezes Roma,0.5,3,3.35,10,{'FS': 1},7,-0.65
+88002,Serginho,277,https://s.glbimg.com/es/sde/f/2017/02/19/6aca0b072c6eeca65b6dc51c30de4a50_FORMATO.png,0,0.0,Sergio Antonio Soler de Oliveira Junior,0.0,4,2.0,10,{},6,0.0
+88417,Iago,294,https://s.glbimg.com/es/sde/f/2017/04/24/6d1258d426eef6b245dc52182b65814b_FORMATO.png,6,-0.18,Iago Ângelo Dias,0.0,5,4.47,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'I': 0, 'PE': 0}",6,0.02
+88651,Vinícius Tanque,263,https://s.glbimg.com/es/sde/f/2017/04/18/d77f484c8720a893fbf5031c19fd6349_FORMATO.png,0,0.0,Vinicius Rodolfo de Souza Oliveira,0.0,5,2.0,10,{},6,0.0
+88539,João Vitor ,373,https://s.glbimg.com/es/sde/f/2017/04/27/5e240c8d3c51257cd78fe820f6453aa5_FORMATO.png,0,0.0,João Vitor Pereira de Alcantara,0.0,5,1.0,10,{},6,0.0
+88667,Igor,292,https://s.glbimg.com/es/sde/f/2017/05/06/7db6dc50d732262fa33892d6c0f437b5_FORMATO.png,1,6.2,Igor Ribeiro de Jesus,0.0,3,5.8,10,"{'FC': 0, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.0
+89156,Nathan,315,https://s.glbimg.com/es/sde/f/2017/04/25/03222dc5157f830bbf5201fe8e0c0593_FORMATO.png,0,0.0,Nathan Pelae Cardoso,0.0,3,4.0,10,{},6,0.0
+89342,Caju,277,https://s.glbimg.com/es/sde/f/2016/05/01/54af0c3c3d1522543c64c18ca5a50a22_FORMATO.png,0,0.0,Wanderson de Jesus Martins,0.0,2,4.0,10,{},7,0.0
+89150,Jean,267,https://s.glbimg.com/es/sde/f/2017/04/06/d3926623525ad9fc2a3896099f523066_FORMATO.png,10,5.19,Jean Carlos de Souza Irmer,4.1,4,10.75,10,"{'CA': 0, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 1, 'G': 0, 'PE': 0, 'RB': 3}",7,0.11
+88323,Ángel Romero,264,https://s.glbimg.com/es/sde/f/2017/04/19/bb57c60e890655dd351f891eb27fdb2c_FORMATO.png,9,5.38,Ángel Rodrigo Romero Villamayor,3.4,5,12.79,10,"{'A': 0, 'CA': 1, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 5, 'G': 0, 'I': 0, 'PE': 4, 'RB': 3}",3,-0.77
+89253,Andreazzi,263,https://s.glbimg.com/es/sde/f/2017/04/24/2e3edae4ff2b6836e1ea7f55380193fa_FORMATO.png,0,0.0,Maurício Andreazzi Pereira,0.0,4,2.0,10,{},6,0.0
+89273,João Pedro ,315,https://s.glbimg.com/es/sde/f/2017/04/24/c6945a1446c818fed3c475afef47a6a8_FORMATO.png,1,2.3,João Pedro Maturano dos Santos,0.0,2,5.87,10,"{'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0}",5,0.0
+89343,Júnior Tavares,276,https://s.glbimg.com/es/sde/f/2017/02/09/25d0a51f886e8f5b2db83e4bea6a4e20_FORMATO.png,10,4.69,Carlos Eugenio Júnior Tavares dos Santos,1.5,2,12.31,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'PE': 3, 'RB': 1, 'SG': 0}",7,-0.23
+89493,Igor Rabello,263,https://s.glbimg.com/es/sde/f/2016/05/20/45658f95ac34e82da4d58cf9c77f2587_FORMATO.png,10,4.36,Igor Rabello da Costa,-2.5,3,10.66,10,"{'CA': 1, 'FC': 4, 'FD': 1, 'FF': 2, 'FS': 0, 'PE': 3, 'RB': 0, 'SG': 0}",2,-1.09
+89227,Balbino,284,https://s.glbimg.com/es/sde/f/2016/04/30/aa305ef16d18275ce438c74c73d54e15_FORMATO.png,0,0.0,Ânderson Balbino Assis,0.0,4,1.0,10,{},6,0.0
+89190,Judivan ,283,https://s.glbimg.com/es/sde/f/2017/04/23/f49ad5df5316c41a536cbc083724ee17_FORMATO.png,0,0.0,Judivan Flor da Silva,0.0,5,4.0,10,{},6,0.0
+89693,Leonan,282,https://s.glbimg.com/es/sde/f/2017/04/03/f7ef2c1763cfea19e19b624be9bd9f68_FORMATO.png,1,2.2,Leonan José Valandro Gomes,2.2,2,2.04,10,"{'CA': 1, 'FC': 2, 'FS': 1, 'PE': 1, 'SG': 1}",6,0.04
+89676,Nickson,283,https://s.glbimg.com/es/sde/f/2017/04/22/fe8ee314651bfce7367d25049b99720f_FORMATO.png,0,0.0,Nickson Gabriel Reis Silva,0.0,5,3.0,10,{},6,0.0
+89285,Matheus Sales,265,https://s.glbimg.com/es/sde/f/2017/02/18/4a3b454309558fda386d1ffadf494547_FORMATO.png,2,0.0,Matheus de Sales Cabral,1.8,4,2.69,10,"{'CA': 1, 'FC': 1, 'FS': 3, 'PE': 2, 'RB': 2}",6,-0.17
+89341,Nicolas Careca,284,https://s.glbimg.com/es/sde/f/2017/05/25/78e3fa64e4bf629019d9d07d738f97a2_FORMATO.png,1,-0.5,Nicolas Morês da Cruz,0.0,5,0.74,10,"{'FC': 0, 'FS': 0}",6,0.0
+89637,Thiago Maia,277,https://s.glbimg.com/es/sde/f/2016/05/01/1b2976ce2cacc26f8141ace470b05928_FORMATO.png,9,3.37,Thiago Maia Alencar,3.0,4,7.99,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 2, 'PE': 7, 'RB': 3}",2,-0.14
+89695,Iury,314,https://s.glbimg.com/es/sde/f/2017/04/28/0bdfd4fa134d2a07bf26cd328dcd9cf7_FORMATO.png,1,0.5,Iury Lirio Freitas de Castilho,0.0,5,1.6800000000000002,10,{'FS': 0},6,0.0
+89694,James Dean,292,https://s.glbimg.com/es/sde/f/2017/05/01/c92d594519fdaaff86e13dce57f1b587_FORMATO.png,0,0.0,James Dean Araújo de Lima,0.0,5,1.0,10,{},6,0.0
+89492,Saulo,263,https://s.glbimg.com/es/sde/f/2017/04/18/8fb7b68bea9068528d9381cfe5c0b32a_FORMATO.png,0,0.0,Saulo Ferreira Silva Nascimento,0.0,1,2.0,10,{},6,0.0
+90303,Lincoln,284,https://s.glbimg.com/es/sde/f/2017/04/23/a65d998797151a9c0902420f2b54857c_FORMATO.png,2,0.1,Lincoln Henrique Oliveira dos Santos,0.0,4,2.8200000000000003,10,"{'FS': 0, 'PE': 0}",7,0.0
+89815,Gustavo Ferrareis,265,https://s.glbimg.com/es/sde/f/2017/06/03/90776cfb4d59723442313134248088ac_FORMATO.png,4,2.23,Gustavo Henrique Ferrareis,0.0,4,6.43,10,"{'CA': 0, 'FC': 0, 'FF': 0, 'FS': 0, 'G': 0, 'PE': 0, 'RB': 0}",6,0.0
+89696,Romulo,314,https://s.glbimg.com/es/sde/f/2017/04/28/039439859f768160af8a4dc5be23db1b_FORMATO.png,10,3.75,Romulo dos Santos de Souza,3.7,5,10.71,10,"{'FC': 1, 'FD': 0, 'FF': 1, 'FS': 2, 'G': 0, 'I': 0, 'PE': 3, 'RB': 2}",7,0.21
+90366,Luiz Fernando ,266,https://s.glbimg.com/es/sde/f/2017/01/13/f36825a666df708c5cbbef38a333e8d7_FORMATO.png,2,1.1,Luiz Fernando Ferreira Maximiliano,0.0,4,1.94,10,"{'FS': 0, 'RB': 0}",5,0.0
+89898,Róger Guedes,275,https://s.glbimg.com/es/sde/f/2017/04/18/8320b12c035d14425a7a1685c28eea51_FORMATO.png,10,2.91,Róger Krug Guedes,-0.2,5,6.62,10,"{'A': 0, 'CA': 0, 'FC': 2, 'FD': 0, 'FF': 1, 'FS': 1, 'FT': 0, 'G': 0, 'I': 0, 'PE': 7, 'RB': 1}",6,-1.17
+89885,Leandrinho,263,https://s.glbimg.com/es/sde/f/2016/05/20/5f4b91fa5fbbd56dc1f2fe3f094cbb22_FORMATO.png,1,1.9,Leandro Alves de Carvalho,1.9,4,2.75,10,"{'FS': 1, 'PE': 1, 'RB': 1}",2,-0.25
+89871,Pisculichi,287,https://s.glbimg.com/es/sde/f/2017/02/18/c8a64d1e825d4a06c352c94d5499c77d_FORMATO.png,2,-0.55,Leonardo Pisculichi,0.0,4,4.13,10,"{'FC': 0, 'FF': 0, 'FS': 0, 'PE': 0}",6,0.0
+90061,Bruno Pacheco,373,https://s.glbimg.com/es/sde/f/2017/04/27/fcbcf7704c49830f8c99c33ecbadb435_FORMATO.png,9,2.61,Bruno de Jesus Pacheco,0.0,2,7.72,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 0, 'FS': 0, 'PE': 0, 'RB': 0, 'SG': 0}",7,0.0
+90309,David,287,https://s.glbimg.com/es/sde/f/2017/04/24/9a0112f0276ff9f2806956277d2eb848_FORMATO.png,10,1.42,David Correa da Fonseca,3.6,5,3.88,10,"{'A': 0, 'CA': 0, 'FC': 0, 'FD': 0, 'FF': 1, 'FS': 0, 'FT': 0, 'I': 1, 'PE': 0, 'RB': 2}",2,0.85
+89924,Bruno Ramires,287,https://s.glbimg.com/es/sde/f/2017/04/01/73311df2bcb4444c139cc9bfc1f16ff5_FORMATO.png,0,0.0,Bruno Edgar Silva Almeida,0.0,4,5.0,10,{},5,0.0
+90031,Mendoza,265,https://s.glbimg.com/es/sde/f/2017/06/10/728a606a119a15400905d756f24d5223_FORMATO.png,5,0.96,John Stiven Mendoza Valencia,1.7000000000000002,5,2.01,10,"{'FC': 0, 'FD': 1, 'FF': 1, 'FS': 0, 'PE': 0, 'RB': 0}",6,0.21
+89930,Andrigo,373,https://s.glbimg.com/es/sde/f/2017/05/19/78c75bce6fe9af97abe3a17761c64821_FORMATO.png,10,2.51,Andrigo Oliveira de Araujo,3.9,4,4.91,10,"{'A': 0, 'CA': 0, 'FC': 1, 'FD': 0, 'FF': 0, 'FS': 1, 'PE': 4, 'RB': 3}",7,0.71
+90285,Bruno Henrique,277,https://s.glbimg.com/es/sde/f/2017/02/19/6fc23a37c23198ad6b9da39da99ad82b_FORMATO.png,9,3.8,Bruno Henrique Pinto,1.4,5,12.33,10,"{'A': 0, 'CA': 0, 'CV': 0, 'FC': 3, 'FD': 0, 'FF': 0, 'FS': 7, 'FT': 0, 'I': 0, 'PE': 2, 'RB': 0}",2,-1.3
+89976,Geferson,287,https://s.glbimg.com/es/sde/f/2017/02/18/1797455db8d122f09c954f551c9c8350_FORMATO.png,6,4.33,Gerferson Cerqueira Teles,0.6000000000000001,2,11.09,10,"{'CA': 1, 'FC': 2, 'FD': 0, 'FF': 0, 'FS': 1, 'I': 0, 'PE': 1, 'RB': 2, 'SG': 0}",7,-0.33
+93869,Lucas França,283,https://s.glbimg.com/es/sde/f/2017/04/22/c63baf2496083057957e4f2bd2ac3847_FORMATO.png,0,0.0,Lucas Oliveira de França,0.0,1,3.0,10,{},6,0.0
